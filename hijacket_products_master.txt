@@ -1,0 +1,935 @@
+{
+  "id": "HJ-AGNEZIA",
+  "namespace": "hijacket_products",
+  "values": "<hasil_embedding_berbasis_HIJACKET_AGNEZIA>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Agnezia",
+    "kategori": "Hijacket Agnezia",
+    "status": "Limited Edition",
+    "harga_normal": 539000,
+    "harga_promo": 359000,
+    "warna": ["Black", "Maroon", "Green"],
+    "ukuran": ["L", "XL", "XXL"],
+    "material": "Micro Quilting Parachute",
+    "bahan_fitur": [
+      "50% Waterproof",
+      "Windproof",
+      "Ringan",
+      "Durabilitas tinggi",
+      "Insulasi",
+      "Estetik",
+      "Hangat & Nyaman"
+    ],
+    "modesty": true,
+    "fitur": [
+      "Folded Collar",
+      "Double Front Cover (Signature Zipper + Flap Button)",
+      "Hip Flap Pocket kanan kiri",
+      "Inside Chest Pocket",
+      "Signature Belt Hijacket",
+      "Slit Belakang (gerak & mobilitas)"
+    ],
+    "concept": "Medium Puffer Jacket, Classic Elegant",
+    "visual": "A knee-length quilted hijaber jacket with a diamond quilting pattern, wide collar, front zipper, classic flap pockets on the lower right and left, double front cover, and back slit. The jacket also features a metal signature belt tied at the waist.",
+    "target_aktivitas": [
+      "Umroh",
+      "Haji",
+      "Mengemudi",
+      "Riding",
+      "Traveling",
+      "Hangout",
+      "Formal",
+      "Pengajian"
+    ],
+    "target_audience": [
+      "Hijaber aktif",
+      "Hijaber traveler",
+      "Hijaber syar’i modern"
+    ]
+  },
+  "text": "Hijacket Agnezia adalah jaket quilted eksklusif untuk wanita muslimah yang mengutamakan kehangatan, gaya elegan, dan fungsi syar’i. Terbuat dari bahan Micro Quilting Parachute yang ringan, windproof, dan 50% waterproof, jaket ini hadir dengan desain folded collar, double front cover, serta signature belt khas Hijacket. Dilengkapi saku dalam dan luar, serta slit belakang untuk mobilitas. Tersedia dalam warna Black, Maroon, dan Green — cocok untuk aktivitas seperti umroh, haji, mengemudi, hingga acara formal. Limited Edition dengan nuansa klasik dan fungsional."
+}
+
+---
+
+{
+  "id": "HJ-BELVA",
+  "namespace": "hijacket_products",
+  "values": "<hasil_embedding_berbasis_HIJACKET_BELVA>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Belva",
+    "kategori": "Hijacket Belva",
+    "status": "Best Seller",
+    "harga_normal": 479000,
+    "harga_promo": 319000,
+    "warna": [
+      "Black Ebony", "Cloudgrey", "Goldenrod", "Grey", "Indigo Blue", "Ivory",
+      "Marigold", "Mocca", "Peach", "Red Burgundy", "Scarlett Brown", "Seaweed", "Teracotta"
+    ],
+    "ukuran": ["L", "XL", "XXL"],
+    "material": "Micro Quilting Parachute",
+    "bahan_fitur": [
+      "50% Waterproof",
+      "Windproof",
+      "Ringan",
+      "Durabilitas tinggi",
+      "Insulasi",
+      "Estetik",
+      "Hangat & Nyaman"
+    ],
+    "modesty": true,
+    "fitur": [
+      "Standing Collar",
+      "Front Closure dengan kancing aktif",
+      "Hip Patch Pocket kanan kiri",
+      "Inside Chest Pocket",
+      "Slit belakang untuk gerak",
+      "Straight cutting dan waist line di belakang"
+    ],
+    "concept": "Medium Puffer, Classic Elegant, Slim & Straight Cutting",
+    "visual": "A knee-length hijaber jacket",
+    "target_aktivitas": [
+      "Haji",
+      "Umroh",
+      "Mengemudi",
+      "Riding",
+      "Traveling",
+      "Hangout",
+      "Pengajian",
+      "Formal",
+      "Keseharian"
+    ],
+    "target_audience": [
+      "Hijaber aktif",
+      "Hijaber traveler",
+      "Muslimah bergaya slim dan modest"
+    ]
+  },
+  "text": "Hijacket Belva adalah jaket puffer muslimah dengan desain slim dan straight cutting yang anggun dan modern. Terbuat dari bahan Micro Quilting Parachute yang tahan cuaca dan nyaman dipakai harian maupun ibadah. Dilengkapi standing collar, front button closure, kantong luar dan dalam, serta slit belakang yang mendukung mobilitas. Dengan pilihan warna yang sangat variatif, Hijacket Belva cocok digunakan untuk aktivitas haji, umroh, mengemudi, traveling, hingga keseharian wanita muslimah. Desainnya yang syar’i, klasik, dan elegan menjadikannya best seller favorit hijaber."
+}
+
+---
+
+{
+  "id": "HJ-ELEKTRA",
+  "namespace": "hijacket_products",
+  "values": "<hasil_embedding_berbasis_HIJACKET_ELEKTRA>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Elektra",
+    "kategori": "Hijacket Elektra",
+    "status": "Best Seller",
+    "harga_normal": 285000,
+    "harga_promo": 219000,
+    "warna": [
+      "Black", "Brown", "Brown Misty", "Burgundy", "Green", "Grey", "Teracotta"
+    ],
+    "ukuran": ["L", "XL", "XXL"],
+    "material": "Fleece Premium",
+    "bahan_fitur": [
+      "Halus", "Lembut", "Hangat", "Nyaman",
+      "Tidak berkerut", "Awet"
+    ],
+    "modesty": true,
+    "fitur": [
+      "Hoodie 2 lapis (adjustable & eksklusif) + tali hoodie signature metal tag",
+      "Front closure: Signature zipper aktif",
+      "Handsock: Perlindungan ekstra, stylish & tanpa sarung tangan",
+      "Waist pocket kanan kiri dengan potongan curve",
+      "Potongan curve untuk slim & elegant look"
+    ],
+    "concept": "Jacket, Classic Elegant",
+    "visual": "A knee-length hijaber jacket",
+    "target_aktivitas": [
+      "Mengemudi", "Riding", "Umroh", "Haji",
+      "Traveling", "Hangout", "Tracking", "Keseharian"
+    ],
+    "target_audience": [
+      "Hijaber aktif", "Hijaber traveler", "Muslimah stylish harian"
+    ]
+  },
+  "text": "Hijacket Elektra adalah jaket muslimah premium dengan konsep klasik elegan, dibuat dari bahan fleece premium yang lembut, hangat, dan anti-kerut. Desainnya panjang dan menutup aurat dengan sempurna, dilengkapi hoodie eksklusif 2 lapis, handsock stylish, serta potongan curve yang membentuk siluet slim namun tetap syar’i. Jaket ini sangat ideal untuk aktivitas sehari-hari seperti mengemudi, riding, hangout, umroh, haji, hingga tracking. Tersedia dalam banyak pilihan warna earthy dan feminin seperti Black, Brown Misty, dan Burgundy."
+}
+
+---
+
+{
+  "id": "HJ-IXORA",
+  "namespace": "hijacket_products",
+  "values": "<hasil_embedding_berbasis_HIJACKET_IXORA>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Ixora",
+    "kategori": "Hijacket Ixora",
+    "status": "Best Seller",
+    "harga_normal": 315000,
+    "harga_promo": 299000,
+    "warna": [
+      "Black", "Bondi Green", "Candy Pink", "Coldgrey", "Cream",
+      "Crimson", "Deep Pink", "Goldenrod", "Snow"
+    ],
+    "ukuran": ["L", "XL", "XXL"],
+    "material": "Taslan Parachute + Dourmil Dacron inner",
+    "bahan_fitur": [
+      "75% Waterproof",
+      "Windproof",
+      "Ringan",
+      "Durabilitas tinggi",
+      "Insulasi termal",
+      "Estetik",
+      "Hangat & Nyaman"
+    ],
+    "modesty": true,
+    "fitur": [
+      "Modesty panjang menutup aurat",
+      "Double front cover (Zipper + Flap Button)",
+      "Hoodie 2 lapis adjustable dengan tali metal tag",
+      "Hip flap pocket kanan kiri",
+      "Inside chest pocket",
+      "Slit belakang untuk mobilitas",
+      "Desain Color Block yang bold",
+      "Unisex (bisa dipakai pria)"
+    ],
+    "concept": "Parka, Classic Elegant",
+    "visual": "A knee-length hijaber jacket parka",
+    "target_aktivitas": [
+      "Traveling", "Haji", "Umroh", "Riding", "Naik Gunung"
+    ],
+    "target_audience": [
+      "Hijaber aktif",
+      "Hijaber traveler",
+      "Muslimah pecinta alam",
+      "Unisex (bisa juga untuk pria)"
+    ]
+  },
+  "text": "Hijacket Ixora adalah parka syar’i dengan desain bold dan fungsional untuk hijaber dan pria aktif. Terbuat dari Taslan Parachute dengan inner Dourmil Dacron yang memberikan insulasi hangat, ringan, dan tahan cuaca. Dilengkapi double closure, hoodie 2 lapis, kantong luar-dalam, serta slit belakang untuk mobilitas tinggi. Desain color block menjadikannya statement piece yang ideal untuk traveling, naik gunung, atau ibadah haji dan umroh. Hijacket Ixora menyatukan fungsionalitas ekstrem dengan tampilan klasik elegan."
+}
+
+---
+
+{
+  "id": "HJ-MONTIX",
+  "namespace": "hijacket_products",
+  "values": "<hasil_embedding_berbasis_HIJACKET_MONTIX>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Montix",
+    "kategori": "Hijacket Montix",
+    "status": "Limited Edition",
+    "harga_normal": 315000,
+    "harga_promo": 299000,
+    "warna": [
+      "Black", "Brown", "Cream", "Grey", "Imperial",
+      "Mossgreen", "Navy", "Teracotta"
+    ],
+    "ukuran": ["L", "XL", "XXL"],
+    "material": "Taslan Parachute + Inner Dourmil Dacron",
+    "bahan_fitur": [
+      "75% Waterproof", "Windproof", "Ringan",
+      "Durabilitas tinggi", "Insulasi termal",
+      "Estetik", "Hangat", "Nyaman"
+    ],
+    "modesty": true,
+    "fitur": [
+      "Hoodie 2 lapis adjustable + Cord Lock",
+      "Double front cover: Signature Zipper + Flap Button",
+      "Ribbed cuffs: nyaman & menahan udara",
+      "Hip flap pocket kanan kiri",
+      "Inside chest pocket",
+      "Tali pinggang adjustable dengan stopper",
+      "Slit belakang untuk mobilitas",
+      "Color block design: statement look",
+      "Signature Hijacket sign di tangan",
+      "Unisex (bisa dipakai pria)"
+    ],
+    "concept": "Parka, Sporty Casual",
+    "visual": "A knee-length hijaber jacket",
+    "target_aktivitas": [
+      "Naik Gunung", "Riding", "Mengemudi",
+      "Umroh", "Haji", "Traveling"
+    ],
+    "target_audience": [
+      "Hijaber sporty",
+      "Hijaber traveler",
+      "Muslimah pecinta alam",
+      "Unisex (pria & wanita)"
+    ]
+  },
+  "text": "Hijacket Montix adalah jaket parka sporty syar’i yang dirancang khusus untuk hijaber dan pria aktif. Terbuat dari Taslan Parachute yang ringan, tahan cuaca, serta dilapisi Dourmil Dacron untuk insulasi hangat. Dilengkapi hoodie dua lapis dengan cord lock, ribbed cuffs, tali pinggang adjustable, dan fitur signature Hijacket di tangan. Potongan panjang dengan desain color block menjadikan Montix tampil bold dan ramping. Cocok untuk naik gunung, riding, traveling, hingga ibadah. Produk unisex dengan kombinasi fungsi ekstrem dan estetika syar’i."
+}
+
+---
+
+{
+  "id": "HJ-ARA",
+  "namespace": "hijacket_products",
+  "values": "<hasil_embedding_berbasis_HIJACKET_ARA>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Ara",
+    "kategori": "Hijacket Ara",
+    "status": "Big Sale",
+    "harga_normal": 305000,
+    "harga_promo": 149000,
+    "warna": [
+      "Black", "Cream", "Denim", "Dusty Pink", 
+      "Maroon", "Mint", "Purple", "Teracotta"
+    ],
+    "ukuran": ["All Size (LD 120 cm)"],
+    "material": "Tidak disebutkan", 
+    "modesty": true,
+    "fitur": [
+      "Lengan oversize bubble",
+      "Penutup dada dengan tali dapat dikreasikan",
+      "Desain longgar dan fit"
+    ],
+    "concept": "Outer modesty, casual formal",
+    "visual": "A knee-length hijaber outer",
+    "target_aktivitas": [
+      "Traveling", "Mengemudi", "Hangout", 
+      "Pengajian", "Keseharian", "Kantoran"
+    ],
+    "target_audience": [
+      "Hijaber aktif",
+      "Hijaber casual",
+      "Hijaber modest professional"
+    ]
+  },
+  "text": "Hijacket Ara adalah outerwear muslimah yang ringan dan fleksibel dengan potongan panjang menutup aurat. Didesain dengan lengan oversize bubble dan penutup dada berupa tali yang bisa dikreasikan sesuai gaya muslimah. Cocok digunakan dalam berbagai suasana seperti hangout, pengajian, hingga aktivitas kantoran. Dengan ukuran all size hingga LD 120 cm, Hijacket Ara tetap fit dan nyaman dikenakan sehari-hari. Tersedia dalam warna feminin dan kalem seperti Dusty Pink, Maroon, Mint, dan lainnya. Saat ini tersedia dalam promo Big Sale spesial."
+}
+
+---
+
+{
+  "id": "HJ-SHAFA",
+  "namespace": "hijacket_products",
+  "values": "<hasil_embedding_berbasis_HIJACKET_SHAFA>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Shafa",
+    "kategori": "Hijacket Shafa",
+    "status": "Must Have",
+    "harga_normal": 529000,
+    "harga_promo": 349000,
+    "warna": ["Black", "Brown", "Mint"],
+    "ukuran": ["L", "XL", "XXL"],
+    "material": "Premium Quilted Knit",
+    "bahan_fitur": ["Halus", "Lembut", "Quilting motif wajid", "Hangat", "Slim look"],
+    "modesty": true,
+    "fitur": [
+      "Blazer Collar",
+      "Side seam pocket kanan kiri",
+      "Front & back closure dengan signature button aktif",
+      "Motif Quilting Wajid yang memberi kesan ramping"
+    ],
+    "concept": "Coat, Classic Elegant",
+    "visual": "A knee-length hijaber coat",
+    "target_aktivitas": [
+      "Mengemudi", "Umroh", "Haji",
+      "Traveling", "Formal", "Pengajian", "Hangout"
+    ],
+    "target_audience": [
+      "Hijaber elegan",
+      "Hijaber profesional",
+      "Hijaber traveler yang stylish dan syar’i"
+    ]
+  },
+  "text": "Hijacket Shafa adalah coat muslimah dengan desain elegan klasik dan potongan panjang yang memenuhi kebutuhan modesty. Didesain menggunakan bahan Premium Quilted Knit yang halus dan lembut, serta motif quilting wajid yang memberi efek slim. Fitur blazer collar, kancing aktif di depan dan belakang, serta kantong samping kanan kiri menjadikannya pilihan ideal untuk aktivitas formal, ibadah, hingga keseharian hijaber. Warna-warna netral seperti Black, Brown, dan Mint membuat Shafa cocok dipadukan dengan berbagai gaya."
+}
+
+---
+
+
+{
+  "id": "HJ-MARWAH",
+  "namespace": "hijacket_products",
+  "values": "<hasil_embedding_berbasis_HIJACKET_MARWAH>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Marwah",
+    "kategori": "Hijacket Marwah",
+    "status": "Best Seller",
+    "harga_normal": 395000,
+    "harga_promo": 349000,
+    "warna": ["Black", "Brown", "Mint"],
+    "ukuran": ["L", "XL", "XXL"],
+    "material": "Premium Quilted Knit",
+    "bahan_fitur": [
+      "Halus", "Lembut", "Motif Quilting Wajid", 
+      "Curve bottom", "Straight cut", "Slim Look"
+    ],
+    "modesty": true,
+    "fitur": [
+      "Standing Collar",
+      "Double front cover: Signature zipper & flap snap button",
+      "Handsock: perlindungan & kenyamanan ekstra",
+      "Waist slit pocket kanan kiri",
+      "Potongan curve bawah & straight cut ramping"
+    ],
+    "concept": "Jacket, Feminime Romantic",
+    "visual": "A knee-length hijaber jacket with romantic style",
+    "target_aktivitas": [
+      "Mengemudi", "Umroh", "Haji",
+      "Traveling", "Riding", "Hangout", "Pengajian"
+    ],
+    "target_audience": [
+      "Hijaber romantis & feminin",
+      "Hijaber aktif",
+      "Hijaber traveler"
+    ]
+  },
+  "text": "Hijacket Marwah adalah jaket panjang yang memadukan kehangatan, keanggunan, dan modesty secara sempurna. Terbuat dari bahan Premium Quilted Knit yang halus dan lembut, dengan motif Quilting Wajid khas yang memberi kesan ramping dan elegan. Dilengkapi standing collar, double closure, handsock stylish, hingga potongan curve dan straight cut ramping. Sangat ideal untuk muslimah yang menginginkan jaket fungsional namun tetap feminin untuk berkendara, umroh, pengajian, atau traveling."
+}
+
+---
+
+
+{
+  "id": "HJ-SYLVANIA",
+  "namespace": "hijacket_products",
+  "values": "<hasil_embedding_berbasis_HIJACKET_SYLVANIA>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Sylvania",
+    "kategori": "Hijacket Sylvania",
+    "status": "Best Seller",
+    "harga_normal": 259000,
+    "harga_promo": 169000,
+    "warna": [
+      "Black", "Khaky", "Lavender", "Marigold", 
+      "Maroon", "Navy", "Olive"
+    ],
+    "ukuran": ["All Size (LD sampai 120 cm)"],
+    "material": "Premium Hornet Knit",
+    "bahan_fitur": [
+      "Halus", "Lembut", "Hangat", 
+      "Vertikal motif", "Slim effect", "Curve bottom"
+    ],
+    "modesty": true,
+    "fitur": [
+      "Hoodie besar & elegan",
+      "Single signature button di dada",
+      "Lengan batwing",
+      "Loose handsock untuk perlindungan dan kenyamanan ekstra",
+      "Single hip patch pocket kiri",
+      "Bawah curve feminim"
+    ],
+    "concept": "Cardigan, Sporty Casual",
+    "visual": "A knee-length hijaber jacket",
+    "target_aktivitas": [
+      "Umroh", "Mengemudi", "Haji",
+      "Traveling", "Hangout", "Pengajian"
+    ],
+    "target_audience": [
+      "Hijaber aktif",
+      "Hijaber traveler",
+      "Muslimah casual sporty"
+    ]
+  },
+  "text": "Hijacket Sylvania adalah cardigan sporty dengan nuansa feminin dan potongan panjang yang menjaga aurat secara optimal. Dibuat dari bahan Premium Hornet Knit yang halus, lembut, dan nyaman, Sylvania dilengkapi hoodie besar, signature button di dada, lengan batwing, dan handsock longgar. Aksen motif vertikal dan potongan curve bawah memberi ilusi ramping dan elegan. Sangat ideal untuk aktivitas ibadah seperti umroh dan haji, juga cocok dipakai harian oleh hijaber aktif dan stylish."
+}
+
+--
+
+{
+  "id": "HJ-KHADIJAH",
+  "namespace": "hijacket_products",
+  "values": "<hasil_embedding_berbasis_HIJACKET_KHADIJAH>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Khadijah",
+    "kategori": "Hijacket Khadijah",
+    "status": "Limited Edition",
+    "harga_normal": 359000,
+    "harga_promo": 239000,
+    "warna": [
+      "Black", "Broken White", "Crystal Pink", "Mint", "Mocca"
+    ],
+    "ukuran": ["All Size (LD sampai 120 cm)"],
+    "material": "Premium Lonzo Knit",
+    "bahan_fitur": ["Halus", "Sejuk", "Lembut", "Nyaman", "Longgar"],
+    "modesty": true,
+    "fitur": [
+      "Full button closure dengan signature look",
+      "Lengan oversize dan drop shoulder",
+      "Handsock longgar untuk perlindungan ekstra",
+      "Hip patch pocket kanan kiri",
+      "Desain panjang dan loose fit"
+    ],
+    "concept": "Cardigan, Classic Elegant",
+    "visual": "A knee-length hijaber outer, cardigan",
+    "target_aktivitas": [
+      "Pengajian", "Formal", "Semi Formal",
+      "Mengemudi", "Riding", "Traveling", "Hangout",
+      "Umroh", "Haji"
+    ],
+    "target_audience": [
+      "Hijaber elegan",
+      "Hijaber dewasa & profesional",
+      "Muslimah yang aktif dan rapi"
+    ]
+  },
+  "text": "Hijacket Khadijah adalah cardigan panjang muslimah dengan kesan klasik elegan dan sentuhan kenyamanan maksimal. Didesain dari bahan Premium Lonzo Knit yang sejuk dan lembut, dilengkapi full button aktif, lengan oversize drop shoulder, serta handsock longgar. Desainnya loose fit dengan patch pocket kanan kiri menjadikannya sempurna untuk digunakan dalam aktivitas ibadah, acara formal, maupun keseharian hijaber aktif. Warna kalem seperti Crystal Pink dan Mocca menambah kesan feminin syar’i."
+}
+
+---
+
+{
+  "id": "HJ-TIFANNIA",
+  "namespace": "hijacket_products",
+  "values": "<hasil_embedding_berbasis_HIJACKET_TIFANNIA>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Tifannia",
+    "kategori": "Hijacket Tifannia",
+    "status": "Best Seller",
+    "harga_normal": 329000,
+    "harga_promo": 219000,
+    "warna": ["Black", "Khaky", "Navy", "Olive"],
+    "ukuran": ["All Size (LD sampai 120 cm, Panjang 110 cm)"],
+    "material": "Premium Hornet Knit",
+    "bahan_fitur": ["Halus", "Lembut", "Hangat", "Slim Look", "Vertikal Motif"],
+    "modesty": true,
+    "fitur": [
+      "Front closure: Tali pinggang adjustable",
+      "Lengan batwing",
+      "Handsock dengan horizontal hole",
+      "Split kangaroo pocket kanan kiri",
+      "Slit kanan kiri untuk keluwesan gerak",
+      "Motif vertikal ramping"
+    ],
+    "concept": "Cardigan, Feminime Romantic",
+    "visual": "A knee-length hijaber jacket",
+    "target_aktivitas": [
+      "Umroh", "Mengemudi", "Haji",
+      "Traveling", "Hangout", "Pengajian"
+    ],
+    "target_audience": [
+      "Hijaber feminin & romantis",
+      "Muslimah traveler",
+      "Hijaber aktif yang tetap ingin tampil syar’i"
+    ]
+  },
+  "text": "Hijacket Tifannia adalah cardigan muslimah dengan kesan feminin-romantis, cocok untuk berbagai aktivitas mulai dari ibadah seperti umroh hingga hangout harian. Terbuat dari bahan Premium Hornet Knit yang halus dan lembut, dilengkapi dengan tali pinggang adjustable, lengan batwing, handsock berlubang horizontal, dan saku split kangaroo. Desain vertikal motif dan slit kanan kiri memberi efek ramping dan gerak leluasa, menjadikannya pilihan ideal untuk wanita muslimah modern yang ingin tampil stylish namun tetap syar’i."
+}
+
+---
+
+{
+  "id": "HJ-GENOVA",
+  "namespace": "hijacket_products",
+  "values": "<hasil_embedding_berbasis_HIJACKET_GENOVA>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Genova",
+    "kategori": "Hijacket Genova",
+    "status": "Must Have",
+    "harga_normal": 569000,
+    "harga_promo": 379000,
+    "warna": ["Black", "Mocca"],
+    "ukuran": ["Size: L, XL, XXL"],
+    "modesty": true,
+    "material": [
+      "Look 1: Micro Quilting Parachute (75% waterproof, windproof, insulasi, nyaman)",
+      "Look 2: Fleece Premium (halus, lembut, hangat, tidak berkerut)"
+    ],
+    "fitur": [
+      "Modesty length & coverage lengkap",
+      "Reversible Jacket: dua tampilan dalam satu",
+      "Hoodie 2 lapis dengan cord lock, tebal & adjustable",
+      "Front closure dengan reversible zipper aktif",
+      "Ribbed cuffs untuk kenyamanan & cegah udara masuk",
+      "Slit belakang untuk mobilitas optimal",
+      "Look 1: waist pocket kanan kiri dengan alloy snap button",
+      "Look 2: fleece + waist patch pocket kanan kiri"
+    ],
+    "concept": "Medium Puffer Jacket, Sporty Casual",
+    "visual": "A knee-length hijaber jacket",
+    "target_aktivitas": [
+      "Naik Gunung", "Mengemudi", "Traveling",
+      "Haji", "Riding", "Umroh", "Pengajian"
+    ],
+    "target_audience": [
+      "Hijaber aktif",
+      "Hijaber traveler",
+      "Hijaber outdoor & ibadah enthusiast"
+    ]
+  },
+  "text": "Hijacket Genova adalah medium puffer jacket reversible yang dirancang khusus untuk wanita muslimah aktif dan stylish. Dengan desain bolak-balik, jaket ini menyuguhkan dua tampilan berbeda: Look 1 menggunakan bahan Micro Quilting Parachute tahan cuaca, dan Look 2 menggunakan Fleece Premium yang lembut dan hangat. Dilengkapi hoodie 2 lapis, ribbed cuffs, dan zipper bolak-balik yang praktis. Cocok digunakan saat traveling, naik gunung, hingga aktivitas ibadah seperti umroh & haji. Tersedia dalam dua warna elegan: Black & Mocca."
+}
+
+---
+
+{
+  "id": "HJ-DAYANA",
+  "namespace": "hijacket_products",
+  "values": "<hasil_embedding_berbasis_HIJACKET_DAYANA>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Dayana",
+    "kategori": "Hijacket Dayana",
+    "status": "Must Have",
+    "harga_normal": 259000,
+    "harga_promo": 169000,
+    "warna": ["Black", "Broken White", "Brown", "Denim"],
+    "ukuran": ["All Size (LD sampai 120 cm)"],
+    "material": "Scuba (halus dan sejuk)",
+    "bahan_fitur": ["Halus", "Sejuk", "Elastis", "Jatuh", "Rapi"],
+    "modesty": true,
+    "fitur": [
+      "Modesty length – menutup aurat secara menyeluruh",
+      "Desain open closure yang praktis dan simple",
+      "Lengan oversize & drop shoulder, memberikan kesan formal nan nyaman",
+      "Hip patch pocket kanan kiri",
+      "Wudhu friendly – tidak mengganggu saat beribadah"
+    ],
+    "concept": "Cardigan, Classic Elegant, Formal",
+    "visual": "A knee-length hijaber outer",
+    "target_aktivitas": [
+      "Formal", "Semi Formal", "Mengemudi",
+      "Hangout", "Pengajian", "Traveling", "Kantoran"
+    ],
+    "target_audience": [
+      "Hijaber profesional",
+      "Hijaber kantoran",
+      "Muslimah yang butuh outer simple tapi sopan"
+    ]
+  },
+  "text": "Hijacket Dayana adalah outer formal muslimah yang dirancang dengan desain modesty dan elegan. Menggunakan bahan scuba yang halus dan sejuk, Dayana hadir dengan potongan panjang yang menutup aurat secara optimal, lengan oversize drop shoulder, dan saku kanan kiri. Open closure style menjadikannya praktis untuk berbagai kegiatan dari pengajian hingga ke kantor. Pilihan warna Black, Broken White, Brown, dan Denim cocok untuk hijaber yang ingin tampil simple namun tetap syar’i."
+}
+
+---
+
+{
+  "id": "HJ-AISYA",
+  "namespace": "hijacket_products",
+  "values": "<hasil_embedding_berbasis_HIJACKET_AISYA>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Aisya",
+    "kategori": "Hijacket Aisya",
+    "status": "Best Seller",
+    "harga_normal": 359000,
+    "harga_promo": 239000,
+    "warna": ["Black", "Brown", "Denim", "Lavender", "Red"],
+    "ukuran": ["LD Free Size"],
+    "material": "Premium Coco Knit",
+    "bahan_fitur": ["Halus", "Lembut", "Hangat", "Flowy", "Elegan"],
+    "modesty": true,
+    "fitur": [
+      "Modesty Length: panjang dan menutup aurat",
+      "Cape style dengan potongan half round elegan",
+      "Hoodie besar, hangat & eksklusif",
+      "Front closure dengan signature zipper aktif",
+      "Lengan batwing 3/4: stylish dan tetap syar’i",
+      "Saku hip patch kanan kiri",
+      "Wudhu friendly"
+    ],
+    "concept": "Cape, Feminime Romantic, Syari",
+    "visual": "A knee-length hijaber Outer, Cape",
+    "target_aktivitas": [
+      "Mengemudi", "Umroh", "Haji", "Traveling",
+      "Formal", "Hangout", "Pengajian",
+      "Archery", "Equestrian", "Gym", "Tracking"
+    ],
+    "target_audience": [
+      "Hijaber syar’i aktif",
+      "Hijaber feminin & sporty",
+      "Muslimah traveler yang butuh cape santun"
+    ]
+  },
+  "text": "Hijacket Aisya adalah cape premium bergaya syar’i yang dirancang untuk muslimah aktif dan tetap feminin. Menggunakan bahan Coco Knit yang halus dan lembut, Aisya hadir dengan potongan modesty dan detail half round yang elegan. Lengan batwing 3/4 dan hoodie eksklusif menambah nilai stylish sekaligus fungsional, cocok untuk aktivitas seperti umroh, riding, gym, hingga pengajian. Tersedia dalam warna elegan seperti Black, Brown, dan Lavender."
+}
+
+---
+
+{
+  "id": "HJ-KAULA",
+  "namespace": "hijacket_products",
+  "values": "<hasil_embedding_berbasis_HIJACKET_KAULA>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Kaula",
+    "kategori": "Hijacket Kaula",
+    "status": "Best Seller",
+    "harga_normal": 359000,
+    "harga_promo": 239000,
+    "warna": ["Black", "Brown", "Lavender"],
+    "ukuran": ["LD 120, Fit"],
+    "material": "Premium Coco Knit",
+    "bahan_fitur": ["Halus", "Lembut", "Nyaman", "Hangat"],
+    "modesty": true,
+    "fitur": [
+      "Modesty length – panjang menutup aurat",
+      "Cardigan klasik elegan dengan full kancing signature",
+      "Front closure: Signature button aktif",
+      "Lengan oversize + drop shoulder",
+      "Ribbed cuffs: nyaman dan tahan udara masuk",
+      "Hip patch pocket kanan kiri",
+      "Aksen contrast stitch: menambah kesan modis",
+      "Wudhu friendly"
+    ],
+    "concept": "Cardigan, Classic Elegant",
+    "visual": "A knee-length hijaber Outer",
+    "target_aktivitas": [
+      "Umroh", "Haji", "Traveling", "Formal",
+      "Hangout", "Pengajian", "Mengemudi"
+    ],
+    "target_audience": [
+      "Hijaber syar’i yang aktif",
+      "Muslimah formal & modest",
+      "Hijaber traveler dan pengajian look"
+    ]
+  },
+  "text": "Hijacket Kaula merupakan outer cardigan premium dengan nuansa klasik elegan, didesain khusus untuk wanita muslimah yang aktif namun tetap menjaga kesopanan. Menggunakan bahan Coco Knit premium yang halus dan lembut, Kaula dilengkapi dengan full kancing signature, lengan oversize, ribbed cuffs, dan aksen contrast stitch. Warna Black, Brown, dan Lavender memberikan kesan hangat namun tetap stylish. Cocok untuk umroh, haji, hangout, hingga kegiatan formal muslimah."
+}
+
+---
+
+{
+  "id": "HJ-GLIDE",
+  "namespace": "hijacket_products",
+  "values": "<hasil_embedding_berbasis_HIJACKET_GLIDE>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Glide",
+    "kategori": "Hijacket Glide",
+    "status": "Must Have",
+    "harga_normal": 379000,
+    "harga_promo": 249000,
+    "warna": ["Forest Haze", "Graphite Shadow", "Midnight Saga"],
+    "ukuran": ["LD 120, Fit"],
+    "material": "Despo Parachute + Inner Net",
+    "bahan_fitur": [
+      "50% Waterproof", "Windproof", "Ringan", "Durabilitas tinggi",
+      "Insulasi", "Estetik", "Hangat", "Nyaman", "Sirkulasi udara"
+    ],
+    "modesty": true,
+    "fitur": [
+      "Modesty length: panjang menutup aurat",
+      "Tracktop dengan look sporty casual",
+      "Inner net untuk sirkulasi udara & kelembapan",
+      "Double-layer hoodie dengan cord lock",
+      "Front closure: signature zipper dengan neck safety",
+      "Lengan oversize + drop shoulder",
+      "Ribbed cuffs elastis: kenyamanan dan tahan udara",
+      "Waist slit pocket dengan zipper (kanan-kiri)",
+      "Slit belakang untuk mobilitas",
+      "Wudhu friendly",
+      "Packable: bisa dilipat ke ukuran kecil",
+      "Unisex: Bisa digunakan pria"
+    ],
+    "concept": "Tracktop, Sporty Casual",
+    "visual": "A knee-length hijaber light tracktop jacket",
+    "target_aktivitas": [
+      "Traveling", "Olahraga", "Riding", "Umroh", "Haji", "Hangout", "Mengemudi"
+    ],
+    "target_audience": [
+      "Hijaber sporty & aktif",
+      "Hijaber traveler",
+      "Muslimah yang suka perlindungan ringan dan praktis"
+    ]
+  },
+  "text": "Hijacket Glide adalah tracktop hijaber ringan dan praktis dengan desain sporty casual. Menggunakan bahan Despo Parachute yang tahan angin dan 50% waterproof, Glide dilengkapi inner net untuk aliran udara, hoodie 2 lapis dengan cord lock, dan ribbed cuffs elastis. Sangat cocok untuk aktivitas luar seperti traveling, olahraga, atau berkendara. Modesty-friendly dan packable, Hijacket Glide juga bisa digunakan oleh pria."
+}
+
+---
+
+{
+  "id": "HJ-BATARI",
+  "namespace": "hijacket_products",
+  "values": "<hasil_embedding_berbasis_HIJACKET_BATARI>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Batari",
+    "kategori": "Hijacket Batari",
+    "status": "New",
+    "harga_normal": 379000,
+    "harga_promo": 379000,
+    "warna": ["Beige Gold", "Black Onyx", "Misty Gray"],
+    "ukuran": ["LD 120"],
+    "material": "Fleece Premium",
+    "modesty": true,
+    "concept": "Sweatshirt, Sporty Casual",
+    "koleksi": "JMFW2024",
+    "fitur": [
+      "Modesty length: menutup aurat dan panjang",
+      "Jumper hoodie fashionable khas JMFW 2024",
+      "Hoodie 2 lapis dengan gold alloy tag – adjustable dan eksklusif",
+      "Crossfront collar untuk desain unik dan hangat",
+      "Lengan oversize, ribbed cuffs, dan nyaman",
+      "Signature emboss logo Hijacket di kedua tangan",
+      "Side seam pocket kanan kiri",
+      "Unisex: Bisa digunakan pria"
+    ],
+    "visual": "A knee-length hijaber sweatshirt",
+    "target_aktivitas": [
+      "Umroh", "Haji", "Riding", "Traveling", "Hangout", "Pengajian", "Keseharian"
+    ],
+    "target_audience": [
+      "Hijaber sporty", "Hijaber pengajian", "Hijaber traveler", "Hijaber fashionista"
+    ]
+  },
+  "text": "Hijacket Batari adalah sweatshirt panjang dengan desain sporty casual yang termasuk dalam koleksi JMFW 2024. Menggunakan bahan fleece premium yang hangat dan lembut, Batari memiliki hoodie 2 lapis dengan gold alloy tag, crossfront collar unik, serta signature emboss Hijacket di kedua lengan. Cocok untuk muslimah aktif yang mengutamakan kenyamanan dan gaya dalam keseharian maupun perjalanan spiritual."
+}
+
+---
+
+{
+  "id": "HJ-NAYARA",
+  "namespace": "hijacket_products",
+  "values": "<hasil_embedding_berbasis_HIJACKET_NAYARA>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Nayara",
+    "kategori": "Hijaber Jacket",
+    "status": "Best Seller",
+    "harga_normal": 439000,
+    "harga_promo": 349000,
+    "warna": ["Beige Gold", "Black Onyx"],
+    "ukuran": ["LD 120"],
+    "material": "Fleece Premium",
+    "modesty": true,
+    "concept": "Feminime Romantic, Classic Elegant",
+    "fitur": [
+      "Modesty Length dan Coverage Lengkap: Menutup aurat, panjang, dan sopan",
+      "Hoodie 2 lapis, adjustable dan eksklusif",
+      "Front Closure: Signature Zipper + Gold Alloy Double Snap Button",
+      "Lengan oversize dengan drop shoulder",
+      "Handsock: stylish, fungsional, dan nyaman tanpa sarung tangan",
+      "Waist slit pocket kanan kiri",
+      "Potongan curve bawah, memberi kesan ramping dan feminin"
+    ],
+    "visual": "A knee-length hijaber jacket",
+    "target_aktivitas": [
+      "Umroh", "Haji", "Riding", "Traveling", "Hangout", "Formal", "Pengajian", "Keseharian", "Kantoran", "Semi Formal"
+    ],
+    "target_audience": [
+      "Hijaber profesional", "Hijaber traveler", "Hijaber stylish", "Muslimah yang aktif"
+    ]
+  },
+  "text": "Hijacket Nayara adalah jaket panjang wanita muslimah yang memadukan konsep feminin romantic dan classic elegant. Dibuat dari fleece premium, Nayara hadir dengan potongan curve yang ramping, hoodie 2 lapis elegan, dan signature zipper closure dengan gold alloy snap button. Didesain khusus untuk kenyamanan aktivitas Umroh, Haji, traveling, hingga keseharian muslimah modern."
+}
+
+---
+
+{
+  "id": "HJ-MARYAM",
+  "namespace": "hijacket_products",
+  "values": "<hasil_embedding_berbasis_HIJACKET_MARYAM>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Maryam",
+    "kategori": "Hijaber Jacket",
+    "status": "New",
+    "harga_normal": 419000,
+    "harga_promo": 349000,
+    "warna": ["Black", "Cream", "Skyblue"],
+    "ukuran": ["LD 125"],
+    "material": "Premium Showery Knit",
+    "modesty": true,
+    "concept": "Feminime Romantic, Jaket Tudung",
+    "fitur": [
+      "Modesty Length dan Coverage Lengkap: Panjang dan menutup aurat",
+      "Hoodie multifungsi: bisa menjadi tudung/hijab",
+      "Signature Zipper: front closure aktif",
+      "Lengan oversize + drop shoulder: nyaman dan stylish",
+      "Ribbed Cuffs: elastis, tahan angin",
+      "Split Kangaroo Pocket: kanan kiri",
+      "Slit kanan kiri: memberi keleluasaan gerak",
+      "Wudhu Friendly"
+    ],
+    "visual": "A knee-length hijaber jacket",
+    "target_aktivitas": [
+      "Mengemudi", "Umroh", "Haji", "Traveling", "Riding", "Hangout", "Pengajian"
+    ],
+    "target_audience": [
+      "Hijaber traveler", 
+      "Muslimah aktif", 
+      "Hijaber pengajian", 
+      "Wanita stylish dan syar’i"
+    ]
+  },
+  "text": "Hijacket Maryam adalah jaket panjang syar’i untuk wanita muslimah dengan tampilan feminim romantic. Dilengkapi dengan tudung multifungsi yang bisa dijadikan hijab, material premium knit yang lembut dan hangat, serta fitur wudhu-friendly. Cocok untuk Umroh, Haji, dan aktivitas harian yang tetap ingin tampil elegan dan syar’i."
+}
+
+---
+
+{
+  "id": "HJ-VERSA",
+  "namespace": "hijacket_products",
+  "values": "<hasil_embedding_berbasis_HIJACKET_VERSA>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Versa",
+    "kategori": "Hijaber Outer",
+    "status": "New",
+    "harga_normal": 519000,
+    "harga_promo": 419000,
+    "warna": ["Black", "Cream", "Skyblue"],
+    "ukuran": ["LD 120"],
+    "material": "Premium Showery Knit",
+    "modesty": true,
+    "concept": "Coat, Arty of Beat, Wraping, 3-in-One Look",
+    "fitur": [
+      "Modesty Length dan Coverage Lengkap: Panjang dan menutup aurat",
+      "Shawl Collar: anggun dan menutup leher",
+      "Double D Ring: Front Closure modern",
+      "Lengan drop shoulder & oversize: nyaman dan stylish",
+      "Handsock dengan lubang horizontal: tanpa perlu sarung tangan",
+      "Side Seam Pocket: kanan kiri fungsional"
+    ],
+    "visual": "A knee-length hijaber Outer",
+    "target_aktivitas": [
+      "Umroh", "Haji", "Riding", "Traveling", "Mengemudi", "Pengajian"
+    ],
+    "target_audience": [
+      "Hijaber traveler",
+      "Muslimah syar’i aktif",
+      "Hijaber pengajian",
+      "Wanita stylish dan modest"
+    ]
+  },
+  "text": "Hijacket Versa adalah outer dengan konsep wraping 3-in-1 look yang elegan dan multifungsi. Didesain khusus untuk wanita muslimah yang ingin tetap tampil chic dan syar’i. Terbuat dari bahan Showery Knit premium, dilengkapi fitur handsock, double D ring closure, dan shawl collar. Ideal untuk ibadah, perjalanan, hingga tampilan formal muslimah."
+}
+
+---
+
+{
+  "id": "HJ-EZZENZA",
+  "namespace": "hijacket_products",
+  "values": "<hasil_embedding_berbasis_HIJACKET_EZZENZA>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Ezzenza",
+    "kategori": "Hijaber Light Jacket",
+    "status": "New",
+    "harga_normal": 229000,
+    "harga_promo": 149000,
+    "warna": ["Black", "Burgundy", "Dusty Pink", "Latte"],
+    "material": "Baby Terry Premium",
+    "modesty": true,
+    "concept": "Jacket, Sporty Casual",
+    "fitur": [
+      "Modesty Length dan Coverage Lengkap: menutup aurat dengan sempurna",
+      "Detachable Hoodie: 2 lapis, adjustable, hangat, dan eksklusif",
+      "Signature Zipper: front closure aktif",
+      "Handsock loose: kenyamanan ekstra, stylish, dan wudhu friendly",
+      "Waist Slit Pocket: kanan dan kiri",
+      "Harga sangat terjangkau (Super Affordable)"
+    ],
+    "visual": "A knee-length hijaber light jacket",
+    "target_aktivitas": [
+      "Traveling", "Haji", "Umroh", "Riding", "Hangout", "Olahraga", "Pengajian"
+    ],
+    "target_audience": [
+      "Hijaber traveler",
+      "Muslimah sporty",
+      "Hijaber aktif dan dinamis",
+      "Wanita muslimah yang mencari jaket fungsional dan terjangkau"
+    ]
+  },
+  "text": "Hijacket Ezzenza hadir sebagai solusi ringan dan sporty untuk muslimah aktif. Dibuat dari bahan Baby Terry Premium yang breathable dan lembut, dilengkapi hoodie detachable, handsock longgar, dan zipper aktif. Desain longgar dan panjang menjamin modesty, cocok untuk aktivitas outdoor dan ibadah. Harga sangat terjangkau menjadikannya pilihan ideal bagi hijaber yang ingin tampil stylish dan tetap syar’i."
+}

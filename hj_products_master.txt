@@ -1,0 +1,795 @@
+{
+  "id": "HJ-LUBNA",
+  "namespace": "hj_products",
+  "values": "<hasil_embedding_berbasis_HJ_LUBNA>",
+  "metadata": {
+    "brand": "HJ",
+    "nama_produk": "HJ Lubna",
+    "kategori": "Tunic & Skirt",
+    "status": "New Arrival",
+    "warna": ["Brownie", "Enigma"],
+    "ukuran": {
+      "tunic": "All size (LD sampai 204 cm)",
+      "skirt": "All size (LP cm)"
+    },
+    "harga_normal": 659000,
+    "harga_promo": 527200,
+    "material": "Flowy premium",
+    "concept": "Tunic & Skirt, Classic Elegant",
+    "modesty": true,
+    "lengan": "Loose",
+    "pocket": "Skirt kanan",
+    "closure": "Zipper",
+    "collar": "Mandarin",
+    "adjustable_fit": true,
+    "target_aktivitas": ["Hangout", "Umroh", "Haji", "Party"],
+    "target_audience": ["Hijaber aktif", "Hijaber traveler", "Hijaber fashionista"]
+  },
+  "text": "HJ Lubna adalah setelan tunik dan rok dari brand HJ yang mengusung konsep Classic Elegant dengan nuansa flowy premium. Didesain untuk kenyamanan maksimal, HJ Lubna memiliki panjang dan coverage yang menutup aurat sempurna. Tunik berukuran all size (LD hingga 204 cm), dan rok disertai tali pinggang untuk penyesuaian. Detail seperti lengan loose, kerah mandarin, dan saku di rok kanan menjadikannya fungsional dan tetap anggun. Hadir dalam warna Brownie dan Enigma, cocok untuk aktivitas hangout, umroh, haji, atau acara formal."
+}
+
+---
+
+{
+  "id": "HJ-FATIHA",
+  "namespace": "hj_products",
+  "values": "<hasil_embedding_berbasis_HJ_FATIHA>",
+  "metadata": {
+    "brand": "HJ",
+    "nama_produk": "HJ Fatiha",
+    "kategori": "Long Dress",
+    "status": "New Arrival",
+    "warna": ["Brownie", "Silver"],
+    "ukuran": "All size (LD sampai 120 cm, P.Baju 142 cm)",
+    "harga_normal": 549000,
+    "harga_promo": 439200,
+    "material": "Flowy premium",
+    "concept": "Oversize Dress but Slim Look, Classic Elegant",
+    "lengan": "Oversize, bubble, ujung kancing 3",
+    "closure": "Front Zipper",
+    "collar": "Round",
+    "pocket": "Kanan Kiri",
+    "target_aktivitas": ["Hangout", "Umroh", "Haji", "Party"],
+    "target_audience": ["Hijaber aktif", "Hijaber traveler", "Hijaber fashionista"],
+    "modesty": true
+  },
+  "text": "HJ FATIHA adalah long dress modest terbaru dari brand HJ, dengan konsep oversize namun tetap terlihat slim. Terbuat dari bahan flowy premium yang ringan, lembut, dan tidak mudah kusut, cocok untuk berbagai aktivitas wanita muslimah seperti hangout, umroh, haji, hingga acara formal. Detail dress meliputi lengan bubble dengan ujung kancing 3, dua saku di sisi kanan kiri, dan resleting depan yang busui friendly. Hadir dalam warna elegan Brownie dan Silver, cocok untuk para hijaber aktif dan fashionable."
+}
+
+---
+
+{
+  "id": "HJ-INARA",
+  "namespace": "hj_products",
+  "values": "<hasil_embedding_berbasis_HJ_INARA>",
+  "metadata": {
+    "brand": "HJ",
+    "nama_produk": "HJ Inara",
+    "kategori": "Modest Tunic",
+    "status": "New Arrival",
+    "warna": ["Sage"],
+    "ukuran": ["Standar", "Bigsize"],
+    "harga_normal": 539000,
+    "harga_promo": 431200,
+    "material": "Katun bordir premium",
+    "concept": "Tunic, Classic Elegant",
+    "modesty": true,
+    "lengan": "Oversize",
+    "pocket": "Kanan",
+    "closure": "Button",
+    "collar": "Round",
+    "target_aktivitas": ["Hangout", "Party", "Daily Outfit"],
+    "target_audience": ["Hijaber aktif", "Hijaber fashionista"]
+  },
+  "text": "HJ Inara adalah tunik modest dengan sentuhan klasik elegan yang dibuat dari bahan katun bordir premium. Tersedia dalam ukuran standar dan bigsize, HJ Inara menghadirkan kenyamanan dengan lengan oversize dan potongan yang tetap menutup aurat dengan baik. Detail saku di sisi kanan dan kancing depan menambah fungsi praktis sekaligus tetap sopan dan stylish. Hadir dalam warna Sage yang elegan, cocok digunakan untuk hangout, party, dan daily outfit hijaber aktif dan fashionista."
+}
+
+---
+
+{
+  "id": "HJ-NURA",
+  "namespace": "hj_products",
+  "values": "<hasil_embedding_berbasis_HJ_NURA>",
+  "metadata": {
+    "brand": "HJ",
+    "nama_produk": "HJ Nura",
+    "kategori": "Modest Vest",
+    "status": "New Arrival",
+    "warna": ["Sage"],
+    "ukuran": {
+      "label": "All size",
+      "ld": 120,
+      "pb": 80
+    },
+    "harga_normal": 399000,
+    "harga_promo": 319200,
+    "material": "Katun bordir premium",
+    "concept": "Vest, Classic Elegant",
+    "modesty": true,
+    "lengan": "Tanpa lengan",
+    "pocket": "Tidak ada",
+    "closure": "Button",
+    "collar": "Round",
+    "adjustable_fit": true,
+    "target_aktivitas": ["Hangout", "Party", "Daily Outfit", "Office Look"],
+    "target_audience": ["Hijaber aktif", "Hijaber fashionista", "Pekerja kantoran"]
+  },
+  "text": "HJ Nura adalah modest vest elegan dari brand HJ, dirancang untuk hijaber aktif dan profesional. Dibuat dari bahan katun bordir premium yang lembut dan breathable, HJ Nura hadir dalam warna Sage yang menenangkan. Dengan potongan tanpa lengan dan tali pinggang adjustable, vest ini fleksibel namun tetap sopan, cocok untuk outfit kantor, daily style, maupun ke acara semi formal. Tanpa saku, tampilannya bersih dan minimalis. Sangat cocok bagi muslimah yang ingin tampil rapi, simple, dan tetap anggun."
+}
+
+---
+
+{
+  "id": "HJ-ALETA",
+  "namespace": "hj_products",
+  "values": "<hasil_embedding_berbasis_HJ_ALETA>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Aleta",
+    "kategori": "Jacket",
+    "status": "New Arrival",
+    "warna": ["Hitam", "Cream"],
+    "ukuran": {
+      "label": "All size",
+      "ld": 135,
+      "pb": 80,
+      "bb_maks": 110
+    },
+    "harga_normal": 619000,
+    "harga_promo": 495200,
+    "material": "Parasut Dusky premium",
+    "concept": "Jacket, Classic Elegant",
+    "modesty": true,
+    "lengan": "Oversize, drop shoulder, bubble",
+    "pocket": "Tersembunyi kanan kiri",
+    "closure": "Hidden zipper",
+    "hoodie": {
+      "ukuran": "Besar",
+      "fitur": "Bisa disembunyikan"
+    },
+    "cuff": "Rubber cuff, elastis, mencegah udara masuk",
+    "aksen": "Pleats",
+    "target_aktivitas": ["Mengemudi", "Traveling", "Hangout", "Umroh", "Haji", "Sport"],
+    "target_audience": ["Hijaber aktif", "Hijaber traveler", "Muslimah sporty"]
+  },
+  "text": "Hijacket Aleta adalah jaket stylish dan elegan dari Hijacket® dengan desain panjang dan fitur modesty penuh. Terbuat dari bahan parasut dusky premium yang tahan air, nyaman, dan awet, sangat ideal untuk cuaca tropis. Desain lengan oversize dengan rubber cuff menjaga kehangatan dan kenyamanan, sementara hoodie besar bisa disembunyikan untuk tampilan versatile. Saku tersembunyi di kanan kiri menjaga tampilan tetap sleek. Dengan aksen pleats dan ukuran muat hingga 110 kg, Hijacket Aleta cocok digunakan untuk mengemudi, traveling, hangout, umroh, haji, hingga aktivitas olahraga ringan."
+}
+
+---
+
+{
+  "id": "HJ-DRESS-MEDINA",
+  "namespace": "hj_products",
+  "values": "<hasil_embedding_berbasis_DRESS_MEDINA>",
+  "metadata": {
+    "brand": "HJ",
+    "nama_produk": "Dress Medina",
+    "kategori": "Dress",
+    "status": "New Arrival",
+    "warna": ["Black", "Protabella"],
+    "ukuran": {
+      "label": "All size",
+      "ld": 120
+    },
+    "harga_normal": 559000,
+    "harga_promo": 447200,
+    "material": "Daeyang Knit premium",
+    "concept": "Dress, Feminim Casual",
+    "modesty": true,
+    "lengan": "Batwing, drop shoulder, tali adjustable",
+    "handsock": "Buka tutup full cover",
+    "pocket": "Side seam kanan",
+    "collar": "Crew, zipper busui friendly",
+    "target_aktivitas": ["Traveling", "Hangout", "Umroh", "Haji", "Ibadah"],
+    "target_audience": ["Hijaber aktif", "Hijaber traveler", "Muslimah ibadah-ready"]
+  },
+  "text": "Dress Medina adalah dress panjang bergaya feminim casual dari brand HJ. Menggunakan bahan Daeyang Knit premium yang tebal namun lembut dan nyaman, dress ini sangat cocok untuk cuaca dingin atau penggunaan sepanjang hari. Lengan batwing dengan tali adjustable, handsock full cover yang bisa dibuka tutup, serta zipper busui di bagian kerah menjadikannya ramah untuk muslimah aktif. Tersedia dalam warna Black dan Protabella, dress ini pas untuk digunakan saat traveling, hangout, ibadah, hingga umroh dan haji. Potongan longgar tetap terlihat anggun dan syar’i."
+}
+
+---
+
+{
+  "id": "HJ-LAURA",
+  "namespace": "hj_products",
+  "values": "<hasil_embedding_berbasis_HJ_LAURA>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Laura",
+    "kategori": "Blazer",
+    "status": "New Arrival",
+    "warna": ["Hitam Hitam", "Hitam Cream"],
+    "ukuran": {
+      "label": "All size",
+      "ld": 120,
+      "bb_maks": 95
+    },
+    "harga_normal": 619000,
+    "harga_promo": 495200,
+    "material": "Parasut Dusky & Fleece Premium",
+    "concept": "Blazer with pleats, Classic Elegant",
+    "modesty": true,
+    "lengan": "Oversize, drop shoulder",
+    "cuff": "Loose cuff, nyaman & fleksibel",
+    "pocket": "Side pocket kanan kiri",
+    "closure": "Button",
+    "aksen": "Pleats belakang (anti kotor saat duduk)",
+    "adjustable_fit": true,
+    "tali_pinggang": "Terpisah",
+    "target_aktivitas": ["Mengemudi", "Traveling", "Hangout", "Umroh", "Haji"],
+    "target_audience": ["Hijaber aktif", "Hijaber traveler", "Pekerja kantoran"]
+  },
+  "text": "Hijacket Laura adalah blazer premium dari Hijacket® dengan desain classic elegant dan pleats di bagian belakang untuk kenyamanan duduk. Didesain dengan panjang yang menutup aurat, material parasut dusky dan fleece menjadikan jaket ini tahan air, adem, dan cocok untuk aktivitas dalam dan luar ruangan. Dilengkapi tali pinggang terpisah, lengan oversize drop shoulder, serta side pocket kanan kiri yang fungsional. Hadir dalam warna Hitam Hitam dan Hitam Cream, cocok untuk hijaber profesional yang aktif, traveler, maupun pekerja kantoran."
+}
+
+---
+
+{
+  "id": "HJ-MAYMA",
+  "namespace": "hj_products",
+  "values": "<hasil_embedding_berbasis_HJ_MAYMA>",
+  "metadata": {
+    "brand": "HJ",
+    "nama_produk": "MAYMA",
+    "kategori": "Hijab Square",
+    "status": "New Arrival",
+    "sku": "HHI-MYM",
+    "ukuran": "115 x 115 cm",
+    "berat": "114 gr",
+    "harga_normal": 149000,
+    "harga_promo": 119200,
+    "material": "HJ Ultrafine",
+    "warna": ["Silcream", "Sand", "Sage", "Mocca", "Maroon", "Black"],
+    "concept": "Simple, Syar’i, dan Formal Clean",
+    "modesty": true,
+    "fitur": [
+      "Voal adem & tidak mudah kusut",
+      "Ringan & mudah dibentuk",
+      "Tidak tembus pandang saat double layer",
+      "Bandul logo emas",
+      "Jahitan tepi rapi"
+    ],
+    "target_aktivitas": ["Bekerja", "Traveling", "Hangout", "Acara Formal", "Acara Santai"],
+    "target_audience": [
+      "Hijaber Profesional & Pekerja Kantoran",
+      "Hijaber Traveler",
+      "Hijaber Casual Chic",
+      "Hijaber Modest Fashion Enthusiast",
+      "Ibu Rumah Tangga"
+    ]
+  },
+  "text": "MAYMA adalah hijab square premium dari brand HJ dengan bahan HJ Ultrafine yang adem, ringan, dan tidak mudah kusut. Dengan ukuran 115x115 cm, hijab ini ideal untuk gaya syar’i maupun formal yang clean. Tidak tembus pandang saat dilipat double, serta dilengkapi bandul logo emas dan jahitan tepi yang rapi. Hadir dalam enam pilihan warna elegan: Silcream, Sand, Sage, Mocca, Maroon, dan Black. Cocok untuk hijaber profesional, traveler, ibu rumah tangga, hingga modest fashion enthusiast."
+}
+
+---
+
+{
+  "id": "HJ-ARUMI",
+  "namespace": "hj_products",
+  "values": "<hasil_embedding_berbasis_ARUMI>",
+  "metadata": {
+    "brand": "Hijacket",
+    "nama_produk": "ARUMI",
+    "kategori": "Jaket",
+    "status": "Arrival",
+    "sku": "HJ-ARM",
+    "ukuran": {
+      "varian": ["Reguler (S/M)", "Big (L/XL)"],
+      "berat": "114 gr"
+    },
+    "warna": ["Black", "Latte", "Burgundy", "Dusty Pink"],
+    "harga": {
+      "reguler": {
+        "normal": 219000,
+        "promo": 175200
+      },
+      "big": {
+        "normal": 229000,
+        "promo": 183200
+      }
+    },
+    "material": "Baby Terry Premium",
+    "concept": "Jaket Modesty dengan gaya chic & fungsional",
+    "modesty": true,
+    "fitur": [
+      "Panjang menutup aurat",
+      "Turtle neck modis",
+      "Lengan oversize & drop shoulder",
+      "Ribbed cuff elastis",
+      "Tali serut pinggang adjustable",
+      "Kantong pinggang kanan kiri"
+    ],
+    "target_aktivitas": ["Mengemudi", "Traveling", "Kasual", "Hangout"],
+    "target_audience": [
+      "Hijaber Profesional & Pekerja Kantoran",
+      "Hijaber Traveler",
+      "Hijaber Casual Chic",
+      "Hijaber Modest Fashion Enthusiast",
+      "Ibu Rumah Tangga"
+    ]
+  },
+  "text": "ARUMI dari Hijacket® adalah jaket muslimah dengan desain panjang yang menutup aurat serta cocok untuk segala aktivitas. Menggunakan bahan Baby Terry Premium yang lembut dan adem, jaket ini hadir dalam dua ukuran: Reguler (S/M) dan Big (L/XL). Dilengkapi turtle neck modis, ribbed cuff elastis, serta tali serut pinggang yang bisa disesuaikan. Pilihan warna Black, Latte, Burgundy, dan Dusty Pink menjadikannya chic namun tetap syar’i. Sangat cocok untuk hijaber profesional, traveler, hingga ibu rumah tangga."
+}
+
+---
+{
+  "id": "HJ-SKIRT-EZZENTA",
+  "namespace": "hj_products",
+  "values": "<hasil_embedding_berbasis_SKIRT_EZZENTA>",
+  "metadata": {
+    "brand": "HJ",
+    "nama_produk": "Skirt Ezzenta",
+    "kategori": "Skirt",
+    "status": "Arrival",
+    "material": "Baby Terry Premium",
+    "warna": ["Black", "Latte", "Burgundy", "Dusty Pink"],
+    "ukuran": {
+      "lingkar_pinggang_maks": 140,
+      "berat_badan_maks": 95
+    },
+    "harga_normal": 169000,
+    "harga_promo": 135200,
+    "modesty": true,
+    "fitur": [
+      "Panjang menutup aurat",
+      "Bahan lembut dan menyerap keringat",
+      "Waistband elastis + tali hidup adjustable",
+      "Kantong cargo kanan dan kiri",
+      "Cocok untuk iklim tropis"
+    ],
+    "target_aktivitas": [
+      "Traveling", "Hangout", "Umroh", "Haji", "Ibadah", "Memanah", "Tracking"
+    ],
+    "target_audience": [
+      "Hijaber aktif", "Hijaber traveler", "Muslimah outdoor"
+    ]
+  },
+  "text": "Skirt Ezzenta adalah rok modest premium dari HJ yang menggabungkan kenyamanan dan gaya syar’i. Dibuat dari bahan Baby Terry Premium yang lembut dan menyerap keringat, rok ini cocok digunakan di iklim tropis. Didesain dengan panjang menutup aurat, kantong cargo kanan kiri, serta waistband elastis dan tali hidup untuk kenyamanan maksimal. Tersedia dalam warna Black, Latte, Burgundy, dan Dusty Pink, rok ini cocok untuk traveling, ibadah, hingga aktivitas outdoor seperti memanah dan tracking."
+}
+
+---
+
+{
+  "id": "HJ-INNER-BASIC-TWOTONE",
+  "namespace": "hj_products",
+  "values": "<hasil_embedding_berbasis_HJ_INNER_BASIC_TWOTONE>",
+  "metadata": {
+    "brand": "HJ",
+    "nama_produk": "HJ Inner Basic Two Tone Rajut Bandana",
+    "kategori": "Ciput Bandana Rajut",
+    "status": "New Arrival",
+    "material": {
+      "utama": "Nylon Microfiber",
+      "komposisi": {
+        "katun": "70%",
+        "poliester": "30%"
+      }
+    },
+    "warna": ["MOCCA-BEIGE", "DENIM-BLACK"],
+    "ukuran": "Allsize",
+    "harga_normal": 57000,
+    "harga_promo": 46600,
+    "fitur": [
+      "Desain ergonomis mengikuti kontur kepala",
+      "Elastis, nyaman tanpa tekanan berlebih",
+      "Ruang ekstra di area telinga",
+      "Tidak ada jahitan menonjol",
+      "Mudah dicuci & warna tahan lama"
+    ],
+    "modesty": true,
+    "target_aktivitas": [
+      "Olahraga & Aktivitas Fisik",
+      "Acara Formal",
+      "Daily Outfit",
+      "Perjalanan & Liburan"
+    ],
+    "target_audience": [
+      "Hijaber aktif",
+      "Hijaber fashionista"
+    ]
+  },
+  "text": "HJ Inner Basic Two Tone adalah ciput rajut bandana premium dari HJ, dibuat dari kombinasi katun 70% dan poliester 30% yang adem dan elastis. Desainnya ergonomis mengikuti kontur kepala dengan ruang ekstra di telinga dan tanpa jahitan menonjol, menjadikannya nyaman untuk dipakai seharian tanpa iritasi. Warna Mocca-Beige dan Denim-Black siap melengkapi gaya hijaber aktif baik untuk olahraga, perjalanan, hingga acara formal. Mudah dicuci dan awet digunakan."
+}
+
+---
+
+{
+  "id": "HJ-HANDSOCK-CLASSIC-STRETCHY",
+  "namespace": "hj_products",
+  "values": "<hasil_embedding_berbasis_HJ_HANDSOCK_CLASSIC_STRETCHY>",
+  "metadata": {
+    "brand": "HJ",
+    "nama_produk": "HJ Handsock Classic Stretchy",
+    "kategori": "Handsock",
+    "status": "New Arrival",
+    "material": {
+      "komposisi": {
+        "nylon": "70%",
+        "spandex": "27%",
+        "elastane": "3%"
+      },
+      "fitur": [
+        "Cepat kering",
+        "Mudah dicuci",
+        "Elastis & lentur",
+        "Nyaman dipakai lama"
+      ]
+    },
+    "warna": ["Black", "Brown"],
+    "ukuran": {
+      "panjang_cm": 22,
+      "lebar_cm": "7–8"
+    },
+    "harga_normal": 37000,
+    "harga_promo": 29600,
+    "modesty": true,
+    "fitur": [
+      "Desain modis dengan beberapa pilihan panjang",
+      "Cocok untuk gerakan aktif tanpa mengganggu jari",
+      "Ringan dan fleksibel untuk berbagai aktivitas"
+    ],
+    "target_aktivitas": ["Hangout", "Umroh", "Haji", "Berkendara"],
+    "target_audience": ["Hijaber aktif", "Hijaber traveler", "Hijaber fashionista"]
+  },
+  "text": "HJ Handsock Classic Stretchy adalah handsock nyaman berbahan campuran nylon, spandex, dan elastane yang ringan, cepat kering, dan elastis. Tersedia dalam dua warna elegan, Black dan Brown, handsock ini didesain modis dan praktis dengan panjang 22 cm serta lebar fleksibel 7–8 cm. Cocok dipakai untuk aktivitas seperti berkendara, hangout, umroh, dan haji, tanpa mengganggu gerakan jari. Desainnya juga mudah dicuci dan awet digunakan oleh hijaber aktif dan fashionista."
+}
+
+---
+
+{
+  "id": "HJ-KNOT-BELT",
+  "namespace": "hj_products",
+  "values": "<hasil_embedding_berbasis_HJ_KNOT_BELT>",
+  "metadata": {
+    "brand": "HJ",
+    "nama_produk": "HJ The Signature HJ Knot Belt",
+    "kategori": "Belt",
+    "status": "Arrival",
+    "material": "Kulit sintetis premium",
+    "warna": ["Brown"],
+    "ukuran": "One Size Fits All",
+    "harga_normal": 199000,
+    "harga_promo": 159200,
+    "modesty": true,
+    "fitur": [
+      "Tali elastis fleksibel",
+      "Desain simpul unik tanpa lubang (Adjustable Knot System)",
+      "Cocok untuk berbagai ukuran pinggang",
+      "Tampilan elegan dan modern"
+    ],
+    "target_aktivitas": [
+      "Hangout",
+      "Berkendara",
+      "Daily Outfit",
+      "Perjalanan & Liburan"
+    ],
+    "target_audience": [
+      "Hijaber aktif",
+      "Hijaber traveler",
+      "Hijaber fashionista"
+    ]
+  },
+  "text": "HJ Knot Belt adalah sabuk stylish dan fungsional dari brand HJ, menggunakan kulit sintetis premium yang lentur dan elegan. Dilengkapi dengan Adjustable Knot System tanpa lubang, memungkinkan penyesuaian sempurna untuk semua bentuk tubuh. Hadir dalam warna Brown dengan ukuran one-size-fits-all, cocok dipadukan dengan outfit hangout, perjalanan, atau gaya harian hijaber aktif dan fashionista."
+}
+
+---
+
+{
+  "id": "HJ-SHADE-HAT",
+  "namespace": "hj_products",
+  "values": "<hasil_embedding_berbasis_HJ_SHADE_HAT>",
+  "metadata": {
+    "brand": "HJ",
+    "nama_produk": "HJ Signature Shade Hat",
+    "kategori": "Hat",
+    "status": "Arrival",
+    "material": "Twill Cotton Premium",
+    "warna": ["Black", "Palestine"],
+    "ukuran": "All Size",
+    "harga_normal": 150000,
+    "harga_promo": 120000,
+    "modesty": true,
+    "fitur": [
+      "Desain klasik warna hitam dengan logo Hijacket ikonik",
+      "Material lembut, nyaman, dan tahan lama",
+      "Ukuran fleksibel dengan adjustable strap",
+      "Visor untuk perlindungan dari sinar UV",
+      "Cocok dipadukan dengan berbagai gaya hijab"
+    ],
+    "target_aktivitas": [
+      "Hangout",
+      "Berkendara",
+      "Daily Outfit",
+      "Perjalanan & Liburan"
+    ],
+    "target_audience": [
+      "Hijaber aktif",
+      "Hijaber traveler",
+      "Hijaber fashionista"
+    ]
+  },
+  "text": "HJ Signature Shade Hat adalah topi premium dari brand HJ yang dirancang untuk hijaber aktif dan stylish. Menggunakan bahan Twill Cotton Premium yang lembut dan tahan lama, topi ini memiliki desain klasik warna hitam dengan logo Hijacket yang ikonik. Dilengkapi visor pelindung UV dan pengatur ukuran di bagian belakang, topi ini cocok untuk aktivitas sehari-hari, berkendara, hingga traveling. Pilihan warna Black dan Palestine memberikan kesan chic yang abadi."
+}
+
+---
+
+{
+  "id": "HJ-MASK",
+  "namespace": "hj_products",
+  "values": "<hasil_embedding_berbasis_HJ_MASK>",
+  "metadata": {
+    "brand": "HJ",
+    "nama_produk": "HJ Mask",
+    "kategori": "Mask",
+    "status": "Arrival",
+    "material": "Hornet Knit & Poly-Fiber",
+    "warna": ["Black", "Khaky", "Lavender", "Marigold", "Maroon", "Navy", "Olive"],
+    "ukuran": "All Size",
+    "harga_normal": 36000,
+    "harga_promo": 28800,
+    "modesty": true,
+    "fitur": [
+      "2 lapisan perlindungan (Hornet Knit + Poly-Fiber)",
+      "Bisa dicuci berulang kali (maksimal 10 kali pemakaian efektif)",
+      "Desain stylish dengan pilihan warna modern",
+      "Hijab-friendly: tersedia earloop & headloop",
+      "Tali elastis, nyaman untuk pemakaian panjang"
+    ],
+    "target_aktivitas": [
+      "Hangout",
+      "Berkendara",
+      "Daily Outfit",
+      "Perjalanan & Liburan"
+    ],
+    "target_audience": [
+      "Hijaber aktif",
+      "Hijaber traveler",
+      "Hijaber fashionista"
+    ]
+  },
+  "text": "HJ Mask adalah masker stylish dan hijab-friendly dari brand HJ, terbuat dari kombinasi Hornet Knit dan Poly-Fiber dengan dua lapisan perlindungan. Didesain untuk kenyamanan maksimal, masker ini dapat dicuci berulang kali dan direkomendasikan untuk diganti setelah 10 kali pemakaian. Tersedia dalam berbagai warna elegan seperti Black, Khaky, Maroon, hingga Lavender dan Navy. Dilengkapi opsi tali elastis earloop dan headloop, masker ini sangat cocok untuk hijaber aktif yang ingin tetap tampil syar’i dan fashionable dalam aktivitas harian maupun saat bepergian."
+}
+
+---
+
+{
+  "id": "HJ-SOCKS-CLASSIC-REGULER",
+  "namespace": "hj_products",
+  "values": "<hasil_embedding_berbasis_HJ_SOCKS_CLASSIC_REGULER>",
+  "metadata": {
+    "brand": "HJ",
+    "nama_produk": "HJ Socks Classic Reguler",
+    "kategori": "Socks",
+    "status": "Arrival",
+    "material": "Nylon lembut & elastis",
+    "warna": ["Cream"],
+    "ukuran": "All Size",
+    "harga_normal": 70000,
+    "harga_promo": 56000,
+    "modesty": true,
+    "fitur": [
+      "Material lembut, elastis, dan tahan lama",
+      "Desain eksklusif dengan aksen garis & logo HIJACKET",
+      "Elastisitas tinggi, cocok untuk berbagai ukuran kaki",
+      "Bukaan jari (wudhu-friendly)",
+      "Warna nude elegan & stylish"
+    ],
+    "target_aktivitas": [
+      "Hangout",
+      "Berkendara",
+      "Daily Outfit",
+      "Perjalanan & Liburan"
+    ],
+    "target_audience": [
+      "Hijaber aktif",
+      "Hijaber traveler",
+      "Hijaber fashionista"
+    ]
+  },
+  "text": "HJ Socks Classic Reguler adalah kaus kaki muslimah dengan bahan nylon lembut dan elastis yang nyaman serta awet digunakan. Desainnya eksklusif dengan warna nude dan aksen garis serta logo HIJACKET, menambah kesan elegan. Dilengkapi bukaan jari (wudhu-friendly), kaus kaki ini fleksibel, cocok untuk semua ukuran kaki, dan menunjang penampilan hijaber aktif dalam berbagai aktivitas — dari berkendara hingga traveling dan daily outfit."
+}
+
+---
+
+{
+  "id": "HJ-SOCKS-BASIC-THUMB",
+  "namespace": "hj_products",
+  "values": "<hasil_embedding_berbasis_HJ_SOCKS_BASIC_THUMB>",
+  "metadata": {
+    "brand": "HJ",
+    "nama_produk": "HJ Socks Basic Thumb",
+    "kategori": "Socks",
+    "status": "Arrival",
+    "material": {
+      "nylon_microfiber": "85%",
+      "elastane_spandex": "15%"
+    },
+    "warna": ["White", "Black", "Beige", "Brown"],
+    "ukuran": "All Size",
+    "harga_normal": 30900,
+    "harga_promo": 24720,
+    "modesty": true,
+    "fitur": [
+      "Desain jempol terpisah untuk kenyamanan dan sirkulasi lebih baik",
+      "Elastis dan fleksibel, tidak terasa ketat",
+      "Tahan lama & mudah dicuci",
+      "Cocok untuk penggunaan harian",
+      "Material ringan dan lembut"
+    ],
+    "target_aktivitas": [
+      "Hangout",
+      "Pengajian",
+      "Daily Outfit",
+      "Perjalanan & Liburan"
+    ],
+    "target_audience": [
+      "Hijaber aktif",
+      "Hijaber traveler",
+      "Hijaber fashionista"
+    ]
+  },
+  "text": "HJ Socks Basic Thumb adalah kaus kaki jempol terpisah yang dirancang khusus untuk kenyamanan dan fleksibilitas muslimah aktif. Terbuat dari 85% Nylon Microfiber dan 15% Elastane/Spandeks, kaus kaki ini elastis, ringan, dan tidak terasa ketat di kaki. Desain jempol terpisah mengurangi gesekan, memberikan ruang ekstra, serta mendukung sirkulasi darah lebih baik. Tersedia dalam warna White, Black, Beige, dan Brown — cocok untuk penggunaan harian, pengajian, hingga perjalanan dan liburan."
+}
+
+---
+
+{
+  "id": "HJ-SOCKS-ANTI-SLIP-THUMB",
+  "namespace": "hj_products",
+  "values": "<hasil_embedding_berbasis_HJ_SOCKS_ANTI_SLIP_THUMB>",
+  "metadata": {
+    "brand": "HJ",
+    "nama_produk": "HJ Socks Anti Slip Thumb",
+    "kategori": "Socks",
+    "status": "Arrival",
+    "material": {
+      "nylon": "85%",
+      "elastane_spandex": "15%",
+      "silikon": "100% pada sol (anti-slip)"
+    },
+    "warna": ["Black", "Beige"],
+    "ukuran": "All Size",
+    "harga_normal": 40000,
+    "harga_promo": 32000,
+    "modesty": true,
+    "fitur": [
+      "Desain jempol terpisah (thumb split) untuk gerakan alami",
+      "Sol anti-slip dengan titik silikon di telapak dan sekitar jempol",
+      "Desain ergonomis, nyaman dipakai lama",
+      "Mendukung keseimbangan & sirkulasi udara",
+      "Tahan lama dan mudah dicuci"
+    ],
+    "target_aktivitas": [
+      "Aktivitas Indoor",
+      "Olahraga",
+      "Berpergian",
+      "Berjalan di Lantai Licin"
+    ],
+    "target_audience": [
+      "Hijaber aktif",
+      "Hijaber traveler",
+      "Hijaber fashionista"
+    ]
+  },
+  "text": "HJ Socks Anti Slip Thumb adalah kaus kaki muslimah dengan fitur jempol terpisah dan sol anti-slip, ideal untuk aktivitas indoor dan outdoor. Dibuat dari 85% nylon, 15% elastane/spandeks, dan silikon penuh di bagian sol untuk mencegah tergelincir di permukaan licin. Desain ergonomis membuatnya pas mengikuti bentuk kaki, tetap nyaman dalam pemakaian panjang. Tersedia dalam warna Black dan Beige — cocok untuk hijaber yang aktif bergerak dan tetap ingin tampil stylish serta aman."
+}
+
+---
+
+{
+  "id": "HJ-SOCKS-ANTI-SLIP-WUDHU",
+  "namespace": "hj_products",
+  "values": "<hasil_embedding_berbasis_HJ_SOCKS_ANTI_SLIP_WUDHU>",
+  "metadata": {
+    "brand": "HJ",
+    "nama_produk": "HJ Socks Anti Slip Wudhu",
+    "kategori": "Socks",
+    "status": "Arrival",
+    "material": {
+      "nylon": "85%",
+      "elastane_spandex": "15%",
+      "silikon": "100% (sol anti-slip)"
+    },
+    "warna": ["Black", "Beige"],
+    "ukuran": "All Size",
+    "harga_normal": 44000,
+    "harga_promo": 32000,
+    "modesty": true,
+    "fitur": [
+      "Desain jari terbuka untuk wudhu",
+      "Anti-slip dengan titik silikon di telapak & jempol",
+      "Tumit & pergelangan tertutup (syar’i)",
+      "Nyaman, tidak licin, dan fleksibel",
+      "Tahan lama & mudah dicuci"
+    ],
+    "target_aktivitas": [
+      "Umrah",
+      "Haji",
+      "Daily Outfit",
+      "Perjalanan & Liburan"
+    ],
+    "target_audience": [
+      "Hijaber aktif",
+      "Hijaber traveler",
+      "Hijaber fashionista"
+    ]
+  },
+  "text": "HJ Socks Anti Slip Wudhu adalah kaus kaki wudhu-friendly yang dirancang khusus untuk kenyamanan dan keamanan muslimah saat beraktivitas. Terbuat dari campuran nylon dan elastane, serta dilengkapi silikon 100% di sol untuk fitur anti-slip. Ujung jari terbuka memudahkan wudhu tanpa perlu melepas kaus kaki, sementara tumit dan pergelangan tetap tertutup untuk menjaga kesopanan. Ideal untuk digunakan saat umrah, haji, perjalanan, dan keseharian. Tersedia dalam warna Black dan Beige."
+}
+
+---
+
+{
+  "id": "HJ-PERFUME",
+  "namespace": "hijacket_products",
+  "values": "<hasil_embedding_berbasis_HJ_PERFUME>",
+  "metadata": {
+    "brand": "HJ",
+    "nama_produk": "HJ Perfume",
+    "kategori": "Parfum",
+    "status": "New Arrival",
+    "modesty": true,
+    "varian": [
+      {
+        "nama": "Bloom Noir",
+        "deskripsi": "Ketika malam tiba dan misteri menyelimuti, Bloom Noir menghadirkan keanggunan yang abadi.",
+        "aroma": {
+          "top_notes": ["Rose", "Bulgarian Rose", "Cardamom"],
+          "middle_notes": ["Lavender", "Saffron", "Patchouli"],
+          "base_notes": ["Agarwood", "Vanilla", "Tonka Bean"],
+          "keseluruhan": "Floral, spicy, woody — hangat dan berkelas"
+        },
+        "waktu_pakai": "Malam (fleksibel)"
+      },
+      {
+        "nama": "Petal Whisper",
+        "deskripsi": "Aroma pagi yang segar, penuh harapan, dan lembut. Simbol kelembutan yang menemani hari-hari baru.",
+        "aroma": {
+          "top_notes": ["Grapefruit", "Pink Pepper", "Peach", "Jasmine"],
+          "middle_notes": ["Tuberose", "Tiare Flower", "Saffron", "Hedione"],
+          "base_notes": ["Musk", "Amberwood", "Sugar", "Cedar", "Orris Root"],
+          "keseluruhan": "Floral, spicy, woody, powdery — feminin dan sophisticated"
+        },
+        "waktu_pakai": "Siang (fleksibel)"
+      }
+    ],
+    "qty": ["35 ml", "5 ml (Gift Package)"],
+    "harga": {
+      "single_35ml": 149000,
+      "gift_5ml": 14900,
+      "paket_2_varian": 24900
+    },
+    "promo": [
+      "Diskon 20% untuk pembelian pertama",
+      "Bundling 2 varian hanya Rp 279.000",
+      "Gratis ongkir untuk pembelian tertentu/bundling"
+    ],
+    "fitur": [
+      "Perpaduan aroma Arabian & Oriental",
+      "Tahan hingga 8-10 jam",
+      "Travel-friendly 35ml, aman kabin",
+      "Botol kaca tebal, aksen metalik, box premium"
+    ],
+    "keamanan": [
+      "BPOM Certified",
+      "Dermatologically Tested",
+      "Packing aman (bubble wrap)"
+    ],
+    "cara_pakai": [
+      "Semprot di titik nadi (pergelangan, leher)",
+      "Hindari semprot langsung ke pakaian",
+      "Simpan di tempat sejuk, jauh dari sinar matahari"
+    ],
+    "target_market": {
+      "usia": "28–55 tahun",
+      "profil": "Wanita karir & ibu rumah tangga modern",
+      "gaya_hidup": ["Traveling", "Hangout", "Indoor", "Outdoor"],
+      "fokus": "Praktis tapi tetap berkelas"
+    },
+    "target_audience": [
+      "Hijaber aktif",
+      "Hijaber traveler",
+      "Wanita muslimah modern"
+    ]
+  },
+  "text": "HJ Perfume adalah parfum elegan untuk wanita muslimah modern yang mengedepankan keanggunan dan kesan tahan lama. Hadir dalam dua varian, Bloom Noir untuk nuansa malam yang misterius dan hangat, serta Petal Whisper yang menyegarkan dan feminin untuk siang hari. Diformulasikan dengan aroma Arabian dan Oriental, tahan hingga 10 jam, dan dikemas travel-friendly dalam botol kaca mewah. Parfum ini telah BPOM dan aman di kulit. Cocok untuk aktivitas hangout, ibadah, maupun event spesial, HJ Perfume adalah simbol kepercayaan diri muslimah masa kini."
+}
