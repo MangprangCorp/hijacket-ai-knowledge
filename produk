@@ -276,7 +276,7 @@
     "penggunaan": {
       "aktivitas": "Traveling, Umroh, Naik Gunung",
       "audience": "Hijaber traveler, Outdoor enthusiast",
-      "occasion": "Ekspedisi, Ibadah"
+      "occasion": "Traveling, Ibadah, Outdoor Activity"
     }
   },
   {
@@ -319,20 +319,20 @@
       "suhu": "20º-28ºC",
       "material": "Despo Parachute + Inner Net",
       "komposisi": "-",
-      "fitur": "Double-layer Hoodie, Back Slit, Safety Pocket, Compact, Packable, Sport-Friendly",
-      "collar": "-",
+      "fitur": "Double-layer Hoodie, Full White Zipper, Safety Pocket, Compact Foldable, Back Slit, One-tone Clean Look",
+      "collar": "Slim Hoodie (non-bulky), Integrated",
       "lengan": "Oversize, Drop Shoulder",
       "adjustable": "Yes",
       "pocket": "Waist Slit Pocket",
       "closure": "Zipper + Neck Safety",
       "modesty": "Yes",
-      "concept": "Tracktop, Sporty Casual",
+      "concept": "Tracktop, Sporty Casual, Modest Activewear dengan gaya satu warna solid dan aksen minimalis",
       "care": "Cuci ringan, tidak disetrika"
     },
     "penggunaan": {
       "aktivitas": "Olahraga, Traveling",
       "audience": "Hijaber sporty, Traveler",
-      "occasion": "Aktivitas outdoor, Naik motor"
+      "occasion": "Outdoor Activity, Casual, Traveling"
     }
   },
   {
@@ -360,7 +360,7 @@
     "penggunaan": {
       "aktivitas": "Traveling, Haji, Umroh, Naik Gunung",
       "audience": "Hijaber aktif, Hijaber traveler",
-      "occasion": "Ibadah, Ekspedisi"
+      "occasion": "Outdoor Activity, Casual, Traveling"
     }
   },
   {
@@ -388,7 +388,7 @@
     "penggunaan": {
       "aktivitas": "Umroh, Haji, Traveling",
       "audience": "Hijaber formal, Modest fashion enthusiast",
-      "occasion": "Semi-formal, Pengajian"
+      "occasion": "Casual to Semi Formal, Everyday Wear"
     }
   },
   {
@@ -416,7 +416,7 @@
     "penggunaan": {
       "aktivitas": "Pengajian, Formal",
       "audience": "Hijaber profesional",
-      "occasion": "Acara resmi, Kajian"
+      "occasion": "Casual to Semi Formal, Everyday Wear"
     }
   },
   {
@@ -444,7 +444,7 @@
     "penggunaan": {
       "aktivitas": "Umroh, Haji, Traveling, Kantoran",
       "audience": "Hijaber profesional, Traveler",
-      "occasion": "Acara resmi, Harian"
+      "occasion": "Formal to Semi Formal, Traveling"
     }
   },
   {
@@ -472,7 +472,7 @@
     "penggunaan": {
       "aktivitas": "Umroh, Haji, Traveling",
       "audience": "Hijaber feminin, Traveler",
-      "occasion": "Ibadah, Perjalanan"
+      "occasion": "Traveling, Ibadah, Outdoor Activity"
     }
   },
   {
@@ -500,7 +500,7 @@
     "penggunaan": {
       "aktivitas": "Traveling, Umroh, Pengajian",
       "audience": "Hijaber syar’i, Traveler",
-      "occasion": "Religius, Harian"
+      "occasion": "Daily Wear, Casual to Semi Formal"
     }
   },
   {
@@ -528,7 +528,7 @@
     "penggunaan": {
       "aktivitas": "Naik Gunung, Riding, Traveling",
       "audience": "Hijaber sporty, Traveler",
-      "occasion": "Petualangan, Ibadah"
+      "occasion": "Outdoor Activity, Casual, Traveling"
     }
   },
   {
@@ -556,7 +556,7 @@
     "penggunaan": {
       "aktivitas": "Umroh, Haji, Hangout, Traveling",
       "audience": "Hijaber stylish, Traveler",
-      "occasion": "Outdoor, Acara formal"
+      "occasion": "Outdoor Activity, Casual to Semi Formal, Traveling"
     }
   },
   {
@@ -612,7 +612,7 @@
     "penggunaan": {
       "aktivitas": "Hangout, Traveling, Pengajian",
       "audience": "Hijaber traveler, Casual muslimah",
-      "occasion": "Ibadah, Casual to Semi Formal"
+      "occasion": "Casual to Semi Formal, Everyday Wear"
     }
   },
   {
@@ -640,7 +640,7 @@
     "penggunaan": {
       "aktivitas": "Umroh, Haji, Traveling",
       "audience": "Hijaber feminin, Traveler",
-      "occasion": "Ibadah, Acara muslimah"
+      "occasion": "Casual to Semi Formal, Everyday Wear"
     }
   },
   {
@@ -668,7 +668,7 @@
     "penggunaan": {
       "aktivitas": "Umroh, Haji, Pengajian, Traveling",
       "audience": "Hijaber modest, Stylish muslimah",
-      "occasion": "Ibadah, Event Muslimah"
+      "occasion": "Casual to Semi Formal, Everyday Wear"
     }
   },
   {
@@ -696,7 +696,7 @@
     "penggunaan": {
       "aktivitas": "Traveling, Memanah, Tracking",
       "audience": "Muslimah outdoor",
-      "occasion": "Sport modest wear"
+      "occasion": "Outdoor Activity, Casual, Traveling"
     }
   },
   {
@@ -724,7 +724,7 @@
     "penggunaan": {
       "aktivitas": "Umroh, Haji, Party",
       "audience": "Hijaber fashionista, Muslimah aktif",
-      "occasion": "Acara formal, Ibadah"
+      "occasion": "Formal to Semi Formal, Traveling"
     }
   },
   {
@@ -780,7 +780,7 @@
     "penggunaan": {
       "aktivitas": "Hangout, Party, Daily Outfit",
       "audience": "Hijaber aktif, Hijaber fashionista",
-      "occasion": "Weekend, Jalan-jalan"
+      "occasion": "Formal to Semi Formal, Everyday Wear"
     }
   },
   {
@@ -864,7 +864,7 @@
     "penggunaan": {
       "aktivitas": "Umroh, Haji, Hangout, Party",
       "audience": "Hijaber aktif, Traveler, Fashionista",
-      "occasion": "Acara formal, Ibadah"
+      "occasion": "Formal to Semi Formal"
     }
   },
   {
@@ -948,7 +948,7 @@
     "penggunaan": {
       "aktivitas": "Umroh, Haji, Hangout, Shalat Jumat",
       "audience": "Muslim pria traveler",
-      "occasion": "Ibadah, Harian, Formal to Semi-Formal"
+      "occasion": "Formal to Semi Formal"
     }
   },
   {
@@ -976,7 +976,7 @@
     "penggunaan": {
       "aktivitas": "Umroh, Haji, Hangout",
       "audience": "Hijaber traveler",
-      "occasion": "Ibadah, Jalan-jalan, Formal to Semi-Formal"
+      "occasion": "Formal to Semi Formal, Everyday Wear"
     }
   },
   {
@@ -1004,7 +1004,7 @@
     "penggunaan": {
       "aktivitas": "Umroh, Haji, Ibadah",
       "audience": "Hijaber traveler, Muslimah ibadah-ready",
-      "occasion": "Spiritual Journey"
+      "occasion": "Casual to Semi Formal, Everyday Wear, Traveling"
     }
   },
   {
@@ -1032,7 +1032,7 @@
     "penggunaan": {
       "aktivitas": "Office Look, Daily Outfit",
       "audience": "Hijaber profesional",
-      "occasion": "Kantoran, Casual Formal"
+      "occasion": "Formal to Semi Formal, Everyday Wear"
     }
   },
   {
