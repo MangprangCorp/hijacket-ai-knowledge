@@ -46,7 +46,7 @@
         "berat_berpengaruh": true
       },
       "branding": {
-        "has_logo": false
+        "has_logo": "Kiri Bawah Kantong"
       },
       "gender_target": "Wanita",
       "release_year": 2024,
@@ -97,9 +97,6 @@
         "fitting_required": false,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
@@ -148,9 +145,6 @@
         "ukuran_relevan": true,
         "fitting_required": true,
         "berat_berpengaruh": true
-      },
-      "branding": {
-        "has_logo": false
       },
       "gender_target": "Wanita",
       "release_year": 2024,
@@ -201,9 +195,6 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
@@ -252,9 +243,6 @@
         "ukuran_relevan": true,
         "fitting_required": true,
         "berat_berpengaruh": true
-      },
-      "branding": {
-        "has_logo": false
       },
       "gender_target": "Wanita",
       "release_year": 2024,
@@ -308,7 +296,7 @@
         "berat_berpengaruh": true
       },
       "branding": {
-        "has_logo": false
+        "has_logo": "Di kantong kiri bawah"
       },
       "gender_target": "Wanita",
       "release_year": 2024,
@@ -359,9 +347,6 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
@@ -411,9 +396,6 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
@@ -462,9 +444,6 @@
         "ukuran_relevan": true,
         "fitting_required": true,
         "berat_berpengaruh": true
-      },
-      "branding": {
-        "has_logo": false
       },
       "gender_target": "Wanita",
       "release_year": 2024,
@@ -516,7 +495,7 @@
         "berat_berpengaruh": true
       },
       "branding": {
-        "has_logo": false
+        "has_logo": "Dada kiri bordir"
       },
       "gender_target": "Unisex",
       "release_year": 2024,
@@ -562,9 +541,6 @@
         "ukuran_relevan": true,
         "fitting_required": true,
         "berat_berpengaruh": true
-      },
-      "branding": {
-        "has_logo": false
       },
       "gender_target": "Wanita",
       "release_year": 2024,
@@ -615,9 +591,6 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
@@ -666,9 +639,6 @@
         "ukuran_relevan": true,
         "fitting_required": true,
         "berat_berpengaruh": true
-      },
-      "branding": {
-        "has_logo": false
       },
       "gender_target": "Unisex",
       "release_year": 2024,
@@ -719,9 +689,6 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
@@ -766,9 +733,6 @@
         "ukuran_relevan": true,
         "fitting_required": true,
         "berat_berpengaruh": true
-      },
-      "branding": {
-        "has_logo": false
       },
       "gender_target": "Wanita",
       "release_year": 2024,
@@ -818,9 +782,6 @@
         "ukuran_relevan": true,
         "fitting_required": true,
         "berat_berpengaruh": true
-      },
-      "branding": {
-        "has_logo": false
       },
       "gender_target": "Wanita",
       "release_year": 2024,
@@ -873,9 +834,6 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
@@ -924,9 +882,6 @@
         "ukuran_relevan": true,
         "fitting_required": true,
         "berat_berpengaruh": true
-      },
-      "branding": {
-        "has_logo": false
       },
       "gender_target": "Wanita",
       "release_year": 2024,
@@ -979,9 +934,6 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
@@ -1031,9 +983,6 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
@@ -1078,9 +1027,6 @@
         "ukuran_relevan": true,
         "fitting_required": true,
         "berat_berpengaruh": true
-      },
-      "branding": {
-        "has_logo": false
       },
       "gender_target": "Wanita",
       "release_year": 2024,
@@ -1131,9 +1077,6 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
@@ -1178,9 +1121,6 @@
         "ukuran_relevan": true,
         "fitting_required": true,
         "berat_berpengaruh": true
-      },
-      "branding": {
-        "has_logo": false
       },
       "gender_target": "Wanita",
       "release_year": 2024,
@@ -1231,9 +1171,6 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
@@ -1283,9 +1220,6 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
@@ -1331,9 +1265,6 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
@@ -1375,9 +1306,6 @@
         "ukuran_relevan": false,
         "fitting_required": false,
         "berat_berpengaruh": false
-      },
-      "branding": {
-        "has_logo": false
       },
       "gender_target": "Wanita",
       "release_year": 2024,
@@ -1423,9 +1351,6 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
@@ -1468,9 +1393,6 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
@@ -1512,9 +1434,6 @@
         "ukuran_relevan": true,
         "fitting_required": true,
         "berat_berpengaruh": true
-      },
-      "branding": {
-        "has_logo": false
       },
       "gender_target": "Wanita",
       "release_year": 2024,
@@ -1561,9 +1480,6 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
@@ -1606,9 +1522,6 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
@@ -1649,9 +1562,6 @@
         "ukuran_relevan": false,
         "fitting_required": false,
         "berat_berpengaruh": false
-      },
-      "branding": {
-        "has_logo": false
       },
       "gender_target": "Wanita",
       "release_year": 2024,
@@ -1694,9 +1604,6 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Pria",
       "release_year": 2024,
       "is_active": true
@@ -1737,9 +1644,6 @@
         "ukuran_relevan": true,
         "fitting_required": true,
         "berat_berpengaruh": true
-      },
-      "branding": {
-        "has_logo": false
       },
       "gender_target": "Wanita",
       "release_year": 2024,
@@ -1786,9 +1690,6 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
@@ -1834,9 +1735,6 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
@@ -1878,9 +1776,6 @@
         "ukuran_relevan": false,
         "fitting_required": false,
         "berat_berpengaruh": false
-      },
-      "branding": {
-        "has_logo": false
       },
       "gender_target": "Wanita",
       "release_year": 2024,
@@ -1924,9 +1819,6 @@
         "fitting_required": false,
         "berat_berpengaruh": false
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
@@ -1968,9 +1860,6 @@
         "ukuran_relevan": true,
         "fitting_required": true,
         "berat_berpengaruh": true
-      },
-      "branding": {
-        "has_logo": false
       },
       "gender_target": "Wanita",
       "release_year": 2024,
@@ -2014,9 +1903,6 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
@@ -2058,9 +1944,6 @@
         "ukuran_relevan": true,
         "fitting_required": true,
         "berat_berpengaruh": true
-      },
-      "branding": {
-        "has_logo": false
       },
       "gender_target": "Wanita",
       "release_year": 2024,
@@ -2104,9 +1987,6 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": false
-      },
       "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
@@ -2148,9 +2028,6 @@
         "ukuran_relevan": true,
         "fitting_required": true,
         "berat_berpengaruh": true
-      },
-      "branding": {
-        "has_logo": false
       },
       "gender_target": "Wanita",
       "release_year": 2024,
