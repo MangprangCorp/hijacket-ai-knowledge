@@ -5,12 +5,24 @@
       "warna": "Black, Maroon, Green",
       "ukuran": "L, XL, XXL",
       "detail": "LD L: 106, XL: 114, XXL: 122; PB: 92",
-      "dimensi": "35x30x7 cm"
+      "berat": 800,
+      "dimensi": "35x30x7 cm",
+      "max_berat": {
+        "global": "",
+        "L": 75,
+        "XL": 85,
+        "XXL": 95
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": 15,
+        "max": 24
+      },
       "material": "Micro Quilting Parachute",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Double front cover, Signature Belt, Hip Pocket, Classic Collar",
+      "fitur_material": "Windproof, Insulasi, Ringan",
       "collar": "Folded",
       "lengan": "Standard",
       "adjustable": false,
@@ -24,6 +36,16 @@
       "aktivitas": "Umroh, Haji, Formal, Traveling",
       "audience": "Hijaber aktif, Hijaber traveler",
       "occasion": "Traveling (perjalanan luar negeri), Ibadah"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Dingin, Pancaroba",
+      "tipe_ukuran": "Graded",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -32,13 +54,25 @@
       "warna": "Black, Brown, Denim, Lavender, Red",
       "ukuran": "Free Size",
       "detail": "LD up to 150, PB: 92",
-      "dimensi": "35x28x6 cm"
+      "berat": 700,
+      "dimensi": "35x28x6 cm",
+      "max_berat": {
+        "global": 110,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": 24,
+        "max": 28
+      },
       "material": "Premium Coco Knit",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Cape Style, Handsock Loose, Hoodie, Inclusive Size",
-      "collar": "",
+      "fitur_material": "Halus, Lembut, Hangat",
+      "collar": "-",
       "lengan": "Batwing 3/4",
       "adjustable": false,
       "pocket": "Yes, Hip Patch Pocket",
@@ -51,6 +85,16 @@
       "aktivitas": "Pengajian, Traveling, Hangout",
       "audience": "Hijaber syar’i aktif, Muslimah feminin",
       "occasion": "Casual, Ibadah, Daily Wear"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Semua musim",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": false,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -59,13 +103,25 @@
       "warna": "Black, Beige",
       "ukuran": "All size",
       "detail": "LD 135, PB: 80",
-      "dimensi": "38x30x7 cm"
+      "berat": 850,
+      "dimensi": "38x30x7 cm",
+      "max_berat": {
+        "global": 110,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": 24,
+        "max": 28
+      },
       "material": "Parasut Dusky Premium",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Feminine Cutting, Simple and Elegant",
-      "collar": "",
+      "fitur_material": "Waterproof, Windproof",
+      "collar": "-",
       "lengan": "Oversize, Drop Shoulder, Bubble",
       "adjustable": true,
       "pocket": "Hidden kanan kiri",
@@ -78,6 +134,16 @@
       "aktivitas": "Mengemudi, Traveling, Umroh",
       "audience": "Hijaber traveler, Muslimah sporty",
       "occasion": "Perjalanan jauh, Casual"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Pancaroba, Hujan",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -86,13 +152,25 @@
       "warna": "Black, Cream, Denim, Dusty Pink, Maroon, Mint, Purple, Teracotta",
       "ukuran": "All size",
       "detail": "LD 130; PB: 80",
-      "dimensi": "34x28x6 cm"
+      "berat": 700,
+      "dimensi": "34x28x6 cm",
+      "max_berat": {
+        "global": 100,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": 24,
+        "max": 30
+      },
       "material": "Premium Acrylic Yarn",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Adjustable Knot Opening",
-      "collar": "",
+      "fitur_material": "Sejuk, Halus, Elastis",
+      "collar": "-",
       "lengan": "Oversize bubble",
       "adjustable": true,
       "pocket": "Yes",
@@ -105,6 +183,16 @@
       "aktivitas": "Hangout, Pengajian, Keseharian",
       "audience": "Hijaber casual, Hijaber modest professional",
       "occasion": "Kegiatan harian, Casual"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Semua musim",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -113,12 +201,24 @@
       "warna": "Beige Gold, Black Onyx, Misty Gray",
       "ukuran": "All Size",
       "detail": "LD 120, PB: 92",
-      "dimensi": "36x28x6 cm"
+      "berat": 800,
+      "dimensi": "36x28x6 cm",
+      "max_berat": {
+        "global": 95,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": 15,
+        "max": 22
+      },
       "material": "Fleece Premium",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Hoodie 2 Lapis, Emboss Logo, Feminine Hoodie",
+      "fitur_material": "Hangat, Lembut",
       "collar": "Crossfront",
       "lengan": "Oversize",
       "adjustable": false,
@@ -132,6 +232,16 @@
       "aktivitas": "Umroh, Haji, Riding, Pengajian",
       "audience": "Hijaber sporty, Hijaber traveler",
       "occasion": "Daily Wear, Casual, Light Sports"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Dingin, Pancaroba",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -140,12 +250,24 @@
       "warna": "Black Ebony, Cloudgrey, Goldenrod, Indigo Blue, Marigold, Mocca, Red Burgundy, Scarlett Brown, Seaweed, Teracotta, Coldgrey",
       "ukuran": "L, XL, XXL",
       "detail": "LD L: 106, XL: 1164, XXL: 122. PB: 92",
-      "dimensi": "38x32x8 cm"
+      "berat": 750,
+      "dimensi": "38x32x8 cm",
+      "max_berat": {
+        "global": "",
+        "L": 75,
+        "XL": 85,
+        "XXL": 95
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": 15,
+        "max": 24
+      },
       "material": "Micro Quilting Parachute",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Back Slit, Inside Pocket, Outer Pocket",
+      "fitur_material": "Waterproof, Insulasi",
       "collar": "Standing",
       "lengan": "Regular",
       "adjustable": false,
@@ -159,6 +281,16 @@
       "aktivitas": "Umroh, Haji, Keseharian",
       "audience": "Hijaber syar’i, Muslimah elegan",
       "occasion": "Traveling (perjalanan luar negeri), Ibadah"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Dingin, Sejuk",
+      "tipe_ukuran": "Graded",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -167,13 +299,25 @@
       "warna": "Black, Broken White, Brown, Denim",
       "ukuran": "All size",
       "detail": "LD L: 120, PB: 92",
-      "dimensi": "34x26x5 cm"
+      "berat": 650,
+      "dimensi": "34x26x5 cm",
+      "max_berat": {
+        "global": 95,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": 18,
+        "max": 24
+      },
       "material": "Scuba",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Open Closure, Drop Shoulder, Sleek Cutting",
-      "collar": "",
+      "fitur_material": "Sejuk, Halus, Elastis",
+      "collar": "-",
       "lengan": "Oversize",
       "adjustable": false,
       "pocket": "Yes",
@@ -186,6 +330,16 @@
       "aktivitas": "Kantoran, Pengajian, Traveling",
       "audience": "Hijaber profesional, Muslimah formal",
       "occasion": "Casual to Semi Formal, Everyday Wear"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Sejuk, Indoor",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -194,13 +348,25 @@
       "warna": "Black, Brown, Burgundy, Green, Grey, Teracotta",
       "ukuran": "L, XL, XXL",
       "detail": "LD L: 106, XL: 114, XXL: 122; PB: 92",
-      "dimensi": "35x28x6 cm"
+      "berat": 750,
+      "dimensi": "35x28x6 cm",
+      "max_berat": {
+        "global": 95,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": 15,
+        "max": 22
+      },
       "material": "Fleece Premium",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Hoodie 2 lapis, Handsock, Curved Rib Pocket",
-      "collar": "",
+      "fitur_material": "Lembut, Hangat, Tidak Berkerut",
+      "collar": "-",
       "lengan": "Drop shoulder, Regular",
       "adjustable": false,
       "pocket": "Waist pocket",
@@ -213,6 +379,16 @@
       "aktivitas": "Traveling, Mengemudi, Haji, Umroh",
       "audience": "Hijaber aktif, Hijaber traveler",
       "occasion": "Outdoor Activity, Casual, Traveling"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Dingin, Sejuk",
+      "tipe_ukuran": "Graded",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -221,13 +397,25 @@
       "warna": "Black, Burgundy, Dusty Pink, Latte",
       "ukuran": "All size",
       "detail": "LD: 120; PB: 80",
-      "dimensi": "36x28x6 cm"
+      "berat": 680,
+      "dimensi": "36x28x6 cm",
+      "max_berat": {
+        "global": 95,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": 22,
+        "max": 28
+      },
       "material": "Baby Terry Premium",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Detachable Hoodie, Handsock, Lightweight",
-      "collar": "",
+      "fitur_material": "Adem, Ringan",
+      "collar": "-",
       "lengan": "Loose",
       "adjustable": true,
       "pocket": "Waist slit",
@@ -240,6 +428,16 @@
       "aktivitas": "Traveling, Olahraga, Pengajian",
       "audience": "Hijaber aktif, Muslimah dinamis",
       "occasion": "Daily Wear, Casual, Light Sports"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Tropis, Panas",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -248,13 +446,25 @@
       "warna": "Black, Mocca",
       "ukuran": "L, XL, XXL",
       "detail": "LD hingga 120 cm",
-      "dimensi": "40x30x8 cm"
+      "berat": 900,
+      "dimensi": "40x30x8 cm",
+      "max_berat": {
+        "global": 100,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": 7,
+        "max": 22
+      },
       "material": "Micro Quilting Parachute & Fleece",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Reversible, Hoodie 2 lapis, Extra Warmth without being heavy",
-      "collar": "",
+      "fitur_material": "Waterproof, Windproof, Hangat",
+      "collar": "-",
       "lengan": "Drop Shoulder",
       "adjustable": true,
       "pocket": "Waist patch & snap",
@@ -267,6 +477,16 @@
       "aktivitas": "Traveling, Umroh, Naik Gunung",
       "audience": "Hijaber traveler, Outdoor enthusiast",
       "occasion": "Traveling, Ibadah, Outdoor Activity"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Dingin, Pancaroba",
+      "tipe_ukuran": "Graded",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -275,13 +495,25 @@
       "warna": "Black",
       "ukuran": "All size",
       "detail": "LD 120cm",
-      "dimensi": "34x28x6 cm"
+      "berat": 784,
+      "dimensi": "34x28x6 cm",
+      "max_berat": {
+        "global": 95,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "Parasut Modestwear",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Hidden Pocket, Zipper Samping",
-      "collar": "",
+      "fitur_material": "Ringan, Sejuk",
+      "collar": "-",
       "lengan": "Regular",
       "adjustable": true,
       "pocket": "Hidden Pocket",
@@ -294,6 +526,16 @@
       "aktivitas": "Hangout, Daily Wear",
       "audience": "Hijaber casual, Fashionista",
       "occasion": "Jalan-jalan, Nongkrong"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Tropis, Sejuk",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -302,12 +544,24 @@
       "warna": "Forest Haze, Graphite Shadow, Midnight Saga",
       "ukuran": "All Size",
       "detail": "LD: 120; PB: 92",
-      "dimensi": "36x28x7 cm"
+      "berat": 780,
+      "dimensi": "36x28x7 cm",
+      "max_berat": {
+        "global": 100,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": 20,
+        "max": 28
+      },
       "material": "Despo Parachute + Inner Net",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Double-layer Hoodie, Full White Zipper, Safety Pocket, Compact Foldable, Back Slit, One-tone Clean Look",
+      "fitur_material": "Windproof, Breathable, Lightweight",
       "collar": "Slim Hoodie (non-bulky), Integrated",
       "lengan": "Oversize, Drop Shoulder",
       "adjustable": true,
@@ -321,6 +575,16 @@
       "aktivitas": "Olahraga, Traveling",
       "audience": "Hijaber sporty, Traveler",
       "occasion": "Outdoor Activity, Casual, Traveling"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Panas, Hujan",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -329,13 +593,25 @@
       "warna": "Coldgrey, Cream, Black",
       "ukuran": "L, XL, XXL",
       "detail": "LD L: 106, XL: 114, XXL: 122; PB: 92",
-      "dimensi": "38x30x7 cm"
+      "berat": 820,
+      "dimensi": "38x30x7 cm",
+      "max_berat": {
+        "global": 100,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": 15,
+        "max": 24
+      },
       "material": "Taslan Parachute + Dourmil Dacron",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Double Closure, Color Block, Hoodie, Utility-Friendly, Lighweight",
-      "collar": "",
+      "fitur_material": "Waterproof 75%, Insulasi, Ringan",
+      "collar": "-",
       "lengan": "Regular",
       "adjustable": false,
       "pocket": "Hip Flap + Chest Inside",
@@ -348,6 +624,16 @@
       "aktivitas": "Traveling, Haji, Umroh, Naik Gunung",
       "audience": "Hijaber aktif, Hijaber traveler",
       "occasion": "Outdoor Activity, Casual, Traveling"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Dingin, Pancaroba",
+      "tipe_ukuran": "Graded",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -356,13 +642,25 @@
       "warna": "Black, Brown, Lavender",
       "ukuran": "All Size",
       "detail": "LD: 120; PB: 92",
-      "dimensi": "35x28x6 cm"
+      "berat": 750,
+      "dimensi": "35x28x6 cm",
+      "max_berat": {
+        "global": 95,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": 22,
+        "max": 28
+      },
       "material": "Premium Coco Knit",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Loose Fit, Full Button, Ribbed Cuffs, Contrast Stitch",
-      "collar": "",
+      "fitur_material": "Lembut, Nyaman",
+      "collar": "-",
       "lengan": "Oversize",
       "adjustable": false,
       "pocket": "Hip Patch Pocket",
@@ -375,6 +673,16 @@
       "aktivitas": "Umroh, Haji, Traveling",
       "audience": "Hijaber formal, Modest fashion enthusiast",
       "occasion": "Casual to Semi Formal, Everyday Wear"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Sejuk, Dingin",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -383,13 +691,25 @@
       "warna": "Black, Broken White, Crystal Pink, Mint, Mocca",
       "ukuran": "All Size",
       "detail": "LD 120; PB: 80",
-      "dimensi": "35x28x6 cm"
+      "berat": 730,
+      "dimensi": "35x28x6 cm",
+      "max_berat": {
+        "global": 95,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "Premium Lonzo Knit",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Loose Fit, Full Button, Handsock Longgar, Sleek Cutting",
-      "collar": "",
+      "fitur_material": "Sejuk, Halus",
+      "collar": "-",
       "lengan": "Oversize, Drop Shoulder",
       "adjustable": false,
       "pocket": "Patch Pocket",
@@ -402,6 +722,16 @@
       "aktivitas": "Pengajian, Formal",
       "audience": "Hijaber profesional",
       "occasion": "Casual to Semi Formal, Everyday Wear"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Dingin, Sejuk",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -410,13 +740,25 @@
       "warna": "Hitam Hitam, Hitam Cream",
       "ukuran": "All Size",
       "detail": "LD 120; PB: 92",
-      "dimensi": "36x30x7 cm"
+      "berat": 850,
+      "dimensi": "36x30x7 cm",
+      "max_berat": {
+        "global": 95,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": 18,
+        "max": 24
+      },
       "material": "Fleece Premium, Parachute Dusky",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Pleats Detail, Slim Cut, Detachable Tie Belt",
-      "collar": "",
+      "fitur_material": "Water Repellent, Nyaman",
+      "collar": "-",
       "lengan": "Regular",
       "adjustable": true,
       "pocket": "Samping kanan kiri",
@@ -429,6 +771,16 @@
       "aktivitas": "Umroh, Haji, Traveling, Kantoran",
       "audience": "Hijaber profesional, Traveler",
       "occasion": "Formal to Semi Formal, Traveling"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Sejuk, Pancaroba",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -437,12 +789,24 @@
       "warna": "Black, Brown, Mint",
       "ukuran": "L, XL, XXL",
       "detail": "LD L: 106, XL: 114, XXL: 122. PB: 92",
-      "dimensi": "36x28x6 cm"
+      "berat": 780,
+      "dimensi": "36x28x6 cm",
+      "max_berat": {
+        "global": "",
+        "L": 75,
+        "XL": 85,
+        "XXL": 95
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": 18,
+        "max": 24
+      },
       "material": "Premium Quilted Knit",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Handsock, Slit Belakang, Zipper + Snap",
+      "fitur_material": "Slim Look, Hangat",
       "collar": "Standing",
       "lengan": "Regular + Handsock",
       "adjustable": false,
@@ -456,6 +820,16 @@
       "aktivitas": "Umroh, Haji, Traveling",
       "audience": "Hijaber feminin, Traveler",
       "occasion": "Traveling, Ibadah, Outdoor Activity"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Dingin, Pancaroba",
+      "tipe_ukuran": "Graded",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -464,13 +838,25 @@
       "warna": "Black, Cream, Skyblue",
       "ukuran": "All Size",
       "detail": "LD: 130; PB: 92",
-      "dimensi": "36x28x6 cm"
+      "berat": 820,
+      "dimensi": "36x28x6 cm",
+      "max_berat": {
+        "global": 100,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": 18,
+        "max": 24
+      },
       "material": "Premium Showery Knit",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Multifunction Hoodie, Hoodie Besar",
-      "collar": "",
+      "fitur_material": "Hangat, Lembut",
+      "collar": "-",
       "lengan": "Oversize, Drop Shoulder",
       "adjustable": true,
       "pocket": "Split Kangaroo",
@@ -483,6 +869,16 @@
       "aktivitas": "Traveling, Umroh, Pengajian",
       "audience": "Hijaber syar’i, Traveler",
       "occasion": "Daily Wear, Casual to Semi Formal"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Sejuk, Tropis",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -491,13 +887,25 @@
       "warna": "Black, Brown, Cream, Grey, Imperial, Mossgreen, Navy, Teracotta",
       "ukuran": "L, XL, XXL",
       "detail": "LD L: 106, XL: 114, XXL: 122. PB: 92",
-      "dimensi": "38x30x8 cm"
+      "berat": 890,
+      "dimensi": "38x30x8 cm",
+      "max_berat": {
+        "global": "",
+        "L": 75,
+        "XL": 85,
+        "XXL": 95
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": 15,
+        "max": 24
+      },
       "material": "Taslan Parachute + Inner Dacron",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Color Block, Hoodie, Belt Stopper, Utility Friendly",
-      "collar": "",
+      "fitur_material": "75% Waterproof, Hangat",
+      "collar": "-",
       "lengan": "Regular",
       "adjustable": true,
       "pocket": "Hip + Chest",
@@ -510,6 +918,16 @@
       "aktivitas": "Naik Gunung, Riding, Traveling",
       "audience": "Hijaber sporty, Traveler",
       "occasion": "Outdoor Activity, Casual, Traveling"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Dingin, Tropis",
+      "tipe_ukuran": "Graded",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -518,13 +936,25 @@
       "warna": "Beige Gold, Black Onyx",
       "ukuran": "All Size",
       "detail": "LD 120; PB: 92",
-      "dimensi": "36x28x6 cm"
+      "berat": 830,
+      "dimensi": "36x28x6 cm",
+      "max_berat": {
+        "global": 95,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": 15,
+        "max": 24
+      },
       "material": "Fleece Premium",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Gold Snap Button, Sleek Cutting",
-      "collar": "",
+      "fitur_material": "Hangat, Ramping",
+      "collar": "-",
       "lengan": "Oversize + Drop Shoulder",
       "adjustable": false,
       "pocket": "Waist Pocket",
@@ -537,6 +967,16 @@
       "aktivitas": "Umroh, Haji, Hangout, Traveling",
       "audience": "Hijaber stylish, Traveler",
       "occasion": "Outdoor Activity, Casual to Semi Formal, Traveling"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Sejuk, Dingin",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -545,12 +985,24 @@
       "warna": "Black, Brown, Mint",
       "ukuran": "L, XL, XXL",
       "detail": "LD L: 106, XL: 114, XXL: 122. PB: 92",
-      "dimensi": "35x28x6 cm"
+      "berat": 770,
+      "dimensi": "35x28x6 cm",
+      "max_berat": {
+        "global": 95,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "Premium Quilted Knit",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Blazer Collar, Slim Look",
+      "fitur_material": "Motif Quilting Wajid",
       "collar": "Blazer",
       "lengan": "Regular",
       "adjustable": false,
@@ -564,6 +1016,16 @@
       "aktivitas": "Umroh, Haji, Pengajian",
       "audience": "Hijaber elegan",
       "occasion": "Formal, Ibadah"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Dingin, Pancaroba",
+      "tipe_ukuran": "Graded",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -572,13 +1034,25 @@
       "warna": "Black, Khaky, Lavender, Marigold, Maroon, Navy, Olive",
       "ukuran": "All Size",
       "detail": "LD 120; PB: 92",
-      "dimensi": "34x26x6 cm"
+      "berat": 720,
+      "dimensi": "34x26x6 cm",
+      "max_berat": {
+        "global": 100,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": 20,
+        "max": 28
+      },
       "material": "Premium Hornet Knit",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Loose Handsock, Curve Cutting, Versatile Design",
-      "collar": "",
+      "fitur_material": "Motif Vertikal, Hangat",
+      "collar": "-",
       "lengan": "Batwing",
       "adjustable": false,
       "pocket": "Hip Patch Pocket",
@@ -591,6 +1065,16 @@
       "aktivitas": "Hangout, Traveling, Pengajian",
       "audience": "Hijaber traveler, Casual muslimah",
       "occasion": "Casual to Semi Formal, Everyday Wear"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Sejuk",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -599,13 +1083,25 @@
       "warna": "Black, Khaky, Navy, Olive",
       "ukuran": "All Size",
       "detail": "LD 120; PB: 113",
-      "dimensi": "36x28x6 cm"
+      "berat": 740,
+      "dimensi": "36x28x6 cm",
+      "max_berat": {
+        "global": 100,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "Premium Hornet Knit",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Split Pocket, Adjustable Belt",
-      "collar": "",
+      "fitur_material": "Slim Look, Elastis",
+      "collar": "-",
       "lengan": "Batwing",
       "adjustable": true,
       "pocket": "Split Kangaroo",
@@ -618,6 +1114,16 @@
       "aktivitas": "Umroh, Haji, Traveling",
       "audience": "Hijaber feminin, Traveler",
       "occasion": "Casual to Semi Formal, Everyday Wear"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Dingin, Tropis",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -626,12 +1132,24 @@
       "warna": "Black, Cream, Skyblue",
       "ukuran": "All Size",
       "detail": "LD 120; PB: 92",
-      "dimensi": "36x28x6 cm"
+      "berat": 800,
+      "dimensi": "36x28x6 cm",
+      "max_berat": {
+        "global": 100,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": 18,
+        "max": 24
+      },
       "material": "Premium Showery Knit",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Shawl Collar, D Ring, Handsock",
+      "fitur_material": "Lembut, Hangat",
       "collar": "Shawl",
       "lengan": "Oversize, Drop Shoulder",
       "adjustable": true,
@@ -645,6 +1163,16 @@
       "aktivitas": "Umroh, Haji, Pengajian, Traveling",
       "audience": "Hijaber modest, Stylish muslimah",
       "occasion": "Casual to Semi Formal, Everyday Wear"
+    },
+    "meta": {
+      "kategori": "Jaket",
+      "season": "Sejuk, Dingin",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -653,14 +1181,26 @@
       "warna": "Black, Latte, Burgundy, Dusty Pink",
       "ukuran": "All Size",
       "detail": "LP: 140; PB: 94",
-      "dimensi": "32x25x3 cm"
+      "berat": 450,
+      "dimensi": "32x25x3 cm",
+      "max_berat": {
+        "global": 100,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": 20,
+        "max": 28
+      },
       "material": "Baby Terry Premium",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Rok Modest dengan Cargo Pocket",
-      "collar": "",
-      "lengan": "",
+      "fitur_material": "Adem, Ringan",
+      "collar": "-",
+      "lengan": "-",
       "adjustable": true,
       "pocket": "Cargo Pocket Samping",
       "closure": "Karet Adjustable",
@@ -672,6 +1212,16 @@
       "aktivitas": "Traveling, Memanah, Tracking",
       "audience": "Muslimah outdoor",
       "occasion": "Outdoor Activity, Casual, Traveling"
+    },
+    "meta": {
+      "kategori": "Clothing",
+      "season": "Tropis",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -680,12 +1230,24 @@
       "warna": "Brownie, Silver",
       "ukuran": "All Size",
       "detail": "LD: 120; PB: 140",
-      "dimensi": "34x26x5 cm"
+      "berat": 720,
+      "dimensi": "34x26x5 cm",
+      "max_berat": {
+        "global": 95,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "Flowy Premium (Silk)",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Zipper depan, Bubble sleeves, Slim-Cutting",
+      "fitur_material": "Ringan, Tidak Mudah Kusut",
       "collar": "Round",
       "lengan": "Bubble",
       "adjustable": false,
@@ -699,6 +1261,16 @@
       "aktivitas": "Umroh, Haji, Party",
       "audience": "Hijaber fashionista, Muslimah aktif",
       "occasion": "Formal to Semi Formal, Traveling"
+    },
+    "meta": {
+      "kategori": "Clothing",
+      "season": "Dingin, Sejuk",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -707,17 +1279,29 @@
       "warna": "Black, Brown",
       "ukuran": "22x7-8 cm",
       "detail": "Panjang 22 cm, lebar fleksibel",
-      "dimensi": "10x6x2 cm"
+      "berat": 60,
+      "dimensi": "10x6x2 cm",
+      "max_berat": {
+        "global": "",
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "Stretch Nylon",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Ergonomis, panjang 22cm",
-      "collar": "",
-      "lengan": "",
+      "fitur_material": "Elastis, Adem",
+      "collar": "-",
+      "lengan": "-",
       "adjustable": true,
-      "pocket": "",
-      "closure": "",
+      "pocket": "-",
+      "closure": "-",
       "modesty": true,
       "concept": "Daily Modestwear",
       "care": "Cuci ringan, jemur tergantung"
@@ -726,6 +1310,16 @@
       "aktivitas": "Berkendara, Ibadah",
       "audience": "Hijaber aktif, Fashionista",
       "occasion": "Daily use"
+    },
+    "meta": {
+      "kategori": "Aksesoris",
+      "season": "Semua musim",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": false,
+        "fitting_required": false,
+        "berat_berpengaruh": false
+      }
     }
   },
   {
@@ -734,13 +1328,25 @@
       "warna": "Sage",
       "ukuran": "Standar, Bigsize",
       "detail": "",
-      "dimensi": "34x26x5 cm"
+      "berat": 680,
+      "dimensi": "34x26x5 cm",
+      "max_berat": {
+        "global": 100,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "Knit Bordir Premium",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Tunik bordir, loose fit",
-      "collar": "",
+      "fitur_material": "Nyaman, Flowing",
+      "collar": "-",
       "lengan": "Regular",
       "adjustable": false,
       "pocket": "Samping",
@@ -753,6 +1359,16 @@
       "aktivitas": "Hangout, Party, Daily Outfit",
       "audience": "Hijaber aktif, Hijaber fashionista",
       "occasion": "Formal to Semi Formal, Everyday Wear"
+    },
+    "meta": {
+      "kategori": "Clothing",
+      "season": "Tropis",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -761,17 +1377,29 @@
       "warna": "MOCCA-BEIGE, DENIM-BLACK",
       "ukuran": "Allsize",
       "detail": "Ergonomis, ruang ekstra telinga",
-      "dimensi": "10x5x2 cm"
+      "berat": 50,
+      "dimensi": "10x5x2 cm",
+      "max_berat": {
+        "global": "",
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "Rajut Elastis",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Ergonomis, Dual tone",
-      "collar": "",
-      "lengan": "",
+      "fitur_material": "Stretchy, Ringan",
+      "collar": "-",
+      "lengan": "-",
       "adjustable": true,
-      "pocket": "",
-      "closure": "",
+      "pocket": "-",
+      "closure": "-",
       "modesty": true,
       "concept": "Ciput Twotone",
       "care": "Cuci ringan"
@@ -780,6 +1408,16 @@
       "aktivitas": "Olahraga, Daily Outfit",
       "audience": "Hijaber aktif",
       "occasion": "Semua aktivitas"
+    },
+    "meta": {
+      "kategori": "Aksesoris",
+      "season": "Semua musim",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -788,16 +1426,28 @@
       "warna": "Brown",
       "ukuran": "One size fits all",
       "detail": "Adjustable knot system",
-      "dimensi": "25x5x3 cm"
+      "berat": 120,
+      "dimensi": "25x5x3 cm",
+      "max_berat": {
+        "global": "",
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "Kulit sintetis premium",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Simpul tanpa lubang, adjustable",
-      "collar": "",
-      "lengan": "",
+      "fitur_material": "Elastis",
+      "collar": "-",
+      "lengan": "-",
       "adjustable": true,
-      "pocket": "",
+      "pocket": "-",
       "closure": "Knot System",
       "modesty": true,
       "concept": "Modern Flexible Belt",
@@ -807,6 +1457,16 @@
       "aktivitas": "Hangout, Traveling, Daily",
       "audience": "Hijaber fashionista",
       "occasion": "Fashion accessorizing"
+    },
+    "meta": {
+      "kategori": "Aksesoris",
+      "season": "Semua musim",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -815,13 +1475,25 @@
       "warna": "Brownie (Coklat keemasan), Enigma (Ungu lavender)",
       "ukuran": "All size",
       "detail": "Tunic LD 204 cm, Skirt adjustable",
-      "dimensi": "36x30x5 cm"
+      "berat": 750,
+      "dimensi": "36x30x5 cm",
+      "max_berat": {
+        "global": 95,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "Premium Flowy Knit",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Set tunik & rok",
-      "collar": "",
+      "fitur_material": "Ringan, Lembut",
+      "collar": "-",
       "lengan": "Panjang Regular",
       "adjustable": true,
       "pocket": "Hidden",
@@ -834,6 +1506,16 @@
       "aktivitas": "Umroh, Haji, Hangout, Party",
       "audience": "Hijaber aktif, Traveler, Fashionista",
       "occasion": "Formal to Semi Formal"
+    },
+    "meta": {
+      "kategori": "Clothing",
+      "season": "Sejuk, Dingin",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -842,16 +1524,28 @@
       "warna": "Black, Khaky, Lavender, Marigold, Maroon, Navy, Olive",
       "ukuran": "All Size",
       "detail": "2 lapis, earloop/headloop",
-      "dimensi": "8x12x2 cm"
+      "berat": 30,
+      "dimensi": "8x12x2 cm",
+      "max_berat": {
+        "global": "",
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "Knit Stretch 2 Lapis",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Earloop & Headloop",
-      "collar": "",
-      "lengan": "",
+      "fitur_material": "Breathable",
+      "collar": "-",
+      "lengan": "-",
       "adjustable": true,
-      "pocket": "",
+      "pocket": "-",
       "closure": "Elastic strap",
       "modesty": true,
       "concept": "Hijab-Friendly Mask",
@@ -861,6 +1555,16 @@
       "aktivitas": "Daily, Traveling, Ibadah",
       "audience": "Hijaber aktif",
       "occasion": "Luar rumah, Perjalanan"
+    },
+    "meta": {
+      "kategori": "Aksesoris",
+      "season": "Semua musim",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -869,17 +1573,29 @@
       "warna": "Silcream, Sand, Sage, Mocca, Maroon, Black",
       "ukuran": "115 x 115 cm",
       "detail": "",
-      "dimensi": "20x20x2 cm"
+      "berat": 114,
+      "dimensi": "20x20x2 cm",
+      "max_berat": {
+        "global": "",
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "HJ Ultrafine Voal",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Double layer anti tembus",
-      "collar": "",
-      "lengan": "",
+      "fitur_material": "Ringan, Tidak mudah kusut",
+      "collar": "-",
+      "lengan": "-",
       "adjustable": false,
-      "pocket": "",
-      "closure": "",
+      "pocket": "-",
+      "closure": "-",
       "modesty": true,
       "concept": "Simple Syar’i Formal",
       "care": "Cuci manual, hindari setrika panas"
@@ -888,6 +1604,16 @@
       "aktivitas": "Formal, Santai, Hangout",
       "audience": "Hijaber casual chic, Traveler",
       "occasion": "Harian, Event Muslimah"
+    },
+    "meta": {
+      "kategori": "Hijab",
+      "season": "Semua musim",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": false,
+        "fitting_required": false,
+        "berat_berpengaruh": false
+      }
     }
   },
   {
@@ -896,12 +1622,24 @@
       "warna": "Dessert Sand (Ivory), Midnight Dune (Black)",
       "ukuran": "M, L, XL",
       "detail": "LD/L.Bahu: M:108/44, L: 114/46, XL: 118/48; PB M/L/XL: 44/46/48 ",
-      "dimensi": ""
+      "berat": 627,
+      "dimensi": "",
+      "max_berat": {
+        "global": "",
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "Premium Arabian Twill",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Long Sleeve Shirt wudhu friendly, pleat details",
+      "fitur_material": "Ringan, Tidak mudah kusut",
       "collar": "Round",
       "lengan": "Panjang Regular",
       "adjustable": false,
@@ -915,6 +1653,16 @@
       "aktivitas": "Umroh, Haji, Hangout, Shalat Jumat",
       "audience": "Muslim pria traveler",
       "occasion": "Formal to Semi Formal"
+    },
+    "meta": {
+      "kategori": "Clothing",
+      "season": "Dingin, Tropis",
+      "tipe_ukuran": "Graded",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -923,12 +1671,24 @@
       "warna": "Dessert Sand (Ivory), Midnight Dune (Black)",
       "ukuran": "M, L, XL",
       "detail": "LD L: 106, XL: 114, XXL: 122. PB: 140",
-      "dimensi": ""
+      "berat": 708,
+      "dimensi": "",
+      "max_berat": {
+        "global": "",
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "Premium Arabian Twill",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Long dress wudhu friendly, pleat details",
+      "fitur_material": "Ringan, Tidak mudah kusut",
       "collar": "Round",
       "lengan": "Panjang Regular",
       "adjustable": false,
@@ -942,6 +1702,16 @@
       "aktivitas": "Umroh, Haji, Hangout",
       "audience": "Hijaber traveler",
       "occasion": "Formal to Semi Formal, Everyday Wear"
+    },
+    "meta": {
+      "kategori": "Clothing",
+      "season": "Sejuk, Dingin",
+      "tipe_ukuran": "Graded",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -950,13 +1720,25 @@
       "warna": "Black, Protabella",
       "ukuran": "All size",
       "detail": "LD 120 cm, panjang 142 cm",
-      "dimensi": "35x27x6 cm"
+      "berat": 720,
+      "dimensi": "35x27x6 cm",
+      "max_berat": {
+        "global": 95,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "Premium Knit",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Long dress wudhu friendly",
-      "collar": "",
+      "fitur_material": "Hangat, Slim",
+      "collar": "-",
       "lengan": "Regular",
       "adjustable": false,
       "pocket": "Sisi",
@@ -969,6 +1751,16 @@
       "aktivitas": "Umroh, Haji, Ibadah",
       "audience": "Hijaber traveler, Muslimah ibadah-ready",
       "occasion": "Casual to Semi Formal, Everyday Wear, Traveling"
+    },
+    "meta": {
+      "kategori": "Clothing",
+      "season": "Dingin",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -977,14 +1769,26 @@
       "warna": "Sage",
       "ukuran": "All size",
       "detail": "LD 120 cm, Panjang 80 cm",
-      "dimensi": "32x25x4 cm"
+      "berat": 500,
+      "dimensi": "32x25x4 cm",
+      "max_berat": {
+        "global": 90,
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "Bordir Premium",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Vest fit, Elegant layer",
-      "collar": "",
-      "lengan": "",
+      "fitur_material": "Ringan, Stylish",
+      "collar": "-",
+      "lengan": "-",
       "adjustable": true,
       "pocket": "Hidden",
       "closure": "Slip-on",
@@ -996,6 +1800,16 @@
       "aktivitas": "Office Look, Daily Outfit",
       "audience": "Hijaber profesional",
       "occasion": "Formal to Semi Formal, Everyday Wear"
+    },
+    "meta": {
+      "kategori": "Clothing",
+      "season": "Indoor, Sejuk",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -1004,16 +1818,28 @@
       "warna": "Bloom Noir, Petal Whisper",
       "ukuran": "3 ml",
       "detail": "Botol kecil gift pack",
-      "dimensi": "6x2x2 cm"
+      "berat": 20,
+      "dimensi": "6x2x2 cm",
+      "max_berat": {
+        "global": "",
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "Essential Oil",
       "komposisi": "Bloom Noir / Petal Whisper",
       "fitur": "Mini roll-on 3ml",
-      "collar": "",
-      "lengan": "",
-      "adjustable": "",
-      "pocket": "",
+      "fitur_material": "Aroma Soft Elegant",
+      "collar": "-",
+      "lengan": "-",
+      "adjustable": false,
+      "pocket": "-",
       "closure": "Roll-on",
       "modesty": true,
       "concept": "Mini Perfume, Travel Friendly",
@@ -1023,6 +1849,16 @@
       "aktivitas": "Daily, Hadiah",
       "audience": "Muslimah modern",
       "occasion": "Gift, Test use"
+    },
+    "meta": {
+      "kategori": "Parfum",
+      "season": "Semua musim",
+      "tipe_ukuran": "Non-wearable",
+      "flags": {
+        "ukuran_relevan": false,
+        "fitting_required": false,
+        "berat_berpengaruh": false
+      }
     }
   },
   {
@@ -1031,16 +1867,28 @@
       "warna": "Bloom Noir, Petal Whisper",
       "ukuran": "35 ml",
       "detail": "Botol kaca tebal + box",
-      "dimensi": "12x4x4 cm"
+      "berat": 160,
+      "dimensi": "12x4x4 cm",
+      "max_berat": {
+        "global": "",
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "Essential Oil",
       "komposisi": "Bloom Noir / Petal Whisper",
       "fitur": "Botol kaca 35ml + Box",
-      "collar": "",
-      "lengan": "",
-      "adjustable": "",
-      "pocket": "",
+      "fitur_material": "Aroma tahan lama",
+      "collar": "-",
+      "lengan": "-",
+      "adjustable": false,
+      "pocket": "-",
       "closure": "Spray Pump",
       "modesty": true,
       "concept": "Premium Muslimah Fragrance",
@@ -1050,6 +1898,16 @@
       "aktivitas": "Traveling, Acara Spesial",
       "audience": "Hijaber profesional",
       "occasion": "Luxury presence"
+    },
+    "meta": {
+      "kategori": "Parfum",
+      "season": "Siang & Malam",
+      "tipe_ukuran": "Non-wearable",
+      "flags": {
+        "ukuran_relevan": false,
+        "fitting_required": false,
+        "berat_berpengaruh": false
+      }
     }
   },
   {
@@ -1058,16 +1916,28 @@
       "warna": "Black, Palestine",
       "ukuran": "All Size",
       "detail": "Twill cotton, adjustable strap",
-      "dimensi": "20x20x10 cm"
+      "berat": 120,
+      "dimensi": "20x20x10 cm",
+      "max_berat": {
+        "global": "",
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "Twill Cotton Premium",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Adjustable strap",
-      "collar": "",
-      "lengan": "",
+      "fitur_material": "Lembut, UV Protection",
+      "collar": "-",
+      "lengan": "-",
       "adjustable": true,
-      "pocket": "",
+      "pocket": "-",
       "closure": "Adjustable strap",
       "modesty": true,
       "concept": "Casual Hijaber Hat",
@@ -1077,6 +1947,16 @@
       "aktivitas": "Hangout, Traveling",
       "audience": "Hijaber traveler",
       "occasion": "Daily outdoor"
+    },
+    "meta": {
+      "kategori": "Aksesoris",
+      "season": "Panas",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -1085,17 +1965,29 @@
       "warna": "Black, Beige",
       "ukuran": "All Size",
       "detail": "Thumb split, silikon anti-slip",
-      "dimensi": "12x10x3 cm"
+      "berat": 90,
+      "dimensi": "12x10x3 cm",
+      "max_berat": {
+        "global": "",
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "Knit Elastis",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Antislip, Tidak Geser",
-      "collar": "",
-      "lengan": "",
+      "fitur_material": "Thumb Hole + Silikon",
+      "collar": "-",
+      "lengan": "-",
       "adjustable": true,
-      "pocket": "",
-      "closure": "",
+      "pocket": "-",
+      "closure": "-",
       "modesty": true,
       "concept": "Daily Muslimah Socks",
       "care": "Cuci ringan"
@@ -1104,6 +1996,16 @@
       "aktivitas": "Indoor, Jalan di lantai licin",
       "audience": "Hijaber aktif",
       "occasion": "Indoor sport, Aktivitas rumah"
+    },
+    "meta": {
+      "kategori": "Aksesoris",
+      "season": "Semua musim",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -1112,17 +2014,29 @@
       "warna": "Black, Beige",
       "ukuran": "All Size",
       "detail": "Desain jari terbuka, anti-slip",
-      "dimensi": "12x10x3 cm"
+      "berat": 90,
+      "dimensi": "12x10x3 cm",
+      "max_berat": {
+        "global": "",
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "Knit Elastis",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Antislip, Praktis Wudhu",
-      "collar": "",
-      "lengan": "",
+      "fitur_material": "Jempol Terbuka, Silikon",
+      "collar": "-",
+      "lengan": "-",
       "adjustable": true,
-      "pocket": "",
-      "closure": "",
+      "pocket": "-",
+      "closure": "-",
       "modesty": true,
       "concept": "Functional Socks",
       "care": "Cuci ringan"
@@ -1131,6 +2045,16 @@
       "aktivitas": "Umroh, Haji, Ibadah",
       "audience": "Hijaber traveler",
       "occasion": "Ibadah, Wudhu"
+    },
+    "meta": {
+      "kategori": "Aksesoris",
+      "season": "Sejuk, Dingin",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -1139,17 +2063,29 @@
       "warna": "White, Black, Beige, Brown",
       "ukuran": "All Size",
       "detail": "Jempol terpisah, ringan",
-      "dimensi": "12x10x3 cm"
+      "berat": 80,
+      "dimensi": "12x10x3 cm",
+      "max_berat": {
+        "global": "",
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "Rajut Elastis",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Kaos kaki jempol",
-      "collar": "",
-      "lengan": "",
+      "fitur_material": "Thumb split, Lentur",
+      "collar": "-",
+      "lengan": "-",
       "adjustable": false,
-      "pocket": "",
-      "closure": "",
+      "pocket": "-",
+      "closure": "-",
       "modesty": true,
       "concept": "Modest Socks",
       "care": "Cuci manual"
@@ -1158,6 +2094,16 @@
       "aktivitas": "Daily Outfit, Traveling",
       "audience": "Hijaber aktif",
       "occasion": "Harian"
+    },
+    "meta": {
+      "kategori": "Aksesoris",
+      "season": "Tropis",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   },
   {
@@ -1166,17 +2112,29 @@
       "warna": "Cream",
       "ukuran": "All Size",
       "detail": "Wudhu-friendly, aksen logo",
-      "dimensi": "10x8x3 cm"
+      "berat": 80,
+      "dimensi": "10x8x3 cm",
+      "max_berat": {
+        "global": "",
+        "L": "",
+        "XL": "",
+        "XXL": ""
+      }
     },
     "spesifikasi": {
+      "suhu": {
+        "min": "",
+        "max": ""
+      },
       "material": "Nylon Premium",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Kaos kaki panjang logo Hijacket",
-      "collar": "",
-      "lengan": "",
+      "fitur_material": "Wudhu Friendly, Lembut",
+      "collar": "-",
+      "lengan": "-",
       "adjustable": false,
-      "pocket": "",
-      "closure": "",
+      "pocket": "-",
+      "closure": "-",
       "modesty": true,
       "concept": "Elegant Socks",
       "care": "Cuci lembut"
@@ -1185,6 +2143,16 @@
       "aktivitas": "Hangout, Traveling",
       "audience": "Hijaber aktif",
       "occasion": "Daily fashion, Wudhu"
+    },
+    "meta": {
+      "kategori": "Aksesoris",
+      "season": "Semua musim",
+      "tipe_ukuran": "All Size",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      }
     }
   }
 ]
