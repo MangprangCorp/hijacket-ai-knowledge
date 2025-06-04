@@ -1,6 +1,16 @@
 [
   {
     "product_id": "HJ-AGNEZIA",
+    "sku": "HJ-AGZ",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Agnezia",
+    "kategori": "Jacket",
+    "sub_kategori": "Hijacket",
+    "status": "Limited Edition",
+    "deskripsi_singkat": "Jaket quilted eksklusif dengan signature belt.",
+    "deskripsi_lengkap": "Hijacket Agnezia adalah jaket quilted eksklusif dari Hijacket yang terbuat dari bahan Micro Quilting Parachute, dilengkapi double front cover, belt khas Hijacket, dan saku luar-dalam. Cocok untuk traveling, umroh, hingga formal.",
+    "harga_normal": 539000,
+    "harga_promo": 431200,
     "variasi": {
       "warna": "Black, Maroon, Green",
       "ukuran": "L, XL, XXL",
@@ -37,7 +47,7 @@
       "occasion": "Traveling (perjalanan luar negeri), Ibadah"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Jacket",
       "season": "Dingin, Pancaroba",
       "tipe_ukuran": "Graded",
       "flags": {
@@ -55,6 +65,16 @@
   },
   {
     "product_id": "HJ-AISYA",
+    "sku": "HJ-AIS",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Aisya",
+    "kategori": "Cape",
+    "sub_kategori": "Hijacket",
+    "status": "Best Seller",
+    "deskripsi_singkat": "Cape syar’i dengan hoodie multifungsi.",
+    "deskripsi_lengkap": "Hijacket Aisya adalah cape muslimah berbahan Coco Knit premium, memiliki hoodie besar, handsock stylish, dan potongan half-round elegan. Cocok untuk pengajian, traveling, umroh, dan riding.",
+    "harga_normal": 359000,
+    "harga_promo": 287200,
     "variasi": {
       "warna": "Black, Brown, Denim, Lavender, Red",
       "ukuran": "Free Size",
@@ -89,7 +109,7 @@
       "occasion": "Casual, Ibadah, Daily Wear"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Cape",
       "season": "Semua musim",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -104,9 +124,19 @@
   },
   {
     "product_id": "HJ-ALETA",
+    "sku": "HJ-ALT",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Aleta",
+    "kategori": "Jacket",
+    "sub_kategori": "Hijacket",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Jaket parasut premium dengan hoodie besar.",
+    "deskripsi_lengkap": "Hijacket Aleta dibuat dari parasut dusky, tahan air, cocok untuk traveling, sport, dan umroh.",
+    "harga_normal": 619000,
+    "harga_promo": 495200,
     "variasi": {
       "warna": "Black, Beige",
-      "ukuran": "All size",
+      "ukuran": "All Size",
       "detail": "LD 135, PB: 80",
       "berat": 850,
       "dimensi": "38x30x7 cm",
@@ -138,7 +168,7 @@
       "occasion": "Perjalanan jauh, Casual"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Jacket",
       "season": "Pancaroba, Hujan",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -153,9 +183,19 @@
   },
   {
     "product_id": "HJ-ARA",
+    "sku": "HJ-ARA",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Ara",
+    "kategori": "Outer",
+    "sub_kategori": "Hijacket",
+    "status": "Big Sale",
+    "deskripsi_singkat": "Outer ringan dan fleksibel untuk aktivitas muslimah.",
+    "deskripsi_lengkap": "Hijacket Ara hadir dengan penutup dada tali kreasional dan lengan bubble, cocok untuk hangout dan acara semi formal.",
+    "harga_normal": 305000,
+    "harga_promo": 244000,
     "variasi": {
       "warna": "Black, Cream, Denim, Dusty Pink, Maroon, Mint, Purple, Teracotta",
-      "ukuran": "All size",
+      "ukuran": "All Size",
       "detail": "LD 130; PB: 80",
       "berat": 700,
       "dimensi": "34x28x6 cm",
@@ -187,7 +227,7 @@
       "occasion": "Kegiatan harian, Casual"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Outer",
       "season": "Semua musim",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -202,6 +242,16 @@
   },
   {
     "product_id": "HJ-BATARI",
+    "sku": "HJ-BTR",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Batari",
+    "kategori": "Sweatshirt",
+    "sub_kategori": "Hijacket",
+    "status": "Must Have",
+    "deskripsi_singkat": "Sweatshirt sporty khas JMFW 2024.",
+    "deskripsi_lengkap": "Hijacket Batari hadir dengan hoodie 2 lapis, emboss logo, dan crossfront collar unik. Cocok untuk ibadah dan daily outfit.",
+    "harga_normal": 379000,
+    "harga_promo": 303200,
     "variasi": {
       "warna": "Beige Gold, Black Onyx, Misty Gray",
       "ukuran": "All Size",
@@ -236,7 +286,7 @@
       "occasion": "Daily Wear, Casual, Light Sports"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Sweatshirt",
       "season": "Dingin, Pancaroba",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -251,6 +301,16 @@
   },
   {
     "product_id": "HJ-BELVA",
+    "sku": "HJ-BLV",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Belva",
+    "kategori": "Medium Puffer",
+    "sub_kategori": "Hijacket",
+    "status": "Best Seller",
+    "deskripsi_singkat": "Jaket slim cutting dengan bahan tahan cuaca.",
+    "deskripsi_lengkap": "Hijacket Belva adalah jaket muslimah dengan desain slim dan bahan Micro Quilting Parachute, lengkap dengan kantong luar-dalam dan slit belakang. Tersedia dalam banyak warna untuk kebutuhan ibadah dan harian.",
+    "harga_normal": 499000,
+    "harga_promo": 399200,
     "variasi": {
       "warna": "Black Ebony, Cloudgrey, Goldenrod, Indigo Blue, Marigold, Mocca, Red Burgundy, Scarlett Brown, Seaweed, Teracotta, Coldgrey",
       "ukuran": "L, XL, XXL",
@@ -287,7 +347,7 @@
       "occasion": "Traveling (perjalanan luar negeri), Ibadah"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Medium Puffer",
       "season": "Dingin, Sejuk",
       "tipe_ukuran": "Graded",
       "flags": {
@@ -305,6 +365,16 @@
   },
   {
     "product_id": "HJ-DAYANA",
+    "sku": "HJ-DYN",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Dayana",
+    "kategori": "Cardigan",
+    "sub_kategori": "Hijacket",
+    "status": "Must Have",
+    "deskripsi_singkat": "Cardigan formal berbahan scuba yang sejuk.",
+    "deskripsi_lengkap": "Hijacket Dayana dengan desain open closure, lengan oversize, cocok untuk kantor hingga pengajian.",
+    "harga_normal": 259000,
+    "harga_promo": 207200,
     "variasi": {
       "warna": "Black, Broken White, Brown, Denim",
       "ukuran": "All size",
@@ -339,7 +409,7 @@
       "occasion": "Casual to Semi Formal, Everyday Wear"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Cardigan",
       "season": "Sejuk, Indoor",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -354,6 +424,16 @@
   },
   {
     "product_id": "HJ-ELEKTRA",
+    "sku": "HJ-ELK",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Elektra",
+    "kategori": "Jacket",
+    "sub_kategori": "Hijacket",
+    "status": "Best Seller",
+    "deskripsi_singkat": "Jaket fleece premium dengan siluet slim.",
+    "deskripsi_lengkap": "Hijacket Elektra lengkap dengan handsock, potongan curve, dan hoodie 2 lapis.",
+    "harga_normal": 285000,
+    "harga_promo": 219000,
     "variasi": {
       "warna": "Black, Brown, Burgundy, Green, Grey, Teracotta",
       "ukuran": "L, XL, XXL",
@@ -388,7 +468,7 @@
       "occasion": "Outdoor Activity, Casual, Traveling"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Jacket",
       "season": "Dingin, Sejuk",
       "tipe_ukuran": "Graded",
       "flags": {
@@ -403,9 +483,19 @@
   },
   {
     "product_id": "HJ-EZZENZA",
+    "sku": "HJ-EZZ",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Ezzenza",
+    "kategori": "Light Jacket",
+    "sub_kategori": "Hijacket",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Jaket ringan dengan harga terjangkau.",
+    "deskripsi_lengkap": "Hijacket Ezzenza berbahan Baby Terry Premium, detachable hoodie, cocok untuk muslimah aktif.",
+    "harga_normal": 189000,
+    "harga_promo": 151200,
     "variasi": {
       "warna": "Black, Burgundy, Dusty Pink, Latte",
-      "ukuran": "All size",
+      "ukuran": "All Size",
       "detail": "LD: 120; PB: 80",
       "berat": 680,
       "dimensi": "36x28x6 cm",
@@ -437,7 +527,7 @@
       "occasion": "Daily Wear, Casual, Light Sports"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Light Jacket",
       "season": "Tropis, Panas",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -452,6 +542,16 @@
   },
   {
     "product_id": "HJ-GENOVA",
+    "sku": "HJ-GNV",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Genova",
+    "kategori": "Reversible Jacket",
+    "sub_kategori": "Hijacket",
+    "status": "Must Have",
+    "deskripsi_singkat": "Jaket reversible dengan dua tampilan.",
+    "deskripsi_lengkap": "Hijacket Genova memiliki sisi Micro Quilting dan sisi fleece, cocok untuk traveling dan ibadah.",
+    "harga_normal": 579000,
+    "harga_promo": 463200,
     "variasi": {
       "warna": "Black, Mocca",
       "ukuran": "L, XL, XXL",
@@ -486,7 +586,7 @@
       "occasion": "Traveling, Ibadah, Outdoor Activity"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Reversible Jacket",
       "season": "Dingin, Pancaroba",
       "tipe_ukuran": "Graded",
       "flags": {
@@ -504,9 +604,19 @@
   },
   {
     "product_id": "HJ-GISELA",
+    "sku": "HJ-GSL",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Gisella",
+    "kategori": "Jacket",
+    "sub_kategori": "Hijacket",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Jaket stylish untuk muslimah aktif.",
+    "deskripsi_lengkap": "Hijacket Gisella dirancang dengan siluet feminin dan material ringan. Cocok untuk daily outfit.",
+    "harga_normal": 399000,
+    "harga_promo": 319200,
     "variasi": {
       "warna": "Black",
-      "ukuran": "All size",
+      "ukuran": "All Size",
       "detail": "LD 120cm",
       "berat": 784,
       "dimensi": "34x28x6 cm",
@@ -534,7 +644,7 @@
       "occasion": "Jalan-jalan, Nongkrong"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Jacket",
       "season": "Tropis, Sejuk",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -549,6 +659,16 @@
   },
   {
     "product_id": "HJ-GLIDE",
+    "sku": "HJ-GLD",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Glide",
+    "kategori": "Tracktop",
+    "sub_kategori": "Hijacket",
+    "status": "Must Have",
+    "deskripsi_singkat": "Tracktop ringan dan unisex.",
+    "deskripsi_lengkap": "Hijacket Glide berbahan despo parachute dengan inner net, packable, dan wudhu-friendly.",
+    "harga_normal": 319000,
+    "harga_promo": 255200,
     "variasi": {
       "warna": "Forest Haze, Graphite Shadow, Midnight Saga",
       "ukuran": "All Size",
@@ -583,7 +703,7 @@
       "occasion": "Outdoor Activity, Casual, Traveling"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Tracktop",
       "season": "Panas, Hujan",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -598,6 +718,16 @@
   },
   {
     "product_id": "HJ-IXORA",
+    "sku": "HJ-IXR",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Ixora",
+    "kategori": "Parka",
+    "sub_kategori": "Hijacket",
+    "status": "Best Seller",
+    "deskripsi_singkat": "Parka waterproof dan windproof.",
+    "deskripsi_lengkap": "Hijacket Ixora dilengkapi double cover, color block, dan desain unisex.",
+    "harga_normal": 449000,
+    "harga_promo": 359200,
     "variasi": {
       "warna": "Coldgrey, Cream, Black",
       "ukuran": "L, XL, XXL",
@@ -632,7 +762,7 @@
       "occasion": "Outdoor Activity, Casual, Traveling"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Parka",
       "season": "Dingin, Pancaroba",
       "tipe_ukuran": "Graded",
       "flags": {
@@ -647,6 +777,16 @@
   },
   {
     "product_id": "HJ-KAULA",
+    "sku": "HJ-KAU",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Kaula",
+    "kategori": "Cardigan",
+    "sub_kategori": "Hijacket",
+    "status": "Best Seller",
+    "deskripsi_singkat": "Cardigan klasik elegan untuk muslimah aktif.",
+    "deskripsi_lengkap": "Hijacket Kaula hadir dengan aksen contrast stitch dan bahan coco knit premium.",
+    "harga_normal": 359000,
+    "harga_promo": 287200,
     "variasi": {
       "warna": "Black, Brown, Lavender",
       "ukuran": "All Size",
@@ -681,7 +821,7 @@
       "occasion": "Casual to Semi Formal, Everyday Wear"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Cardigan",
       "season": "Sejuk, Dingin",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -696,6 +836,16 @@
   },
   {
     "product_id": "HJ-KHADIJAH",
+    "sku": "HJ-KHD",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Khadijah",
+    "kategori": "Cardigan",
+    "sub_kategori": "Hijacket",
+    "status": "Limited Edition",
+    "deskripsi_singkat": "Cardigan longgar dengan handsock dan button aktif.",
+    "deskripsi_lengkap": "Hijacket Khadijah cocok untuk acara formal, pengajian, hingga ibadah.",
+    "harga_normal": 359000,
+    "harga_promo": 287200,
     "variasi": {
       "warna": "Black, Broken White, Crystal Pink, Mint, Mocca",
       "ukuran": "All Size",
@@ -726,7 +876,7 @@
       "occasion": "Casual to Semi Formal, Everyday Wear"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Cardigan",
       "season": "Dingin, Sejuk",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -741,6 +891,16 @@
   },
   {
     "product_id": "HJ-LAURA",
+    "sku": "HJ-LAU",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Laura",
+    "kategori": "Blazer",
+    "sub_kategori": "Hijacket",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Blazer parasut dengan aksen pleats.",
+    "deskripsi_lengkap": "Hijacket Laura cocok untuk pekerja kantoran dan traveler. Tersedia dalam warna elegan.",
+    "harga_normal": 619000,
+    "harga_promo": 495200,
     "variasi": {
       "warna": "Hitam Hitam, Hitam Cream",
       "ukuran": "All Size",
@@ -775,7 +935,7 @@
       "occasion": "Formal to Semi Formal, Traveling"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Blazer",
       "season": "Sejuk, Pancaroba",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -790,6 +950,16 @@
   },
   {
     "product_id": "HJ-MARWAH",
+    "sku": "HJ-MRW",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Marwah",
+    "kategori": "Jacket",
+    "sub_kategori": "Hijacket",
+    "status": "Best Seller",
+    "deskripsi_singkat": "Jaket ramping dengan motif quilting wajid.",
+    "deskripsi_lengkap": "Hijacket Marwah hadir dengan potongan curve dan handsock stylish.",
+    "harga_normal": 479000,
+    "harga_promo": 383200,
     "variasi": {
       "warna": "Black, Brown, Mint",
       "ukuran": "L, XL, XXL",
@@ -826,7 +996,7 @@
       "occasion": "Traveling, Ibadah, Outdoor Activity"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Jacket",
       "season": "Dingin, Pancaroba",
       "tipe_ukuran": "Graded",
       "flags": {
@@ -841,6 +1011,16 @@
   },
   {
     "product_id": "HJ-MARYAM",
+    "sku": "HJ-MYM",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Maryam",
+    "kategori": "Jacket Tudung",
+    "sub_kategori": "Hijacket",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Jaket hoodie multifungsi bisa jadi hijab.",
+    "deskripsi_lengkap": "Hijacket Maryam cocok untuk muslimah traveling dan ibadah, berbahan showery knit.",
+    "harga_normal": 439000,
+    "harga_promo": 351200,
     "variasi": {
       "warna": "Black, Cream, Skyblue",
       "ukuran": "All Size",
@@ -875,7 +1055,7 @@
       "occasion": "Daily Wear, Casual to Semi Formal"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Jacket Tudung",
       "season": "Sejuk, Tropis",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -890,6 +1070,16 @@
   },
   {
     "product_id": "HJ-MONTIX",
+    "sku": "HJ-MT",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Montix",
+    "kategori": "Parka",
+    "sub_kategori": "Hijacket",
+    "status": "Limited Edition",
+    "deskripsi_singkat": "Parka unisex dengan desain bold.",
+    "deskripsi_lengkap": "Hijacket Montix cocok untuk naik gunung, ibadah, riding, dan tahan cuaca.",
+    "harga_normal": 449000,
+    "harga_promo": 359200,
     "variasi": {
       "warna": "Black, Brown, Cream, Grey, Imperial, Mossgreen, Navy, Teracotta",
       "ukuran": "L, XL, XXL",
@@ -926,7 +1116,7 @@
       "occasion": "Outdoor Activity, Casual, Traveling"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Parka",
       "season": "Dingin, Tropis",
       "tipe_ukuran": "Graded",
       "flags": {
@@ -941,6 +1131,16 @@
   },
   {
     "product_id": "HJ-NAYARA",
+    "sku": "HJ-NYR",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Nayara",
+    "kategori": "Jacket",
+    "sub_kategori": "Hijacket",
+    "status": "Best Seller",
+    "deskripsi_singkat": "Jaket feminin dan romantic dengan curve ramping.",
+    "deskripsi_lengkap": "Hijacket Nayara cocok untuk formal, ibadah, dan keseharian stylish muslimah.",
+    "harga_normal": 439000,
+    "harga_promo": 351200,
     "variasi": {
       "warna": "Beige Gold, Black Onyx",
       "ukuran": "All Size",
@@ -975,7 +1175,7 @@
       "occasion": "Outdoor Activity, Casual to Semi Formal, Traveling"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Jacket",
       "season": "Sejuk, Dingin",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -990,6 +1190,16 @@
   },
   {
     "product_id": "HJ-SHAFA",
+    "sku": "HJ-SHF",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Shafa",
+    "kategori": "Coat",
+    "sub_kategori": "Hijacket",
+    "status": "Must Have",
+    "deskripsi_singkat": "Coat quilting motif wajid dengan blazer collar.",
+    "deskripsi_lengkap": "Hijacket Shafa cocok untuk aktivitas ibadah, hangout, dan keseharian profesional.",
+    "harga_normal": 479000,
+    "harga_promo": 383200,
     "variasi": {
       "warna": "Black, Brown, Mint",
       "ukuran": "L, XL, XXL",
@@ -1020,7 +1230,7 @@
       "occasion": "Formal, Ibadah"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Coat",
       "season": "Dingin, Pancaroba",
       "tipe_ukuran": "Graded",
       "flags": {
@@ -1035,6 +1245,16 @@
   },
   {
     "product_id": "HJ-SYLVANIA",
+    "sku": "HJ-SYL",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Sylvania",
+    "kategori": "Cardigan",
+    "sub_kategori": "Hijacket",
+    "status": "Best Seller",
+    "deskripsi_singkat": "Cardigan sporty dengan potongan ramping.",
+    "deskripsi_lengkap": "Hijacket Sylvania dilengkapi hoodie besar dan handsock loose, cocok untuk umroh & pengajian.",
+    "harga_normal": 189000,
+    "harga_promo": 151200,
     "variasi": {
       "warna": "Black, Khaky, Lavender, Marigold, Maroon, Navy, Olive",
       "ukuran": "All Size",
@@ -1069,7 +1289,7 @@
       "occasion": "Casual to Semi Formal, Everyday Wear"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Cardigan",
       "season": "Sejuk",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -1084,6 +1304,16 @@
   },
   {
     "product_id": "HJ-TIFANNIA",
+    "sku": "HJ-TFN",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Tifannia",
+    "kategori": "Cardigan",
+    "sub_kategori": "Hijacket",
+    "status": "Best Seller",
+    "deskripsi_singkat": "Cardigan feminin dengan motif ramping.",
+    "deskripsi_lengkap": "Hijacket Tifannia hadir dengan tali pinggang adjustable, cocok untuk traveling & umroh.",
+    "harga_normal": 329000,
+    "harga_promo": 263200,
     "variasi": {
       "warna": "Black, Khaky, Navy, Olive",
       "ukuran": "All Size",
@@ -1114,7 +1344,7 @@
       "occasion": "Casual to Semi Formal, Everyday Wear"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Cardigan",
       "season": "Dingin, Tropis",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -1129,6 +1359,16 @@
   },
   {
     "product_id": "HJ-VERSA",
+    "sku": "HJ-VRS",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Versa",
+    "kategori": "Coat",
+    "sub_kategori": "Hijacket",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Outer wraping 3-in-1 look yang elegan.",
+    "deskripsi_lengkap": "Hijacket Versa cocok untuk hijaber stylish yang tetap ingin tampil modest dan rapi.",
+    "harga_normal": 579000,
+    "harga_promo": 463200,
     "variasi": {
       "warna": "Black, Cream, Skyblue",
       "ukuran": "All Size",
@@ -1163,7 +1403,7 @@
       "occasion": "Casual to Semi Formal, Everyday Wear"
     },
     "meta": {
-      "kategori": "Jaket",
+      "kategori": "Coat",
       "season": "Sejuk, Dingin",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -1178,6 +1418,16 @@
   },
   {
     "product_id": "HJ-SKIRT-EZZENTA",
+    "sku": "HSK-EZT",
+    "brand": "HJ",
+    "nama_produk": "HJ Ezzenta Skirt",
+    "kategori": "Skirt",
+    "sub_kategori": "HJ Clothing",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Rok panjang muslimah dengan cargo pocket.",
+    "deskripsi_lengkap": "HJ Ezzenta Skirt dibuat dari Baby Terry, cocok untuk traveling dan aktivitas outdoor.",
+    "harga_normal": 169000,
+    "harga_promo": 135200,
     "variasi": {
       "warna": "Black, Latte, Burgundy, Dusty Pink",
       "ukuran": "All Size",
@@ -1212,7 +1462,7 @@
       "occasion": "Outdoor Activity, Casual, Traveling"
     },
     "meta": {
-      "kategori": "Clothing",
+      "kategori": "Skirt",
       "season": "Tropis",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -1227,6 +1477,16 @@
   },
   {
     "product_id": "HJ-FATIHA",
+    "sku": "HCL-DRS-FTH",
+    "brand": "HJ",
+    "nama_produk": "HJ Fatiha",
+    "kategori": "Long Dress",
+    "sub_kategori": "HJ Clothing",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Dress oversize yang tetap slim look.",
+    "deskripsi_lengkap": "HJ Fatiha flowy premium dengan lengan bubble dan zipper depan busui-friendly.",
+    "harga_normal": 549000,
+    "harga_promo": 439200,
     "variasi": {
       "warna": "Brownie, Silver",
       "ukuran": "All Size",
@@ -1257,7 +1517,7 @@
       "occasion": "Formal to Semi Formal, Traveling"
     },
     "meta": {
-      "kategori": "Clothing",
+      "kategori": "Long Dress",
       "season": "Dingin, Sejuk",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -1272,6 +1532,16 @@
   },
   {
     "product_id": "HJ-HANDSOCK-CLASSIC",
+    "sku": "HHS-HCR",
+    "brand": "HJ",
+    "nama_produk": "HJ Handsock Classic Reguler",
+    "kategori": "Handsock",
+    "sub_kategori": "HJ Accessories",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Handsock elastis dan nyaman.",
+    "deskripsi_lengkap": "HJ Handsock Classic terbuat dari bahan stretch ringan, cocok untuk aktivitas ibadah dan harian.",
+    "harga_normal": 37000,
+    "harga_promo": 29600,
     "variasi": {
       "warna": "Black, Brown",
       "ukuran": "22x7-8 cm",
@@ -1299,7 +1569,7 @@
       "occasion": "Daily use"
     },
     "meta": {
-      "kategori": "Aksesoris",
+      "kategori": "Handsock",
       "season": "Semua musim",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -1314,6 +1584,16 @@
   },
   {
     "product_id": "HJ-INARA",
+    "sku": "HCL-TNK-INR",
+    "brand": "HJ",
+    "nama_produk": "HJ Inara",
+    "kategori": "Tunic",
+    "sub_kategori": "HJ Clothing",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Tunik bordir premium dengan potongan modest.",
+    "deskripsi_lengkap": "HJ Inara hadir dalam warna Sage, cocok untuk daily look hijaber.",
+    "harga_normal": 539000,
+    "harga_promo": 431200,
     "variasi": {
       "warna": "Sage",
       "ukuran": "Standar, Bigsize",
@@ -1343,7 +1623,7 @@
       "occasion": "Formal to Semi Formal, Everyday Wear"
     },
     "meta": {
-      "kategori": "Clothing",
+      "kategori": "Tunic",
       "season": "Tropis",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -1358,6 +1638,16 @@
   },
   {
     "product_id": "HJ-INNER-TWOTONE",
+    "sku": "HIN-IBT",
+    "brand": "HJ",
+    "nama_produk": "HJ Inner Basic Twotone",
+    "kategori": "Ciput",
+    "sub_kategori": "HJ Accessories",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Ciput rajut ergonomic dua warna.",
+    "deskripsi_lengkap": "HJ Inner Twotone ringan, elastis dan cocok untuk hijaber aktif.",
+    "harga_normal": 57000,
+    "harga_promo": 46600,
     "variasi": {
       "warna": "MOCCA-BEIGE, DENIM-BLACK",
       "ukuran": "Allsize",
@@ -1385,7 +1675,7 @@
       "occasion": "Semua aktivitas"
     },
     "meta": {
-      "kategori": "Aksesoris",
+      "kategori": "Ciput",
       "season": "Semua musim",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -1400,6 +1690,16 @@
   },
   {
     "product_id": "HJ-KNOT-BELT",
+    "sku": "HBE-BSR",
+    "brand": "HJ",
+    "nama_produk": "HJ Knot Belt",
+    "kategori": "Belt",
+    "sub_kategori": "HJ Accessories",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Belt fleksibel dengan simpul unik.",
+    "deskripsi_lengkap": "HJ Knot Belt hadir dengan desain adjustable tanpa lubang, cocok untuk hijaber fashionista.",
+    "harga_normal": 199000,
+    "harga_promo": 159200,
     "variasi": {
       "warna": "Brown",
       "ukuran": "One size fits all",
@@ -1427,7 +1727,7 @@
       "occasion": "Fashion accessorizing"
     },
     "meta": {
-      "kategori": "Aksesoris",
+      "kategori": "Belt",
       "season": "Semua musim",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -1442,9 +1742,19 @@
   },
   {
     "product_id": "HJ-LUBNA",
+    "sku": "HCL-OST-LBN",
+    "brand": "HJ",
+    "nama_produk": "HJ Lubna",
+    "kategori": "Tunic & Skirt",
+    "sub_kategori": "HJ Clothing",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Set tunik & rok flowy premium.",
+    "deskripsi_lengkap": "HJ Lubna hadir dalam warna Brownie & Enigma, cocok untuk acara formal & umroh.",
+    "harga_normal": 659000,
+    "harga_promo": 527200,
     "variasi": {
       "warna": "Brownie (Coklat keemasan), Enigma (Ungu lavender)",
-      "ukuran": "All size",
+      "ukuran": "All Size",
       "detail": "Tunic LD 204 cm, Skirt adjustable",
       "berat": 750,
       "dimensi": "36x30x5 cm",
@@ -1472,7 +1782,7 @@
       "occasion": "Formal to Semi Formal"
     },
     "meta": {
-      "kategori": "Clothing",
+      "kategori": "Tunic & Skirt",
       "season": "Sejuk, Dingin",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -1487,6 +1797,16 @@
   },
   {
     "product_id": "HJ-MASK",
+    "sku": "HMA-BSR",
+    "brand": "HJ",
+    "nama_produk": "HJ Mask",
+    "kategori": "Mask",
+    "sub_kategori": "HJ Accessories",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Masker stylish & hijab-friendly.",
+    "deskripsi_lengkap": "HJ Mask dua lapis, bisa dicuci, dengan earloop/headloop nyaman.",
+    "harga_normal": 36000,
+    "harga_promo": 28800,
     "variasi": {
       "warna": "Black, Khaky, Lavender, Marigold, Maroon, Navy, Olive",
       "ukuran": "All Size",
@@ -1514,7 +1834,7 @@
       "occasion": "Luar rumah, Perjalanan"
     },
     "meta": {
-      "kategori": "Aksesoris",
+      "kategori": "Mask",
       "season": "Semua musim",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -1529,6 +1849,16 @@
   },
   {
     "product_id": "HJ-MAYMA",
+    "sku": "HHI-MYM",
+    "brand": "HJ",
+    "nama_produk": "HJ Jilbab Mayma",
+    "kategori": "Hijab",
+    "sub_kategori": "HJ Accessories",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Hijab square premium syar’i.",
+    "deskripsi_lengkap": "HJ Mayma berbahan ultrafine voal, adem dan tidak tembus pandang.",
+    "harga_normal": 149000,
+    "harga_promo": 119200,
     "variasi": {
       "warna": "Silcream, Sand, Sage, Mocca, Maroon, Black",
       "ukuran": "115 x 115 cm",
@@ -1570,6 +1900,16 @@
   },
   {
     "product_id": "HJ-MECCA-MEN",
+    "sku": "HCL-TSH-MCA",
+    "brand": "HJ",
+    "nama_produk": "HJ Mecca Men",
+    "kategori": "Jacket",
+    "sub_kategori": "HJ Clothing",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Jaket muslim pria simpel dan elegan.",
+    "deskripsi_lengkap": "HJ Mecca Men cocok untuk ibadah dan traveling. Potongan clean dan rapi.",
+    "harga_normal": 429000,
+    "harga_promo": 343200,
     "variasi": {
       "warna": "Dessert Sand (Ivory), Midnight Dune (Black)",
       "ukuran": "M, L, XL",
@@ -1596,7 +1936,7 @@
       "occasion": "Formal to Semi Formal"
     },
     "meta": {
-      "kategori": "Clothing",
+      "kategori": "Jacket",
       "season": "Dingin, Tropis",
       "tipe_ukuran": "Graded",
       "flags": {
@@ -1611,6 +1951,16 @@
   },
   {
     "product_id": "HJ-MECCA-WOMEN",
+    "sku": "HCL-DRS-MCA",
+    "brand": "HJ",
+    "nama_produk": "HJ Mecca Women",
+    "kategori": "Jacket",
+    "sub_kategori": "HJ Clothing",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Jaket muslimah simpel dan ringan.",
+    "deskripsi_lengkap": "HJ Mecca Women stylish untuk keseharian syar’i dan adem dipakai.",
+    "harga_normal": 429000,
+    "harga_promo": 343200,
     "variasi": {
       "warna": "Dessert Sand (Ivory), Midnight Dune (Black)",
       "ukuran": "M, L, XL",
@@ -1637,7 +1987,7 @@
       "occasion": "Formal to Semi Formal, Everyday Wear"
     },
     "meta": {
-      "kategori": "Clothing",
+      "kategori": "Jacket",
       "season": "Sejuk, Dingin",
       "tipe_ukuran": "Graded",
       "flags": {
@@ -1652,9 +2002,19 @@
   },
   {
     "product_id": "HJ-MEDINA",
+    "sku": "HCL-DRS-MDN",
+    "brand": "HJ",
+    "nama_produk": "HJ Medina",
+    "kategori": "Dress",
+    "sub_kategori": "HJ Clothing",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Dress knit casual dan feminim.",
+    "deskripsi_lengkap": "HJ Medina cocok untuk ibadah, traveling, dan harian. Hadir dalam warna lembut.",
+    "harga_normal": 559000,
+    "harga_promo": 447200,
     "variasi": {
       "warna": "Black, Protabella",
-      "ukuran": "All size",
+      "ukuran": "All Size",
       "detail": "LD 120 cm, panjang 142 cm",
       "berat": 720,
       "dimensi": "35x27x6 cm",
@@ -1682,7 +2042,7 @@
       "occasion": "Casual to Semi Formal, Everyday Wear, Traveling"
     },
     "meta": {
-      "kategori": "Clothing",
+      "kategori": "Dress",
       "season": "Dingin",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -1697,9 +2057,19 @@
   },
   {
     "product_id": "HJ-NURA",
+    "sku": "HCL-VST-NUR",
+    "brand": "HJ",
+    "nama_produk": "HJ Nura",
+    "kategori": "Vest",
+    "sub_kategori": "HJ Clothing",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Modest vest bordir premium.",
+    "deskripsi_lengkap": "HJ Nura cocok untuk office look dan outfit semi-formal muslimah.",
+    "harga_normal": 399000,
+    "harga_promo": 319200,
     "variasi": {
       "warna": "Sage",
-      "ukuran": "All size",
+      "ukuran": "All Size",
       "detail": "LD 120 cm, Panjang 80 cm",
       "berat": 500,
       "dimensi": "32x25x4 cm",
@@ -1727,7 +2097,7 @@
       "occasion": "Formal to Semi Formal, Everyday Wear"
     },
     "meta": {
-      "kategori": "Clothing",
+      "kategori": "Vest",
       "season": "Indoor, Sejuk",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -1742,6 +2112,16 @@
   },
   {
     "product_id": "HJ-PARFUM-3",
+    "sku": "HPA-BN-3",
+    "brand": "HJ",
+    "nama_produk": "HJ Parfum (3 ML)",
+    "kategori": "Parfum",
+    "sub_kategori": "HJ Fragnance",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Mini parfum praktis untuk gift.",
+    "deskripsi_lengkap": "HJ Parfum 3ml travel size, cocok untuk tester atau hadiah.",
+    "harga_normal": 14900,
+    "harga_promo": 11920,
     "variasi": {
       "warna": "Bloom Noir, Petal Whisper",
       "ukuran": "3 ml",
@@ -1784,6 +2164,16 @@
   },
   {
     "product_id": "HJ-PARFUM-35",
+    "sku": "HPA-BN-35",
+    "brand": "HJ",
+    "nama_produk": "HJ Parfum (35 ML)",
+    "kategori": "Parfum",
+    "sub_kategori": "HJ Fragnance",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Parfum elegan tahan lama.",
+    "deskripsi_lengkap": "HJ Parfum hadir dalam varian Bloom Noir & Petal Whisper. Botol kaca mewah 35ml.",
+    "harga_normal": 149000,
+    "harga_promo": 119200,
     "variasi": {
       "warna": "Bloom Noir, Petal Whisper",
       "ukuran": "35 ml",
@@ -1826,6 +2216,16 @@
   },
   {
     "product_id": "HJ-SHADE-HAT",
+    "sku": "HHA-SS",
+    "brand": "HJ",
+    "nama_produk": "HJ Signature Shade Hat",
+    "kategori": "Hat",
+    "sub_kategori": "HJ Accessories",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Topi hijaber pelindung UV.",
+    "deskripsi_lengkap": "HJ Shade Hat dengan logo Hijacket dan desain klasik, cocok untuk hangout.",
+    "harga_normal": 150000,
+    "harga_promo": 120000,
     "variasi": {
       "warna": "Black, Palestine",
       "ukuran": "All Size",
@@ -1853,7 +2253,7 @@
       "occasion": "Daily outdoor"
     },
     "meta": {
-      "kategori": "Aksesoris",
+      "kategori": "Hat",
       "season": "Panas",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -1868,6 +2268,16 @@
   },
   {
     "product_id": "HJ-SOCKS-ANTI-SLIP-THUMB",
+    "sku": "HSO-SAT",
+    "brand": "HJ",
+    "nama_produk": "HJ Sock Antislip Thumb",
+    "kategori": "Socks",
+    "sub_kategori": "HJ Accessories",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Kaos kaki jempol dengan sol anti slip.",
+    "deskripsi_lengkap": "HJ Antislip Thumb cocok untuk aktivitas indoor dan outdoor muslimah.",
+    "harga_normal": 40000,
+    "harga_promo": 32000,
     "variasi": {
       "warna": "Black, Beige",
       "ukuran": "All Size",
@@ -1895,7 +2305,7 @@
       "occasion": "Indoor sport, Aktivitas rumah"
     },
     "meta": {
-      "kategori": "Aksesoris",
+      "kategori": "Socks",
       "season": "Semua musim",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -1910,6 +2320,16 @@
   },
   {
     "product_id": "HJ-SOCKS-ANTI-SLIP-WUDHU",
+    "sku": "HSO-SAW",
+    "brand": "HJ",
+    "nama_produk": "HJ Sock Antislip Wudhu",
+    "kategori": "Socks",
+    "sub_kategori": "HJ Accessories",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Kaos kaki anti slip dengan bukaan wudhu.",
+    "deskripsi_lengkap": "HJ Sock ini praktis saat ibadah, bagian jari terbuka dan tumit tertutup.",
+    "harga_normal": 44000,
+    "harga_promo": 32000,
     "variasi": {
       "warna": "Black, Beige",
       "ukuran": "All Size",
@@ -1937,7 +2357,7 @@
       "occasion": "Ibadah, Wudhu"
     },
     "meta": {
-      "kategori": "Aksesoris",
+      "kategori": "Socks",
       "season": "Sejuk, Dingin",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -1952,6 +2372,16 @@
   },
   {
     "product_id": "HJ-SOCKS-BASIC-THUMB",
+    "sku": "HSO-SBT",
+    "brand": "HJ",
+    "nama_produk": "HJ Sock Basic Thumb",
+    "kategori": "Socks",
+    "sub_kategori": "HJ Accessories",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Kaos kaki jempol terpisah elastis.",
+    "deskripsi_lengkap": "HJ Basic Thumb cocok untuk daily wear, mudah dicuci dan nyaman.",
+    "harga_normal": 30900,
+    "harga_promo": 24720,
     "variasi": {
       "warna": "White, Black, Beige, Brown",
       "ukuran": "All Size",
@@ -1979,7 +2409,7 @@
       "occasion": "Harian"
     },
     "meta": {
-      "kategori": "Aksesoris",
+      "kategori": "Socks",
       "season": "Tropis",
       "tipe_ukuran": "All Size",
       "flags": {
@@ -1994,6 +2424,16 @@
   },
   {
     "product_id": "HJ-SOCKS-CLASSIC-REGULER",
+    "sku": "HSO-SCR",
+    "brand": "HJ",
+    "nama_produk": "HJ Sock Classic Regular",
+    "kategori": "Socks",
+    "sub_kategori": "HJ Accessories",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Kaos kaki wudhu-friendly dengan logo Hijacket.",
+    "deskripsi_lengkap": "HJ Sock Classic terbuat dari nylon lembut, desain elegan dan nyaman.",
+    "harga_normal": 70000,
+    "harga_promo": 56000,
     "variasi": {
       "warna": "Cream",
       "ukuran": "All Size",
@@ -2021,7 +2461,7 @@
       "occasion": "Daily fashion, Wudhu"
     },
     "meta": {
-      "kategori": "Aksesoris",
+      "kategori": "Socks",
       "season": "Semua musim",
       "tipe_ukuran": "All Size",
       "flags": {
