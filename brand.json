@@ -1,0 +1,257 @@
+{
+  "brand_hijacket": {
+    "nama": "HIJACKET\u00ae",
+    "filosofi_nama": "Hijabi + Jacket",
+    "makna": "Jaket khusus wanita muslimah, simbol kesopanan dan keanggunan",
+    "tagline": [
+      "Makes Perfect",
+      "Hangatkan Momenmu"
+    ],
+    "filosofi_mendasar": [
+      "Keanggunan Dunia",
+      "Aura Ilahi"
+    ],
+    "launching": "16 Mei 2016 / 9 Sya'ban 1437 H",
+    "hak_paten": [
+      "IDM001114503",
+      "IDM000610302",
+      "JID2023053880",
+      "DID2023053871"
+    ],
+    "produk_unggulan": {
+      "bahan": [
+        "Micro Quilting",
+        "Taslan",
+        "Fleece",
+        "Coco Knit",
+        "Hornet Knit",
+        "Showery Knit",
+        "Baby Terry"
+      ],
+      "fitur": [
+        "Tahan air",
+        "Windproof",
+        "Breathable",
+        "Ringan",
+        "Insulasi hangat"
+      ],
+      "desain": [
+        "Modesty-friendly",
+        "Wudhu-friendly",
+        "Double closure",
+        "Hoodie 2 lapis",
+        "Handsock",
+        "Inner pocket",
+        "Ribbed cuffs",
+        "Adjustable belt"
+      ],
+      "varian": [
+        "Parka",
+        "Hoodie",
+        "Cardigan",
+        "Tracktop",
+        "Cape",
+        "Coat"
+      ]
+    },
+    "aktivitas_cocok": [
+      "Umroh & Haji",
+      "Traveling",
+      "Naik Gunung",
+      "Mengemudi",
+      "Pengajian",
+      "Kuliah",
+      "Kantoran",
+      "Hangout",
+      "Outdoor"
+    ],
+    "audien": [
+      "Hijaber aktif",
+      "Hijaber traveler",
+      "Hijaber syar\u2019i modern",
+      "Muslimah sporty",
+      "Muslimah profesional",
+      "Hijaber pecinta alam"
+    ],
+    "filantropi": [
+      "Dompet Dhuafa",
+      "ACT",
+      "Rumah Zakat",
+      "Wakaf Salman",
+      "ODOJ",
+      "One Ummah",
+      "Shaf Muslimah",
+      "Annisa Community"
+    ],
+    "media": [
+      "JMFW 2024",
+      "Islam Channel",
+      "Kontan",
+      "Warta Ekonomi",
+      "Republika"
+    ],
+    "ekspor": [
+      "Malaysia",
+      "Australia",
+      "Amerika",
+      "Jerman",
+      "China"
+    ]
+  },
+  "brand_hj": {
+    "nama": "HJ (Hijacket Journey)",
+    "tahun_peluncuran": 2025,
+    "transformasi_dari": "Hijacket",
+    "filosofi": "Empower Modesty",
+    "koleksi": [
+      "Jaket",
+      "Kerudung",
+      "Ciput",
+      "Kaos kaki",
+      "Jilbab",
+      "Abaya",
+      "Dress",
+      "Parfum"
+    ],
+    "nilai": "Modesty adalah kekuatan sejati",
+    "perlindungan_haki": [
+      {
+        "kelas": 35,
+        "nomor": "JID2023053880",
+        "hingga": "04 Juli 2033"
+      },
+      {
+        "kelas": 25,
+        "nomor": "IDM001188051",
+        "hingga": "04 Juli 2033"
+      }
+    ]
+  },
+  "hj_perfume": {
+    "nama_produk": "HJ Perfume",
+    "status": "New Arrival",
+    "varian": [
+      {
+        "nama": "Bloom Noir",
+        "tagline": "When Mystery and Elegance Meet",
+        "aroma": {
+          "top_notes": [
+            "Rose",
+            "Bulgarian Rose",
+            "Cardamom"
+          ],
+          "middle_notes": [
+            "Lavender",
+            "Saffron",
+            "Patchouli"
+          ],
+          "base_notes": [
+            "Agarwood",
+            "Vanilla",
+            "Tonka Bean"
+          ]
+        },
+        "profil_aroma": "Floral, spicy, woody"
+      },
+      {
+        "nama": "Petal Whisper",
+        "tagline": "A Breath of Fresh Beginnings",
+        "aroma": {
+          "top_notes": [
+            "Grapefruit",
+            "Pink Pepper",
+            "Peach",
+            "Jasmine"
+          ],
+          "middle_notes": [
+            "Tuberose",
+            "Tiare Flower",
+            "Saffron",
+            "Hedione"
+          ],
+          "base_notes": [
+            "Musk",
+            "Amberwood",
+            "Sugar",
+            "Cedar",
+            "Orris Root"
+          ]
+        },
+        "profil_aroma": "Floral, spicy, woody, powdery"
+      }
+    ],
+    "fitur_utama": [
+      "Aroma Arabian & Oriental",
+      "Varian siang & malam",
+      "Travel-Friendly 35ml",
+      "Tahan lama 8-10 jam",
+      "Packaging elegan"
+    ],
+    "pengguna_target": {
+      "usia": "28\u201355 tahun",
+      "profil": "Wanita karir atau ibu rumah tangga",
+      "gaya_hidup": [
+        "Traveling",
+        "Hangout",
+        "Indoor",
+        "Outdoor"
+      ]
+    },
+    "harga": {
+      "35ml": 149000,
+      "5ml": 14900,
+      "paket_2_varian": 24900
+    },
+    "promo": [
+      "Diskon 20% untuk pembelian pertama",
+      "Bundling 2 varian Rp 279.000",
+      "Gratis ongkir periode tertentu"
+    ],
+    "positioning": {
+      "fokus": "Wanita Muslimah",
+      "nilai": "Empower Modesty",
+      "pesaing": "Lebih khas dan terjangkau dari parfum lokal/high-end"
+    },
+    "edukasi": [
+      "Video tutorial pemakaian",
+      "Storytelling aroma dan aktivitas",
+      "Artikel tentang aroma dan kepercayaan diri Muslimah"
+    ]
+  },
+  "kontak_perusahaan": {
+    "alamat": "Magna Commercial MC 071, Summarecon Bandung, 40294",
+    "maps_url": "https://maps.app.goo.gl/ZuVnLbeaA1qCEE5x7",
+    "foto_toko": "https://4krk.com/5/store-hijacket-bandung.png",
+    "jam_kerja": {
+      "senin-jumat": "09.00 - 17.00 WIB",
+      "sabtu": "09.00 - 15.00 WIB",
+      "libur": "Tutup"
+    },
+    "rekening_resmi": {
+      "BSI": "8885522228",
+      "BRI": "054401001350567",
+      "BCA": "3797222111",
+      "atas_nama": "PT Mangprang Persada Sinergi"
+    },
+    "metode_pembayaran": [
+      "Transfer Bank",
+      "COD"
+    ],
+    "online_shop": {
+      "website": "https://hijacket.co.id",
+      "shopee": "https://shopee.co.id/hijacketbrandofficial",
+      "tokopedia": "https://www.tokopedia.com/hijacketofficial",
+      "lazada": "https://www.lazada.co.id/shop/hijacket-fashion",
+      "tiktok": "https://www.tiktok.com/@hijacket_mall",
+      "hijup": "https://www.hijup.com/id/brands/hijacket"
+    },
+    "sosial_media": {
+      "instagram": "https://www.instagram.com/hijacket/",
+      "facebook": "https://www.facebook.com/hijacketofficialstore",
+      "tiktok": "https://www.tiktok.com/@hijacket_mall",
+      "youtube": "https://www.youtube.com/@hijacketbrandofficial",
+      "whatsapp_channel": "https://whatsapp.com/channel/0029VaL5H5cDeON6iCK4q422",
+      "telegram_affiliate": "https://t.me/hijacketaffiliate"
+    }
+  }
+}
