@@ -4,10 +4,8 @@
     "variasi": {
       "warna": "Black, Maroon, Green",
       "ukuran": "L, XL, XXL",
-      "detail": "LD max 120 cm, panjang lutut",
-      "berat": 800,
-      "dimensi": "35x30x7 cm",
-      "max_berat": "90-95 kg"
+      "detail": "LD L: 106, XL: 114, XXL: 122; PB: 92",
+      "dimensi": "35x30x7 cm"
     },
     "spesifikasi": {
       "suhu": "15º-24ºC",
@@ -34,17 +32,15 @@
     "variasi": {
       "warna": "Black, Brown, Denim, Lavender, Red",
       "ukuran": "Free Size",
-      "detail": "LD free, panjang mid-thigh",
-      "berat": 700,
-      "dimensi": "35x28x6 cm",
-      "max_berat": "95 kg"
+      "detail": "LD up to 150, PB: 92",
+      "dimensi": "35x28x6 cm"
     },
     "spesifikasi": {
       "suhu": "24º-28ºC",
       "material": "Premium Coco Knit",
       "komposisi": "-",
       "fitur": "Cape Style, Handsock Loose, Hoodie",
-      "collar": "-",
+      "collar": "",
       "lengan": "Batwing 3/4",
       "adjustable": "No",
       "pocket": "Yes, Hip Patch Pocket",
@@ -62,18 +58,16 @@
   {
     "product_id": "HJ-ALETA",
     "variasi": {
-      "warna": "Hitam, Cream",
+      "warna": "Black, Beige",
       "ukuran": "All size",
-      "detail": "LD 135 cm, panjang 80 cm, BB max 110 kg",
-      "berat": 850,
-      "dimensi": "38x30x7 cm",
-      "max_berat": "110 kg"
+      "detail": "LD 135, PB: 80",
+      "dimensi": "38x30x7 cm"
     },
     "spesifikasi": {
       "suhu": "24º-28º",
       "material": "Parasut Dusky Premium",
       "komposisi": "-",
-      "fitur": "Hidden Hoodie, Rubber Cuff",
+      "fitur": "-",
       "collar": "-",
       "lengan": "Oversize, Drop Shoulder, Bubble",
       "adjustable": "Yes",
@@ -94,10 +88,8 @@
     "variasi": {
       "warna": "Black, Cream, Denim, Dusty Pink, Maroon, Mint, Purple, Teracotta",
       "ukuran": "All size",
-      "detail": "LD 120 cm",
-      "berat": 700,
-      "dimensi": "34x28x6 cm",
-      "max_berat": "95 kg"
+      "detail": "LD 130; PB: 80",
+      "dimensi": "34x28x6 cm"
     },
     "spesifikasi": {
       "suhu": "24º-30ºC",
@@ -111,7 +103,7 @@
       "closure": "Tali kreasi",
       "modesty": "Yes",
       "concept": "Outer modesty, casual formal",
-      "care": "Cuci manual"
+      "care": "Cuci manual, jangan digantung, jangan diperas"
     },
     "penggunaan": {
       "aktivitas": "Hangout, Pengajian, Keseharian",
@@ -123,11 +115,9 @@
     "product_id": "HJ-BATARI",
     "variasi": {
       "warna": "Beige Gold, Black Onyx, Misty Gray",
-      "ukuran": "LD 120",
-      "detail": "-",
-      "berat": 800,
-      "dimensi": "36x28x6 cm",
-      "max_berat": "95 kg"
+      "ukuran": "All Size",
+      "detail": "LD 120, PB: 92",
+      "dimensi": "36x28x6 cm"
     },
     "spesifikasi": {
       "suhu": "15º-22ºC",
@@ -154,10 +144,8 @@
     "variasi": {
       "warna": "Black Ebony, Cloudgrey, Goldenrod, Indigo Blue, Marigold, Mocca, Red Burgundy, Scarlett Brown, Seaweed, Teracotta, Coldgrey",
       "ukuran": "L, XL, XXL",
-      "detail": "LD 120 cm, panjang mid-thigh",
-      "berat": 750,
-      "dimensi": "38x32x8 cm",
-      "max_berat": "95 kg"
+      "detail": "LD L: 106, XL: 1164, XXL: 122. PB: 92",
+      "dimensi": "38x32x8 cm"
     },
     "spesifikasi": {
       "suhu": "15º-24ºC",
@@ -184,13 +172,11 @@
     "variasi": {
       "warna": "Black, Broken White, Brown, Denim",
       "ukuran": "All size",
-      "detail": "LD 120 cm",
-      "berat": 650,
-      "dimensi": "34x26x5 cm",
-      "max_berat": "95 kg"
+      "detail": "LD L: 120, PB: 92",
+      "dimensi": "34x26x5 cm"
     },
     "spesifikasi": {
-      "suhu": "",
+      "suhu": "18º-24ºC",
       "material": "Scuba",
       "komposisi": "-",
       "fitur": "Open Closure, Drop Shoulder",
@@ -214,10 +200,8 @@
     "variasi": {
       "warna": "Black, Brown, Burgundy, Green, Grey, Teracotta",
       "ukuran": "L, XL, XXL",
-      "detail": "-",
-      "berat": 750,
-      "dimensi": "35x28x6 cm",
-      "max_berat": "95 kg"
+      "detail": "LD L: 106, XL: 114, XXL: 122; PB: 92",
+      "dimensi": "35x28x6 cm"
     },
     "spesifikasi": {
       "suhu": "15º-22ºC",
@@ -244,10 +228,8 @@
     "variasi": {
       "warna": "Black, Burgundy, Dusty Pink, Latte",
       "ukuran": "All size",
-      "detail": "",
-      "berat": 680,
-      "dimensi": "36x28x6 cm",
-      "max_berat": "95 kg"
+      "detail": "LD: 120; PB: 80",
+      "dimensi": "36x28x6 cm"
     },
     "spesifikasi": {
       "suhu": "22º-28ºC",
@@ -275,9 +257,7 @@
       "warna": "Black, Mocca",
       "ukuran": "L, XL, XXL",
       "detail": "LD hingga 120 cm",
-      "berat": 900,
-      "dimensi": "40x30x8 cm",
-      "max_berat": "100 kg"
+      "dimensi": "40x30x8 cm"
     },
     "spesifikasi": {
       "suhu": "7º-22ºC",
@@ -305,9 +285,7 @@
       "warna": "Black",
       "ukuran": "All size",
       "detail": "LD 120cm",
-      "berat": 784,
-      "dimensi": "34x28x6 cm",
-      "max_berat": "95 kg"
+      "dimensi": "34x28x6 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -333,11 +311,9 @@
     "product_id": "HJ-GLIDE",
     "variasi": {
       "warna": "Forest Haze, Graphite Shadow, Midnight Saga",
-      "ukuran": "LD 120",
-      "detail": "Panjang 110 cm",
-      "berat": 780,
-      "dimensi": "36x28x7 cm",
-      "max_berat": "100 kg"
+      "ukuran": "All Size",
+      "detail": "LD: 120; PB: 92",
+      "dimensi": "36x28x7 cm"
     },
     "spesifikasi": {
       "suhu": "20º-28ºC",
@@ -364,10 +340,8 @@
     "variasi": {
       "warna": "Black, Candy Pink, Goldenrod, Snow, dll.",
       "ukuran": "L, XL, XXL",
-      "detail": "LD max 120 cm",
-      "berat": 820,
-      "dimensi": "38x30x7 cm",
-      "max_berat": "100 kg"
+      "detail": "LD L: 106, XL: 114, XXL: 122; PB: 92",
+      "dimensi": "38x30x7 cm"
     },
     "spesifikasi": {
       "suhu": "15º-24ºC",
@@ -393,11 +367,9 @@
     "product_id": "HJ-KAULA",
     "variasi": {
       "warna": "Black, Brown, Lavender",
-      "ukuran": "LD 120",
-      "detail": "-",
-      "berat": 750,
-      "dimensi": "35x28x6 cm",
-      "max_berat": "95 kg"
+      "ukuran": "All Size",
+      "detail": "LD: 120; PB: 92",
+      "dimensi": "35x28x6 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -423,11 +395,9 @@
     "product_id": "HJ-KHADIJAH",
     "variasi": {
       "warna": "Black, Broken White, Crystal Pink, Mint, Mocca",
-      "ukuran": "All size",
+      "ukuran": "All Size",
       "detail": "LD 120 cm",
-      "berat": 730,
-      "dimensi": "35x28x6 cm",
-      "max_berat": "95 kg"
+      "dimensi": "35x28x6 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -455,9 +425,7 @@
       "warna": "Hitam Hitam, Hitam Cream",
       "ukuran": "All size",
       "detail": "LD 120 cm, BB max 95 kg",
-      "berat": 850,
-      "dimensi": "36x30x7 cm",
-      "max_berat": "95 kg"
+      "dimensi": "36x30x7 cm"
     },
     "spesifikasi": {
       "suhu": "17º-24ºC",
@@ -485,9 +453,7 @@
       "warna": "Black, Brown, Mint",
       "ukuran": "L, XL, XXL",
       "detail": "-",
-      "berat": 780,
-      "dimensi": "36x28x6 cm",
-      "max_berat": "95 kg"
+      "dimensi": "36x28x6 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -515,9 +481,7 @@
       "warna": "Black, Cream, Skyblue",
       "ukuran": "LD 125",
       "detail": "-",
-      "berat": 820,
-      "dimensi": "36x28x6 cm",
-      "max_berat": "100 kg"
+      "dimensi": "36x28x6 cm"
     },
     "spesifikasi": {
       "suhu": "17º-24ºC",
@@ -545,9 +509,7 @@
       "warna": "Black, Brown, Cream, Grey, Imperial, Mossgreen, Navy, Teracotta",
       "ukuran": "L, XL, XXL",
       "detail": "-",
-      "berat": 890,
-      "dimensi": "38x30x8 cm",
-      "max_berat": "100 kg"
+      "dimensi": "38x30x8 cm"
     },
     "spesifikasi": {
       "suhu": "15º-24ºC",
@@ -575,9 +537,7 @@
       "warna": "Beige Gold, Black Onyx",
       "ukuran": "LD 120",
       "detail": "-",
-      "berat": 830,
-      "dimensi": "36x28x6 cm",
-      "max_berat": "100 kg"
+      "dimensi": "36x28x6 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -605,9 +565,7 @@
       "warna": "Black, Brown, Mint",
       "ukuran": "L, XL, XXL",
       "detail": "-",
-      "berat": 770,
-      "dimensi": "35x28x6 cm",
-      "max_berat": "95 kg"
+      "dimensi": "35x28x6 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -635,9 +593,7 @@
       "warna": "Black, Khaky, Lavender, Marigold, Maroon, Navy, Olive",
       "ukuran": "All size",
       "detail": "LD max 120 cm",
-      "berat": 720,
-      "dimensi": "34x26x6 cm",
-      "max_berat": "95 kg"
+      "dimensi": "34x26x6 cm"
     },
     "spesifikasi": {
       "suhu": "20º-28ºC",
@@ -665,9 +621,7 @@
       "warna": "Black, Khaky, Navy, Olive",
       "ukuran": "All size",
       "detail": "LD max 120 cm, Panjang 110 cm",
-      "berat": 740,
-      "dimensi": "36x28x6 cm",
-      "max_berat": "100 kg"
+      "dimensi": "36x28x6 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -695,9 +649,7 @@
       "warna": "Black, Cream, Skyblue",
       "ukuran": "LD 120",
       "detail": "-",
-      "berat": 800,
-      "dimensi": "36x28x6 cm",
-      "max_berat": "95 kg"
+      "dimensi": "36x28x6 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -725,9 +677,7 @@
       "warna": "Black, Latte, Burgundy, Dusty Pink",
       "ukuran": "All size",
       "detail": "Lingkar pinggang max 140 cm",
-      "berat": 450,
-      "dimensi": "32x25x3 cm",
-      "max_berat": "95 kg"
+      "dimensi": "32x25x3 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -755,9 +705,7 @@
       "warna": "Brownie, Silver",
       "ukuran": "All size",
       "detail": "LD 120 cm, Panjang 142 cm",
-      "berat": 720,
-      "dimensi": "34x26x5 cm",
-      "max_berat": "95 kg"
+      "dimensi": "34x26x5 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -785,9 +733,7 @@
       "warna": "Black, Brown",
       "ukuran": "22x7-8 cm",
       "detail": "Panjang 22 cm, lebar fleksibel",
-      "berat": 60,
-      "dimensi": "10x6x2 cm",
-      "max_berat": "-"
+      "dimensi": "10x6x2 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -815,9 +761,7 @@
       "warna": "Sage",
       "ukuran": "Standar, Bigsize",
       "detail": "-",
-      "berat": 680,
-      "dimensi": "34x26x5 cm",
-      "max_berat": "100 kg"
+      "dimensi": "34x26x5 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -845,9 +789,7 @@
       "warna": "MOCCA-BEIGE, DENIM-BLACK",
       "ukuran": "Allsize",
       "detail": "Ergonomis, ruang ekstra telinga",
-      "berat": 50,
-      "dimensi": "10x5x2 cm",
-      "max_berat": "-"
+      "dimensi": "10x5x2 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -875,9 +817,7 @@
       "warna": "Brown",
       "ukuran": "One size fits all",
       "detail": "Adjustable knot system",
-      "berat": 120,
-      "dimensi": "25x5x3 cm",
-      "max_berat": "-"
+      "dimensi": "25x5x3 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -902,12 +842,10 @@
   {
     "product_id": "HJ-LUBNA",
     "variasi": {
-      "warna": "Brownie, Enigma",
+      "warna": "Brownie (Coklat keemasan), Enigma (Ungu lavender)",
       "ukuran": "All size",
       "detail": "Tunic LD 204 cm, Skirt adjustable",
-      "berat": 750,
-      "dimensi": "36x30x5 cm",
-      "max_berat": "95 kg"
+      "dimensi": "36x30x5 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -935,9 +873,7 @@
       "warna": "Black, Khaky, Lavender, Marigold, Maroon, Navy, Olive",
       "ukuran": "All Size",
       "detail": "2 lapis, earloop/headloop",
-      "berat": 30,
-      "dimensi": "8x12x2 cm",
-      "max_berat": "-"
+      "dimensi": "8x12x2 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -965,9 +901,7 @@
       "warna": "Silcream, Sand, Sage, Mocca, Maroon, Black",
       "ukuran": "115 x 115 cm",
       "detail": "-",
-      "berat": 114,
-      "dimensi": "20x20x2 cm",
-      "max_berat": "-"
+      "dimensi": "20x20x2 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -992,12 +926,10 @@
   {
     "product_id": "HJ-MECCA-MEN",
     "variasi": {
-      "warna": "Dessert Sand, Midnight Dune",
+      "warna": "Dessert Sand (Ivory), Midnight Dune (Black)",
       "ukuran": "M, L, XL",
       "detail": "",
-      "berat": 627,
-      "dimensi": "",
-      "max_berat": ""
+      "dimensi": ""
     },
     "spesifikasi": {
       "suhu": "",
@@ -1022,12 +954,10 @@
   {
     "product_id": "HJ-MECCA-WOMEN",
     "variasi": {
-      "warna": "Dessert Sand, Midnight Dune",
+      "warna": "Dessert Sand (Ivory), Midnight Dune (Black)",
       "ukuran": "M, L, XL",
       "detail": "",
-      "berat": 708,
-      "dimensi": "",
-      "max_berat": ""
+      "dimensi": ""
     },
     "spesifikasi": {
       "suhu": "",
@@ -1055,9 +985,7 @@
       "warna": "Black, Protabella",
       "ukuran": "All size",
       "detail": "LD 120 cm, panjang 142 cm",
-      "berat": 720,
-      "dimensi": "35x27x6 cm",
-      "max_berat": "95 kg"
+      "dimensi": "35x27x6 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -1085,9 +1013,7 @@
       "warna": "Sage",
       "ukuran": "All size",
       "detail": "LD 120 cm, Panjang 80 cm",
-      "berat": 500,
-      "dimensi": "32x25x4 cm",
-      "max_berat": "90 kg"
+      "dimensi": "32x25x4 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -1115,9 +1041,7 @@
       "warna": "Bloom Noir, Petal Whisper",
       "ukuran": "3 ml",
       "detail": "Botol kecil gift pack",
-      "berat": 20,
-      "dimensi": "6x2x2 cm",
-      "max_berat": "-"
+      "dimensi": "6x2x2 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -1145,9 +1069,7 @@
       "warna": "Bloom Noir, Petal Whisper",
       "ukuran": "35 ml",
       "detail": "Botol kaca tebal + box",
-      "berat": 160,
-      "dimensi": "12x4x4 cm",
-      "max_berat": "-"
+      "dimensi": "12x4x4 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -1175,9 +1097,7 @@
       "warna": "Black, Palestine",
       "ukuran": "All Size",
       "detail": "Twill cotton, adjustable strap",
-      "berat": 120,
-      "dimensi": "20x20x10 cm",
-      "max_berat": "-"
+      "dimensi": "20x20x10 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -1205,9 +1125,7 @@
       "warna": "Black, Beige",
       "ukuran": "All Size",
       "detail": "Thumb split, silikon anti-slip",
-      "berat": 90,
-      "dimensi": "12x10x3 cm",
-      "max_berat": "-"
+      "dimensi": "12x10x3 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -1235,9 +1153,7 @@
       "warna": "Black, Beige",
       "ukuran": "All Size",
       "detail": "Desain jari terbuka, anti-slip",
-      "berat": 90,
-      "dimensi": "12x10x3 cm",
-      "max_berat": "-"
+      "dimensi": "12x10x3 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -1265,9 +1181,7 @@
       "warna": "White, Black, Beige, Brown",
       "ukuran": "All Size",
       "detail": "Jempol terpisah, ringan",
-      "berat": 80,
-      "dimensi": "12x10x3 cm",
-      "max_berat": "-"
+      "dimensi": "12x10x3 cm"
     },
     "spesifikasi": {
       "suhu": "",
@@ -1295,9 +1209,7 @@
       "warna": "Cream",
       "ukuran": "All Size",
       "detail": "Wudhu-friendly, aksen logo",
-      "berat": 80,
-      "dimensi": "10x8x3 cm",
-      "max_berat": "-"
+      "dimensi": "10x8x3 cm"
     },
     "spesifikasi": {
       "suhu": "",
