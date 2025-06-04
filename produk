@@ -647,12 +647,12 @@
     "product_id": "HJ-VERSA",
     "variasi": {
       "warna": "Black, Cream, Skyblue",
-      "ukuran": "LD 120",
-      "detail": "-",
+      "ukuran": "All Size",
+      "detail": "LD 120; PB: 92",
       "dimensi": "36x28x6 cm"
     },
     "spesifikasi": {
-      "suhu": "",
+      "suhu": "18º-24ºC",
       "material": "Premium Showery Knit",
       "komposisi": "-",
       "fitur": "Shawl Collar, D Ring, Handsock",
@@ -675,7 +675,7 @@
     "product_id": "HJ-SKIRT-EZZENTA",
     "variasi": {
       "warna": "Black, Latte, Burgundy, Dusty Pink",
-      "ukuran": "All size",
+      "ukuran": "All Size",
       "detail": "Lingkar pinggang max 140 cm",
       "dimensi": "32x25x3 cm"
     },
