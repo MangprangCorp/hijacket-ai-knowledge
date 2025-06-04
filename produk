@@ -100,7 +100,7 @@
       "lengan": "Oversize bubble",
       "adjustable": "Yes",
       "pocket": "Yes",
-      "closure": "Tali kreasi",
+      "closure": "Tie Knot",
       "modesty": "Yes",
       "concept": "Outer modesty, casual formal",
       "care": "Cuci manual, jangan digantung, jangan diperas"
@@ -156,7 +156,7 @@
       "lengan": "Regular",
       "adjustable": "No",
       "pocket": "Yes",
-      "closure": "Kancing aktif",
+      "closure": "Front Button",
       "modesty": "Yes",
       "concept": "Medium Puffer, Slim Straight Cutting",
       "care": "Dry clean disarankan"
@@ -263,14 +263,14 @@
       "suhu": "7º-22ºC",
       "material": "Micro Quilting Parachute & Fleece",
       "komposisi": "-",
-      "fitur": "Reversible, Hoodie 2 lapis",
+      "fitur": "Reversible, Hoodie 2 lapis, Extra Warmth without being heavy",
       "collar": "-",
       "lengan": "Drop Shoulder",
       "adjustable": "Yes",
       "pocket": "Waist patch & snap",
       "closure": "Zipper",
       "modesty": "Yes",
-      "concept": "Medium Puffer Jacket",
+      "concept": "2-Way Use Puffer Jacket",
       "care": "Dry clean"
     },
     "penggunaan": {
@@ -319,7 +319,7 @@
       "suhu": "20º-28ºC",
       "material": "Despo Parachute + Inner Net",
       "komposisi": "-",
-      "fitur": "Double-layer Hoodie, Slit Belakang, Packable",
+      "fitur": "Double-layer Hoodie, Back Slit, Safety Pocket, Compact, Packable, Sport-Friendly",
       "collar": "-",
       "lengan": "Oversize, Drop Shoulder",
       "adjustable": "Yes",
@@ -347,7 +347,7 @@
       "suhu": "15º-24ºC",
       "material": "Taslan Parachute + Dourmil Dacron",
       "komposisi": "-",
-      "fitur": "Double Closure, Color Block, Hoodie",
+      "fitur": "Double Closure, Color Block, Hoodie, Utility-Friendly, Lighweight",
       "collar": "-",
       "lengan": "Regular",
       "adjustable": "No",
@@ -375,7 +375,7 @@
       "suhu": "22º-28ºC",
       "material": "Premium Coco Knit",
       "komposisi": "-",
-      "fitur": "Full Button, Ribbed Cuffs, Contrast Stitch",
+      "fitur": "Loose Fit, Full Button, Ribbed Cuffs, Contrast Stitch",
       "collar": "-",
       "lengan": "Oversize",
       "adjustable": "No",
@@ -403,7 +403,7 @@
       "suhu": "",
       "material": "Premium Lonzo Knit",
       "komposisi": "-",
-      "fitur": "Loose Fit, Full Button, Handsock Longgar",
+      "fitur": "Loose Fit, Full Button, Handsock Longgar, Sleek Cutting",
       "collar": "-",
       "lengan": "Oversize, Drop Shoulder",
       "adjustable": "No",
@@ -431,12 +431,12 @@
       "suhu": "18º-24ºC",
       "material": "Fleece Premium, Parachute Dusky",
       "komposisi": "-",
-      "fitur": "Pleats Detail, Slim Cut",
+      "fitur": "Pleats Detail, Slim Cut, Detachable Tie Belt",
       "collar": "-",
       "lengan": "Regular",
       "adjustable": "Yes",
       "pocket": "Samping kanan kiri",
-      "closure": "Zipper Tersembunyi",
+      "closure": "Double Front Button",
       "modesty": "Yes",
       "concept": "Blazer Hijaber Formal",
       "care": "Cuci tangan saja"
@@ -452,7 +452,7 @@
     "variasi": {
       "warna": "Black, Brown, Mint",
       "ukuran": "L, XL, XXL",
-      "detail": "LD L: 106, XL: 1164, XXL: 122. PB: 92",
+      "detail": "LD L: 106, XL: 114, XXL: 122. PB: 92",
       "dimensi": "36x28x6 cm"
     },
     "spesifikasi": {
@@ -487,7 +487,7 @@
       "suhu": "18º-24ºC",
       "material": "Premium Showery Knit",
       "komposisi": "-",
-      "fitur": "Tudung Multifungsi, Hoodie Besar",
+      "fitur": "Multifunction Hoodie, Hoodie Besar",
       "collar": "-",
       "lengan": "Oversize, Drop Shoulder",
       "adjustable": "Yes",
@@ -508,14 +508,14 @@
     "variasi": {
       "warna": "Black, Brown, Cream, Grey, Imperial, Mossgreen, Navy, Teracotta",
       "ukuran": "L, XL, XXL",
-      "detail": "LD L: 106, XL: 1164, XXL: 122. PB: 92",
+      "detail": "LD L: 106, XL: 114, XXL: 122. PB: 92",
       "dimensi": "38x30x8 cm"
     },
     "spesifikasi": {
       "suhu": "15º-24ºC",
       "material": "Taslan Parachute + Inner Dacron",
       "komposisi": "-",
-      "fitur": "Color Block, Hoodie, Belt Stopper",
+      "fitur": "Color Block, Hoodie, Belt Stopper, Utility Friendly",
       "collar": "-",
       "lengan": "Regular",
       "adjustable": "Yes",
@@ -543,7 +543,7 @@
       "suhu": "15º-24ºC",
       "material": "Fleece Premium",
       "komposisi": "-",
-      "fitur": "Gold Snap Button, Curve Cutting",
+      "fitur": "Gold Snap Button, Sleek Cutting",
       "collar": "-",
       "lengan": "Oversize + Drop Shoulder",
       "adjustable": "No",
@@ -564,7 +564,7 @@
     "variasi": {
       "warna": "Black, Brown, Mint",
       "ukuran": "L, XL, XXL",
-      "detail": "LD L: 106, XL: 1164, XXL: 122. PB: 92",
+      "detail": "LD L: 106, XL: 114, XXL: 122. PB: 92",
       "dimensi": "35x28x6 cm"
     },
     "spesifikasi": {
@@ -599,20 +599,20 @@
       "suhu": "20º-28ºC",
       "material": "Premium Hornet Knit",
       "komposisi": "-",
-      "fitur": "Loose Handsock, Curve Cut",
+      "fitur": "Loose Handsock, Curve Cutting, Versatile Design",
       "collar": "-",
       "lengan": "Batwing",
       "adjustable": "No",
       "pocket": "Hip Patch Pocket",
       "closure": "Button di Dada",
       "modesty": "Yes",
-      "concept": "Cardigan, Sporty Casual",
+      "concept": "Cardigan, Feminine Romantic",
       "care": "Cuci tangan"
     },
     "penggunaan": {
       "aktivitas": "Hangout, Traveling, Pengajian",
       "audience": "Hijaber traveler, Casual muslimah",
-      "occasion": "Ibadah, Santai"
+      "occasion": "Ibadah, Casual to Semi Formal"
     }
   },
   {
@@ -662,7 +662,7 @@
       "pocket": "Side Seam Pocket",
       "closure": "Double D Ring",
       "modesty": "Yes",
-      "concept": "Wraping Coat, 3-in-1 Look",
+      "concept": "Wraping Coat, 3-in-1 Look, Classic Elegant",
       "care": "Cuci lembut"
     },
     "penggunaan": {
@@ -711,12 +711,12 @@
       "suhu": "",
       "material": "Flowy Premium (Silk)",
       "komposisi": "-",
-      "fitur": "Zipper depan, Bubble sleeves",
+      "fitur": "Zipper depan, Bubble sleeves, Slim-Cutting",
       "collar": "Round",
       "lengan": "Bubble",
       "adjustable": "No",
       "pocket": "Samping kanan kiri",
-      "closure": "Zipper",
+      "closure": "Front Zipper",
       "modesty": "Yes",
       "concept": "Oversize Dress, Classic Elegant",
       "care": "Cuci lembut, setrika suhu rendah"
@@ -772,7 +772,7 @@
       "lengan": "Regular",
       "adjustable": "No",
       "pocket": "Samping",
-      "closure": "Zipper belakang",
+      "closure": "Front Button",
       "modesty": "Yes",
       "concept": "Tunic Daily Look",
       "care": "Cuci manual"
@@ -856,7 +856,7 @@
       "lengan": "Panjang Regular",
       "adjustable": "Yes",
       "pocket": "Hidden",
-      "closure": "Zipper tunik",
+      "closure": "Front Zipper",
       "modesty": "Yes",
       "concept": "Tunic Set Elegant",
       "care": "Cuci lembut"
@@ -933,9 +933,9 @@
     },
     "spesifikasi": {
       "suhu": "",
-      "material": "",
+      "material": "Premium Arabian Twill",
       "komposisi": "",
-      "fitur": "",
+      "fitur": "Long Sleeve Shirt wudhu friendly, pleat details",
       "collar": "",
       "lengan": "",
       "adjustable": "",
@@ -956,14 +956,14 @@
     "variasi": {
       "warna": "Dessert Sand (Ivory), Midnight Dune (Black)",
       "ukuran": "M, L, XL",
-      "detail": "",
+      "detail": "LD L: 106, XL: 114, XXL: 122. PB: 140",
       "dimensi": ""
     },
     "spesifikasi": {
       "suhu": "",
-      "material": "",
+      "material": "Premium Arabian Twill",
       "komposisi": "",
-      "fitur": "",
+      "fitur": "Long dress wudhu friendly, pleat details",
       "collar": "",
       "lengan": "",
       "adjustable": "",
