@@ -280,7 +280,7 @@
     }
   },
   {
-    "product_id": "HJ-GISELLA",
+    "product_id": "HJ-GISELA",
     "variasi": {
       "warna": "Black",
       "ukuran": "All size",
@@ -338,7 +338,7 @@
   {
     "product_id": "HJ-IXORA",
     "variasi": {
-      "warna": "Black, Candy Pink, Goldenrod, Snow, dll.",
+      "warna": "Coldgrey, Cream, Black",
       "ukuran": "L, XL, XXL",
       "detail": "LD L: 106, XL: 114, XXL: 122; PB: 92",
       "dimensi": "38x30x7 cm"
@@ -372,7 +372,7 @@
       "dimensi": "35x28x6 cm"
     },
     "spesifikasi": {
-      "suhu": "",
+      "suhu": "22º-28ºC",
       "material": "Premium Coco Knit",
       "komposisi": "-",
       "fitur": "Full Button, Ribbed Cuffs, Contrast Stitch",
@@ -396,7 +396,7 @@
     "variasi": {
       "warna": "Black, Broken White, Crystal Pink, Mint, Mocca",
       "ukuran": "All Size",
-      "detail": "LD 120 cm",
+      "detail": "LD 120; PB: 80",
       "dimensi": "35x28x6 cm"
     },
     "spesifikasi": {
@@ -424,12 +424,12 @@
     "variasi": {
       "warna": "Hitam Hitam, Hitam Cream",
       "ukuran": "All size",
-      "detail": "LD 120 cm, BB max 95 kg",
+      "detail": "LD 120; PB: 92",
       "dimensi": "36x30x7 cm"
     },
     "spesifikasi": {
-      "suhu": "17º-24ºC",
-      "material": "Parasut Kombinasi",
+      "suhu": "18º-24ºC",
+      "material": "Fleece Premium, Parachute Dusky",
       "komposisi": "-",
       "fitur": "Pleats Detail, Slim Cut",
       "collar": "-",
@@ -452,11 +452,11 @@
     "variasi": {
       "warna": "Black, Brown, Mint",
       "ukuran": "L, XL, XXL",
-      "detail": "-",
+      "detail": "LD L: 106, XL: 1164, XXL: 122. PB: 92",
       "dimensi": "36x28x6 cm"
     },
     "spesifikasi": {
-      "suhu": "",
+      "suhu": "18º-24ºC",
       "material": "Premium Quilted Knit",
       "komposisi": "-",
       "fitur": "Handsock, Slit Belakang, Zipper + Snap",
@@ -479,12 +479,12 @@
     "product_id": "HJ-MARYAM",
     "variasi": {
       "warna": "Black, Cream, Skyblue",
-      "ukuran": "LD 125",
-      "detail": "-",
+      "ukuran": "All Size",
+      "detail": "LD: 130; PB: 92",
       "dimensi": "36x28x6 cm"
     },
     "spesifikasi": {
-      "suhu": "17º-24ºC",
+      "suhu": "18º-24ºC",
       "material": "Premium Showery Knit",
       "komposisi": "-",
       "fitur": "Tudung Multifungsi, Hoodie Besar",
@@ -508,7 +508,7 @@
     "variasi": {
       "warna": "Black, Brown, Cream, Grey, Imperial, Mossgreen, Navy, Teracotta",
       "ukuran": "L, XL, XXL",
-      "detail": "-",
+      "detail": "LD L: 106, XL: 1164, XXL: 122. PB: 92",
       "dimensi": "38x30x8 cm"
     },
     "spesifikasi": {
@@ -535,12 +535,12 @@
     "product_id": "HJ-NAYARA",
     "variasi": {
       "warna": "Beige Gold, Black Onyx",
-      "ukuran": "LD 120",
-      "detail": "-",
+      "ukuran": "All Size",
+      "detail": "LD 120; PB: 92",
       "dimensi": "36x28x6 cm"
     },
     "spesifikasi": {
-      "suhu": "",
+      "suhu": "15º-24ºC",
       "material": "Fleece Premium",
       "komposisi": "-",
       "fitur": "Gold Snap Button, Curve Cutting",
