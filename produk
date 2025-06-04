@@ -24,7 +24,7 @@
     "penggunaan": {
       "aktivitas": "Umroh, Haji, Formal, Traveling",
       "audience": "Hijaber aktif, Hijaber traveler",
-      "occasion": "Ibadah, Perjalanan Luar Negeri, Acara Formal"
+      "occasion": "Traveling (perjalanan luar negeri), Ibadah"
     }
   },
   {
@@ -52,7 +52,7 @@
     "penggunaan": {
       "aktivitas": "Pengajian, Traveling, Hangout",
       "audience": "Hijaber syar’i aktif, Muslimah feminin",
-      "occasion": "Aktivitas harian, Ibadah, Weekend santai"
+      "occasion": "Casual, Ibadah, Daily Wear"
     }
   },
   {
@@ -80,7 +80,7 @@
     "penggunaan": {
       "aktivitas": "Mengemudi, Traveling, Umroh",
       "audience": "Hijaber traveler, Muslimah sporty",
-      "occasion": "Perjalanan jauh, Gaya santai"
+      "occasion": "Perjalanan jauh, Casual"
     }
   },
   {
@@ -108,7 +108,7 @@
     "penggunaan": {
       "aktivitas": "Hangout, Pengajian, Keseharian",
       "audience": "Hijaber casual, Hijaber modest professional",
-      "occasion": "Kegiatan harian, Santai"
+      "occasion": "Kegiatan harian, Casual"
     }
   },
   {
@@ -136,7 +136,7 @@
     "penggunaan": {
       "aktivitas": "Umroh, Haji, Riding, Pengajian",
       "audience": "Hijaber sporty, Hijaber traveler",
-      "occasion": "Kegiatan ibadah, Daily look"
+      "occasion": "Daily Wear, Casual, Light Sports"
     }
   },
   {
@@ -164,7 +164,7 @@
     "penggunaan": {
       "aktivitas": "Umroh, Haji, Keseharian",
       "audience": "Hijaber syar’i, Muslimah elegan",
-      "occasion": "Ibadah, Jalan-jalan"
+      "occasion": "Traveling (perjalanan luar negeri), Ibadah"
     }
   },
   {
@@ -192,7 +192,7 @@
     "penggunaan": {
       "aktivitas": "Kantoran, Pengajian, Traveling",
       "audience": "Hijaber profesional, Muslimah formal",
-      "occasion": "Acara semi formal, Harian"
+      "occasion": "Casual to Semi Formal, Everyday Wear"
     }
   },
   {
@@ -220,7 +220,7 @@
     "penggunaan": {
       "aktivitas": "Traveling, Mengemudi, Haji, Umroh",
       "audience": "Hijaber aktif, Hijaber traveler",
-      "occasion": "Outdoor & ibadah"
+      "occasion": "Outdoor Activity, Casual, Traveling"
     }
   },
   {
@@ -248,7 +248,7 @@
     "penggunaan": {
       "aktivitas": "Traveling, Olahraga, Pengajian",
       "audience": "Hijaber aktif, Muslimah dinamis",
-      "occasion": "Aktivitas luar ruangan, Harian"
+      "occasion": "Daily Wear, Casual, Light Sports"
     }
   },
   {
@@ -928,27 +928,27 @@
     "variasi": {
       "warna": "Dessert Sand (Ivory), Midnight Dune (Black)",
       "ukuran": "M, L, XL",
-      "detail": "",
+      "detail": "LD/L.Bahu: M:108/44, L: 114/46, XL: 118/48; PB M/L/XL: 44/46/48 ",
       "dimensi": ""
     },
     "spesifikasi": {
       "suhu": "",
       "material": "Premium Arabian Twill",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Long Sleeve Shirt wudhu friendly, pleat details",
-      "collar": "",
-      "lengan": "",
-      "adjustable": "",
-      "pocket": "",
-      "closure": "",
-      "modesty": "",
-      "concept": "",
-      "care": ""
+      "collar": "Round",
+      "lengan": "Panjang Regular",
+      "adjustable": "No",
+      "pocket": "Left Front",
+      "closure": "Front Button",
+      "modesty": "Yes",
+      "concept": "Simple Modest Formal",
+      "care": "Cuci lembut, setrika suhu rendah"
     },
     "penggunaan": {
-      "aktivitas": "Umroh, Haji, Hangout",
+      "aktivitas": "Umroh, Haji, Hangout, Shalat Jumat",
       "audience": "Muslim pria traveler",
-      "occasion": "Ibadah, Harian"
+      "occasion": "Ibadah, Harian, Formal to Semi-Formal"
     }
   },
   {
@@ -962,21 +962,21 @@
     "spesifikasi": {
       "suhu": "",
       "material": "Premium Arabian Twill",
-      "komposisi": "",
+      "komposisi": "-",
       "fitur": "Long dress wudhu friendly, pleat details",
-      "collar": "",
-      "lengan": "",
-      "adjustable": "",
-      "pocket": "",
-      "closure": "",
-      "modesty": "",
-      "concept": "",
-      "care": ""
+      "collar": "Round",
+      "lengan": "Panjang Regular",
+      "adjustable": "No",
+      "pocket": "Right, Hidden",
+      "closure": "Front Zipper",
+      "modesty": "Yes",
+      "concept": "Simple Syar’i Formal",
+      "care": "Cuci lembut, setrika suhu rendah"
     },
     "penggunaan": {
       "aktivitas": "Umroh, Haji, Hangout",
       "audience": "Hijaber traveler",
-      "occasion": "Ibadah, Jalan-jalan"
+      "occasion": "Ibadah, Jalan-jalan, Formal to Semi-Formal"
     }
   },
   {
@@ -996,7 +996,7 @@
       "lengan": "Regular",
       "adjustable": "No",
       "pocket": "Sisi",
-      "closure": "Zipper",
+      "closure": "Front Zipper",
       "modesty": "Yes",
       "concept": "Daily Long Dress",
       "care": "Cuci ringan"
