@@ -1,0 +1,50 @@
+{
+  "deskripsi_produk_storytelling": {
+    "description": "Generate a Hijacket® product description in English using a storytelling style. The output is designed for modern hijabi women, highlighting elegance, modesty, and function.",
+    "input_fields": [
+      "product_name",
+      "tagline",
+      "style_silhouette",
+      "coverage",
+      "design_type",
+      "features", 
+      "material_name",
+      "material_benefits",
+      "colors",
+      "bust_width",
+      "size_types",
+      "max_body_weight",
+      "aktivitas",
+      "audience",
+      "occasion"
+    ],
+    "output_format": "Markdown with multiple sections:\n\n1. ✨ Headline & Short Tagline (2–3 lines)\n2. **Style & Modesty**\n   - Focus on silhouette, coverage, elegance\n   - Mention if the design is syar’i, batwing, long cut, etc.\n3. **Features & Functionality**\n   - Bullet points: closure, hoodie, pockets, handsock, cutting, etc.\n4. **Fabric & Materials**\n   - Material name and benefits (warm, breathable, windproof, etc.)\n5. **Color Options**\n   - List all available colors from input\n6. **Fit & Size Guide**\n   - Bust width, size range, body weight max if any\n7. **Ideal Usage & Activities**\n   - Based on aktivitas, audience, occasion\n8. **Guarantee & Service**\n   - Static: \n     - Full Warranty: Hijacket covers all shipping costs.\n     - Claim Period: Warranty claims accepted within 1 day (D+1) of receiving the package.\n9. **Closing CTA**\n   - A final sentence inviting purchase"
+  },
+
+  "deskripsi_shopee": {
+    "description": "Generate short Shopee product description in Bahasa Indonesia, for listing display. Use persuasive and informative tone, highlighting key features, bahan, ukuran, dan aktivitas yang cocok.",
+    "input_fields": [
+      "nama_produk",
+      "fitur_utama",
+      "bahan",
+      "manfaat_bahan",
+      "warna",
+      "ukuran",
+      "aktivitas"
+    ],
+    "output_format": "Paragraf pendek (3–5 kalimat), Bahasa Indonesia, tanpa heading. Fokus pada keunggulan produk, kenyamanan bahan, dan aktivitas yang relevan untuk wanita muslimah. Akhiri dengan ajakan membeli seperti: 'Yuk miliki sekarang dan hangatkan momenmu bersama Hijacket®!'"
+  },
+
+  "deskripsi_tiktok": {
+    "description": "Generate a short, punchy TikTok product caption in Bahasa Indonesia for viral product videos. Use fun, trend-aware, and call-to-action tone, tetap sopan dan modest-friendly.",
+    "input_fields": [
+      "nama_produk",
+      "fitur_utama",
+      "manfaat",
+      "aktivitas",
+      "tagline_optional"
+    ],
+    "output_format": "Kalimat pendek 1–2 baris + 3–5 hashtag. Bahasa Indonesia, padat, catchy, dan cocok untuk caption TikTok. Akhiri dengan CTA ringan seperti: 'Biar tetap stylish tapi sopan? Pilih Hijacket®!'"
+  }
+
+}
