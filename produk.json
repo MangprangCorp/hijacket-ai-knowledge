@@ -12,7 +12,7 @@
     "harga_normal": 539000,
     "harga_promo": 431200,
     "variasi": {
-      "warna": "Black, Maroon, Green",
+      "warna": "Black, Cream, Green, Grey, Maroon, Teracotta ",
       "ukuran": "L, XL, XXL",
       "detail": "LD L: 106, XL: 114, XXL: 122; PB: 92",
       "berat": 800,
@@ -35,7 +35,7 @@
       "collar": "Folded",
       "lengan": "Standard",
       "adjustable": false,
-      "pocket": "Yes, dalam & luar",
+      "pocket": true,
       "closure": "Zipper + Flap Button",
       "modesty": true,
       "concept": "Medium Puffer Jacket, Classic Elegant",
@@ -55,11 +55,8 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": "Kiri Bawah Kantong"
-      },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2019,
       "is_active": true
     }
   },
@@ -97,7 +94,7 @@
       "collar": "-",
       "lengan": "Batwing 3/4",
       "adjustable": false,
-      "pocket": "Yes, Hip Patch Pocket",
+      "pocket": true,
       "closure": "Zipper",
       "modesty": true,
       "concept": "Cape, Feminine Romantic, Syari",
@@ -135,7 +132,7 @@
     "harga_normal": 619000,
     "harga_promo": 495200,
     "variasi": {
-      "warna": "Black, Beige",
+      "warna": "Beige, Black",
       "ukuran": "All Size",
       "detail": "LD 135, PB: 80",
       "berat": 850,
@@ -156,7 +153,7 @@
       "collar": "-",
       "lengan": "Oversize, Drop Shoulder, Bubble",
       "adjustable": true,
-      "pocket": "Hidden kanan kiri",
+      "pocket": true,
       "closure": "Hidden Zipper",
       "modesty": true,
       "concept": "Jacket, Classic Elegant",
@@ -177,7 +174,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2025,
       "is_active": true
     }
   },
@@ -215,7 +212,7 @@
       "collar": "-",
       "lengan": "Oversize bubble",
       "adjustable": true,
-      "pocket": "Yes",
+      "pocket": "-",
       "closure": "Tie Knot",
       "modesty": true,
       "concept": "Outer modesty, casual formal",
@@ -236,7 +233,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2022,
       "is_active": true
     }
   },
@@ -274,7 +271,7 @@
       "collar": "Crossfront",
       "lengan": "Oversize",
       "adjustable": false,
-      "pocket": "Side seam kanan kiri",
+      "pocket": true,
       "closure": "Slip On",
       "modesty": true,
       "concept": "Sweatshirt, Sporty Casual",
@@ -294,7 +291,7 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "gender_target": "Wanita",
+      "gender_target": "Unisex",
       "release_year": 2024,
       "is_active": true
     }
@@ -312,7 +309,7 @@
     "harga_normal": 499000,
     "harga_promo": 399200,
     "variasi": {
-      "warna": "Black Ebony, Cloudgrey, Goldenrod, Indigo Blue, Marigold, Mocca, Red Burgundy, Scarlett Brown, Seaweed, Teracotta, Coldgrey",
+      "warna": "Black Ebony, Cloudgrey, Coldgrey, Goldenrod, Indigo Blue, Ivory, Marigold, Mocca, Red Burgundy, Scarlett Brown, Seaweed, Teracotta",
       "ukuran": "L, XL, XXL",
       "detail": "LD L: 106, XL: 1164, XXL: 122. PB: 92",
       "berat": 750,
@@ -335,7 +332,7 @@
       "collar": "Standing",
       "lengan": "Regular",
       "adjustable": false,
-      "pocket": "Yes",
+      "pocket": true,
       "closure": "Front Button",
       "modesty": true,
       "concept": "Medium Puffer, Slim Straight Cutting",
@@ -356,7 +353,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2019,
       "is_active": true
     }
   },
@@ -394,7 +391,7 @@
       "collar": "-",
       "lengan": "Oversize",
       "adjustable": false,
-      "pocket": "Yes",
+      "pocket": true,
       "closure": "Open Style",
       "modesty": true,
       "concept": "Cardigan, Formal",
@@ -453,7 +450,7 @@
       "collar": "-",
       "lengan": "Drop shoulder, Regular",
       "adjustable": false,
-      "pocket": "Waist pocket",
+      "pocket": true,
       "closure": "Zipper",
       "modesty": true,
       "concept": "Classic Elegant",
@@ -474,7 +471,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2019,
       "is_active": true
     }
   },
@@ -512,7 +509,7 @@
       "collar": "-",
       "lengan": "Loose",
       "adjustable": true,
-      "pocket": "Waist slit",
+      "pocket": true,
       "closure": "Zipper",
       "modesty": true,
       "concept": "Versatile Jacket, Sporty Casual",
@@ -571,7 +568,7 @@
       "collar": "-",
       "lengan": "Drop Shoulder",
       "adjustable": true,
-      "pocket": "Waist patch & snap",
+      "pocket": true,
       "closure": "Zipper",
       "modesty": true,
       "concept": "2-Way Use Puffer Jacket",
@@ -591,65 +588,7 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "branding": {
-        "has_logo": "Dada kiri bordir"
-      },
       "gender_target": "Unisex",
-      "release_year": 2024,
-      "is_active": true
-    }
-  },
-  {
-    "product_id": "HJ-GISELA",
-    "sku": "HJ-GSL",
-    "brand": "Hijacket",
-    "nama_produk": "Hijacket Gisella",
-    "kategori": "Jacket",
-    "sub_kategori": "Hijacket",
-    "status": "New Arrival",
-    "deskripsi_singkat": "Jaket stylish untuk muslimah aktif.",
-    "deskripsi_lengkap": "Hijacket Gisella dirancang dengan siluet feminin dan material ringan. Cocok untuk daily outfit.",
-    "harga_normal": 399000,
-    "harga_promo": 319200,
-    "variasi": {
-      "warna": "Black",
-      "ukuran": "All Size",
-      "detail": "LD 120cm",
-      "berat": 784,
-      "dimensi": "34x28x6 cm",
-      "max_berat": {
-        "global": 95
-      }
-    },
-    "spesifikasi": {
-      "material": "Parasut Modestwear",
-      "komposisi": "-",
-      "fitur": "Hidden Pocket, Zipper Samping",
-      "fitur_material": "Ringan, Sejuk",
-      "collar": "-",
-      "lengan": "Regular",
-      "adjustable": true,
-      "pocket": "Hidden Pocket",
-      "closure": "Zipper",
-      "modesty": true,
-      "concept": "Jacket Casual Hijaber",
-      "care": "Cuci tangan, jemur alami"
-    },
-    "penggunaan": {
-      "aktivitas": "Hangout, Daily Wear",
-      "audience": "Hijaber casual, Fashionista",
-      "occasion": "Jalan-jalan, Nongkrong"
-    },
-    "meta": {
-      "kategori": "Jacket",
-      "season": "Tropis, Sejuk",
-      "tipe_ukuran": "All Size",
-      "flags": {
-        "ukuran_relevan": true,
-        "fitting_required": true,
-        "berat_berpengaruh": true
-      },
-      "gender_target": "Wanita",
       "release_year": 2024,
       "is_active": true
     }
@@ -688,7 +627,7 @@
       "collar": "Slim Hoodie (non-bulky), Integrated",
       "lengan": "Oversize, Drop Shoulder",
       "adjustable": true,
-      "pocket": "Waist Slit Pocket",
+      "pocket": true,
       "closure": "Zipper + Neck Safety",
       "modesty": true,
       "concept": "Tracktop, Sporty Casual, Modest Activewear dengan gaya satu warna solid dan aksen minimalis",
@@ -708,7 +647,7 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "gender_target": "Wanita",
+      "gender_target": "Unisex",
       "release_year": 2024,
       "is_active": true
     }
@@ -726,7 +665,7 @@
     "harga_normal": 449000,
     "harga_promo": 359200,
     "variasi": {
-      "warna": "Coldgrey, Cream, Black",
+      "warna": "Coldgrey, Cream, Black, Bondi Green, Candi Pink, Crimson, Deep Pink, Goldrod, Snow",
       "ukuran": "L, XL, XXL",
       "detail": "LD L: 106, XL: 114, XXL: 122; PB: 92",
       "berat": 820,
@@ -747,7 +686,7 @@
       "collar": "-",
       "lengan": "Regular",
       "adjustable": false,
-      "pocket": "Hip Flap + Chest Inside",
+      "pocket": true,
       "closure": "Zipper + Flap Button",
       "modesty": true,
       "concept": "Parka, Classic Elegant",
@@ -768,7 +707,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Unisex",
-      "release_year": 2024,
+      "release_year": 2019,
       "is_active": true
     }
   },
@@ -806,7 +745,7 @@
       "collar": "-",
       "lengan": "Oversize",
       "adjustable": false,
-      "pocket": "Hip Patch Pocket",
+      "pocket": true,
       "closure": "Button",
       "modesty": true,
       "concept": "Cardigan, Classic Elegant",
@@ -861,7 +800,7 @@
       "collar": "-",
       "lengan": "Oversize, Drop Shoulder",
       "adjustable": false,
-      "pocket": "Patch Pocket",
+      "pocket": true,
       "closure": "Button",
       "modesty": true,
       "concept": "Cardigan, Classic Elegant",
@@ -882,7 +821,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2023,
       "is_active": true
     }
   },
@@ -899,7 +838,7 @@
     "harga_normal": 619000,
     "harga_promo": 495200,
     "variasi": {
-      "warna": "Hitam Hitam, Hitam Cream",
+      "warna": "Midnight Sand, Noir Classic",
       "ukuran": "All Size",
       "detail": "LD 120; PB: 92",
       "berat": 850,
@@ -920,7 +859,7 @@
       "collar": "-",
       "lengan": "Regular",
       "adjustable": true,
-      "pocket": "Samping kanan kiri",
+      "pocket": true,
       "closure": "Double Front Button",
       "modesty": true,
       "concept": "Blazer Hijaber Formal",
@@ -941,7 +880,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2025,
       "is_active": true
     }
   },
@@ -958,7 +897,7 @@
     "harga_normal": 479000,
     "harga_promo": 383200,
     "variasi": {
-      "warna": "Black, Brown, Mint",
+      "warna": "Black, Brown, Ivory, Marigold, Mint",
       "ukuran": "L, XL, XXL",
       "detail": "LD L: 106, XL: 114, XXL: 122. PB: 92",
       "berat": 780,
@@ -981,7 +920,7 @@
       "collar": "Standing",
       "lengan": "Regular + Handsock",
       "adjustable": false,
-      "pocket": "Waist Pocket",
+      "pocket": true,
       "closure": "Zipper + Snap",
       "modesty": true,
       "concept": "Jacket, Feminine Romantic",
@@ -1002,7 +941,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2023,
       "is_active": true
     }
   },
@@ -1040,7 +979,7 @@
       "collar": "-",
       "lengan": "Oversize, Drop Shoulder",
       "adjustable": true,
-      "pocket": "Split Kangaroo",
+      "pocket": true,
       "closure": "Zipper",
       "modesty": true,
       "concept": "Feminine Romantic, Jaket Tudung",
@@ -1101,7 +1040,7 @@
       "collar": "-",
       "lengan": "Regular",
       "adjustable": true,
-      "pocket": "Hip + Chest",
+      "pocket": true,
       "closure": "Zipper + Flap Button",
       "modesty": true,
       "concept": "Parka, Sporty Casual",
@@ -1121,8 +1060,8 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "gender_target": "Wanita",
-      "release_year": 2024,
+      "gender_target": "Unisex",
+      "release_year": 2018,
       "is_active": true
     }
   },
@@ -1160,7 +1099,7 @@
       "collar": "-",
       "lengan": "Oversize + Drop Shoulder",
       "adjustable": false,
-      "pocket": "Waist Pocket",
+      "pocket": true,
       "closure": "Zipper + Snap Button",
       "modesty": true,
       "concept": "Feminine Romantic, Classic Elegant",
@@ -1198,7 +1137,7 @@
     "harga_normal": 479000,
     "harga_promo": 383200,
     "variasi": {
-      "warna": "Black, Brown, Mint",
+      "warna": "Black, Brown, Ivory, Mint",
       "ukuran": "L, XL, XXL",
       "detail": "LD L: 106, XL: 114, XXL: 122. PB: 92",
       "berat": 770,
@@ -1215,7 +1154,7 @@
       "collar": "Blazer",
       "lengan": "Regular",
       "adjustable": false,
-      "pocket": "Side Seam Pocket",
+      "pocket": true,
       "closure": "Button Depan Belakang",
       "modesty": true,
       "concept": "Coat, Classic Elegant",
@@ -1236,7 +1175,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2023,
       "is_active": true
     }
   },
@@ -1274,7 +1213,7 @@
       "collar": "-",
       "lengan": "Batwing",
       "adjustable": false,
-      "pocket": "Hip Patch Pocket",
+      "pocket": true,
       "closure": "Button di Dada",
       "modesty": true,
       "concept": "Cardigan, Feminine Romantic",
@@ -1295,7 +1234,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2023,
       "is_active": true
     }
   },
@@ -1329,7 +1268,7 @@
       "collar": "-",
       "lengan": "Batwing",
       "adjustable": true,
-      "pocket": "Split Kangaroo",
+      "pocket": true,
       "closure": "Belt",
       "modesty": true,
       "concept": "Cardigan, Feminine Romantic",
@@ -1350,7 +1289,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2023,
       "is_active": true
     }
   },
@@ -1388,7 +1327,7 @@
       "collar": "Shawl",
       "lengan": "Oversize, Drop Shoulder",
       "adjustable": true,
-      "pocket": "Side Seam Pocket",
+      "pocket": true,
       "closure": "Double D Ring",
       "modesty": true,
       "concept": "Wraping Coat, 3-in-1 Look, Classic Elegant",
@@ -1447,7 +1386,7 @@
       "collar": "-",
       "lengan": "-",
       "adjustable": true,
-      "pocket": "Cargo Pocket Samping",
+      "pocket": true,
       "closure": "Karet Adjustable",
       "modesty": true,
       "concept": "Modest Skirt, Casual Sporty",
@@ -1485,7 +1424,7 @@
     "harga_normal": 549000,
     "harga_promo": 439200,
     "variasi": {
-      "warna": "Brownie, Silver",
+      "warna": "Brownie, Icegrey",
       "ukuran": "All Size",
       "detail": "LD: 120; PB: 140",
       "berat": 720,
@@ -1502,7 +1441,7 @@
       "collar": "Round",
       "lengan": "Bubble",
       "adjustable": false,
-      "pocket": "Samping kanan kiri",
+      "pocket": true,
       "closure": "Front Zipper",
       "modesty": true,
       "concept": "Oversize Dress, Classic Elegant",
@@ -1523,7 +1462,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2025,
       "is_active": true
     }
   },
@@ -1608,7 +1547,7 @@
       "collar": "-",
       "lengan": "Regular",
       "adjustable": false,
-      "pocket": "Samping",
+      "pocket": true,
       "closure": "Front Button",
       "modesty": true,
       "concept": "Tunic Daily Look",
@@ -1629,7 +1568,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2025,
       "is_active": true
     }
   },
@@ -1646,7 +1585,7 @@
     "harga_normal": 57000,
     "harga_promo": 46600,
     "variasi": {
-      "warna": "MOCCA-BEIGE, DENIM-BLACK",
+      "warna": "Coffe-Beige, Denim-Black",
       "ukuran": "Allsize",
       "detail": "Ergonomis, ruang ekstra telinga",
       "berat": 50,
@@ -1681,7 +1620,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2025,
       "is_active": true
     }
   },
@@ -1767,7 +1706,7 @@
       "collar": "-",
       "lengan": "Panjang Regular",
       "adjustable": true,
-      "pocket": "Hidden",
+      "pocket": true,
       "closure": "Front Zipper",
       "modesty": true,
       "concept": "Tunic Set Elegant",
@@ -1788,7 +1727,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2025,
       "is_active": true
     }
   },
@@ -1840,7 +1779,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2023,
       "is_active": true
     }
   },
@@ -1857,7 +1796,7 @@
     "harga_normal": 149000,
     "harga_promo": 119200,
     "variasi": {
-      "warna": "Silcream, Sand, Sage, Mocca, Maroon, Black",
+      "warna": "Black, Maroon, Mocca, Sage, Sand, Silcream",
       "ukuran": "115 x 115 cm",
       "berat": 114,
       "dimensi": "20x20x2 cm"
@@ -1891,7 +1830,7 @@
         "berat_berpengaruh": false
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2025,
       "is_active": true
     }
   },
@@ -1921,7 +1860,7 @@
       "collar": "Round",
       "lengan": "Panjang Regular",
       "adjustable": false,
-      "pocket": "Left Front",
+      "pocket": true,
       "closure": "Front Button",
       "modesty": true,
       "concept": "Simple Modest Formal",
@@ -1942,7 +1881,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Pria",
-      "release_year": 2024,
+      "release_year": 2025,
       "is_active": true
     }
   },
@@ -1972,7 +1911,7 @@
       "collar": "Round",
       "lengan": "Panjang Regular",
       "adjustable": false,
-      "pocket": "Right, Hidden",
+      "pocket": true,
       "closure": "Front Zipper",
       "modesty": true,
       "concept": "Simple Syar’i Formal",
@@ -1993,7 +1932,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2025,
       "is_active": true
     }
   },
@@ -2027,7 +1966,7 @@
       "collar": "-",
       "lengan": "Regular",
       "adjustable": false,
-      "pocket": "Sisi",
+      "pocket": true,
       "closure": "Front Zipper",
       "modesty": true,
       "concept": "Daily Long Dress",
@@ -2048,7 +1987,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2025,
       "is_active": true
     }
   },
@@ -2082,7 +2021,7 @@
       "collar": "-",
       "lengan": "-",
       "adjustable": true,
-      "pocket": "Hidden",
+      "pocket": true,
       "closure": "Slip-on",
       "modesty": true,
       "concept": "Muslimah Vest",
@@ -2103,7 +2042,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2025,
       "is_active": true
     }
   },
@@ -2154,8 +2093,8 @@
         "fitting_required": false,
         "berat_berpengaruh": false
       },
-      "gender_target": "Wanita",
-      "release_year": 2024,
+      "gender_target": "Unisex",
+      "release_year": 2025,
       "is_active": true
     }
   },
@@ -2206,8 +2145,8 @@
         "fitting_required": false,
         "berat_berpengaruh": false
       },
-      "gender_target": "Wanita",
-      "release_year": 2024,
+      "gender_target": "Unisex",
+      "release_year": 2025,
       "is_active": true
     }
   },
@@ -2258,8 +2197,8 @@
         "fitting_required": true,
         "berat_berpengaruh": true
       },
-      "gender_target": "Wanita",
-      "release_year": 2024,
+      "gender_target": "Unisex",
+      "release_year": 2023,
       "is_active": true
     }
   },
@@ -2311,7 +2250,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2025,
       "is_active": true
     }
   },
@@ -2363,7 +2302,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2025,
       "is_active": true
     }
   },
@@ -2415,7 +2354,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2025,
       "is_active": true
     }
   },
@@ -2467,7 +2406,7 @@
         "berat_berpengaruh": true
       },
       "gender_target": "Wanita",
-      "release_year": 2024,
+      "release_year": 2023,
       "is_active": true
     }
   }
