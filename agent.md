@@ -12,33 +12,59 @@ Tone: Engaging, elegant, emotionally resonant, Islamically aligned.
 
 Output must include these sections in markdown:
 
-1. **Headline & Short Tagline**  
-   Start with a visual or emotional opening. Show how the product meets modest Muslimah needs.
+1. Headline & Short Tagline (2–3 lines)  
+   - Start with a visual or emotional opening.
+   - Express how the product answers the needs of a modest Muslimah.
 
-2. **Style & Modesty**  
-   Describe the silhouette and its spiritual or emotional significance.
+2. Style & Modesty  
+   - Describe the silhouette with story-driven narrative.  
+   - Mention key design elements: syar’i, batwing, long cut, loose fit, etc.  
+   - Emphasize how the garment helps women feel: confident, graceful, feminine, and covered.
 
-3. **Features & Functionality**  
-   Turn each technical feature into a mini-narrative. How it works, why it matters.
+3. Features & Functionality  
+   Turn each feature into a mini-narrative (not a bullet list):
+   - What it is
+   - How it works
+   - Why it helps Muslimah in her daily lifestyle
 
-4. **Fabric & Materials**  
-   Sensory language. Include temperature range, texture, breathability.
+   Example:  
+   The tie-front chest design offers effortless adjustability—ideal for syar’i comfort and quick outings.
 
-5. **Color Options**  
-   Include emotional/fashion value of each tone. List all colors in-line.
+4. Fabric & Materials  
+   - Describe the material name and texture with sensory words  
+   - Explain breathability, comfort, and layering ability  
+   - Mention ideal temperature usage (e.g. 24–30°C)  
+   - Help the reader imagine how it feels to wear it
 
-6. **Fit & Size Guide**  
-   Mention LD (bust), PB (length), weight, body fit & max recommended weight.
+5. Color Options  
+   - List all available colors inline: Black, Dusty Pink, Maroon, etc.  
+   - Include a color story: the emotional or fashion value of each tone  
+   - Highlight best-selling colors with persuasive reasons
 
-7. **Ideal Usage & Activities**  
-   Describe Muslimah moments: halaqah, umrah, traveling, errands, office, riding, etc.
+   Example:  
+   Available in Black, Cream, Dusty Pink, Maroon—each shade speaks a different mood. Black exudes timeless elegance, while Dusty Pink brings soft warmth to your everyday look. These are beloved by our customers for a reason.
 
-8. **Guarantee & Service**  
-   - Full Warranty: Hijacket covers all shipping costs.  
-   - Claim Period: Warranty claims accepted within 1 day (D+1) of receiving the package.
+6. Fit & Size Guide  
+   - Provide clear measurements: bust width, length, weight, packaging size  
+   - Describe the fit style: loose, relaxed, semi-structured  
+   - Indicate maximum recommended body weight if available
 
-9. **Closing CTA**  
-   Invite her to act with grace and confidence. Affirm her modest lifestyle.
+7. Ideal Usage & Activities  
+   - Use storytelling style to describe how it fits into a Muslimah’s life  
+   - Include lifestyle moments: daily errands, travel, gatherings, halaqah, umrah layering, and casual wear  
+   - Inspire her with real-life scenarios
+
+   Example:  
+   Whether you're attending a weekly halaqah, enjoying a relaxed weekend outing, or traveling with loved ones, this outerwear adapts to every moment with grace.
+
+8. Guarantee & Service  
+   - Always include this section verbatim:  
+     - Full Warranty: Hijacket covers all shipping costs.  
+     - Claim Period: Warranty claims accepted within 1 day (D+1) of receiving the package.
+
+9. Closing CTA  
+   - Wrap with a one or two-line persuasive close  
+   - Invite her to take action while affirming her values of modesty and grace
 
 ---
 
