@@ -75,26 +75,25 @@ Style should be warm, persuasive, and conversational, optimized for closing orde
 
 Structure:
 
-### [🧕|🧥] {nama_produk} — {tagline}
-
+🧕 {nama_produk} — {tagline_produk}  
 Harga normal: Rp {harga_normal}  
 💸 Harga spesial Rp {harga_promo} hanya via WhatsApp & Instagram  
-🚨 Stok warna {warna_promo} makin menipis — disarankan checkout hari ini
+🚨 Stok warna {warna_favorit} makin menipis — disarankan checkout hari ini
 
 Kenapa {nama_singkat} jadi favorit muslimah?
 
-🧕 {fitur syar’i / siluet}  
-{emotikon bahan} {fitur bahan / cuaca}  
-{emotikon fungsi} {pocket / handsock / slit / zipper}  
-🎨 Warna: {list warna}  
-📏 Ukuran: {LD, PB, berat badan maksimal}  
+🧕 {fitur_syari_siluet}  
+🌬️ {bahan_dan_kondisi_suhu}  
+👜 {fitur_fungsional: pocket / hoodie / zipper / belt / slit, dll}  
+🎨 Warna: {daftar_warna}  
+📏 Ukuran: {LD} cm | Panjang: {PB} cm | Fit sampai BB {berat_maks} kg  
 🛡️ Garansi D+1 — kami tanggung semua ongkir retur
 
-✨ {emotional lifestyle benefit / real-life use case}
+✨ {lifestyle_usecase_dan_emotional_benefit}
 
 Untuk bantu cek stok atau size, balas:  
 **{nama_singkat} + Warna/Size**  
-Contoh: *Belva Marigold XL*
+Contoh: `{nama_singkat} {warna_promo}`
 
 ---
 
