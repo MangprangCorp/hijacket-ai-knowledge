@@ -1,0 +1,165 @@
+[
+  {
+    "product_id": "HJ-AGNEZIA",
+    "sku": "HJ-AGZ",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Agnezia",
+    "kategori": "Jacket",
+    "sub_kategori": "Hijacket",
+    "status": "Limited Edition",
+    "deskripsi_singkat": "Jaket quilted eksklusif dengan signature belt.",
+    "deskripsi_lengkap": "Hijacket Agnezia adalah jaket quilted eksklusif dari Hijacket yang terbuat dari bahan Micro Quilting Parachute, dilengkapi double front cover, belt khas Hijacket, dan saku luar-dalam. Cocok untuk traveling, umroh, hingga formal.",
+    "harga_normal": 539000,
+    "harga_promo": 431200,
+    "variasi": {
+      "warna": "Black,Cream,Green,Grey,Maroon,Teracotta",
+      "warna_rekomendasi": "Black,Cream,Grey",
+      "warna_array": [
+        "Black",
+        "Cream",
+        "Green",
+        "Grey",
+        "Maroon",
+        "Teracotta"
+      ],
+      "ukuran": "L,XL,XXL",
+      "ukuran_array": [
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "detail": "LD L: 106, XL: 114, XXL: 122; PB: 92",
+      "tipe_ukuran": "Graded",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 106,
+        "lingkar_dada_xl": 114,
+        "lingkar_dada_xxl": 122,
+        "panjang_badan": 92
+      },
+      "berat": 800,
+      "dimensi": "35x30x7 cm",
+      "max_berat": {
+        "L": 75,
+        "XL": 85,
+        "XXL": "95"
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 15,
+        "max": 24
+      },
+      "material": "Micro Quilting Parachute",
+      "komposisi": "-",
+      "kategori_ketebalan": "Weight Outer",
+      "fitur_material": "Windproof,Insulasi,Ringan",
+      "fitur": "Double front cover,Signature Belt,Hip Pocket,Classic Collar",
+      "fitur_array": [
+        "Double front cover",
+        "Signature Belt",
+        "Hip Pocket",
+        "Classic Collar"
+      ],
+      "collar": "Folded",
+      "lengan": "Standard",
+      "adjustable": true,
+      "pocket": true,
+      "pocket_detail": "Outside,Inside",
+      "closure": "Zipper,Flap Button",
+      "modesty": true,
+      "concept": "Medium Puffer Jacket,Classic Elegant",
+      "care": "Cuci manual dengan air dingin,hindari mesin pengering"
+    },
+    "penggunaan": {
+      "aktivitas": "Umroh,Haji,Formal,Traveling",
+      "aktivitas_array": [
+        "Umroh",
+        "Haji",
+        "Formal",
+        "Traveling"
+      ],
+      "audience": "Hijaber aktif,Hijaber traveler",
+      "audience_array": [
+        "Hijaber aktif",
+        "Hijaber traveler"
+      ],
+      "occasion": "Traveling (perjalanan luar negeri),Ibadah",
+      "occasion_array": [
+        "Traveling (perjalanan luar negeri)",
+        "Ibadah"
+      ]
+    },
+    "meta": {
+      "season": "Dingin,Pancaroba",
+      "persona": "Classic Elegant",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Bawah Kiri Kantong"
+      },
+      "gender_target": "Wanita",
+      "release_year": "2019",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 6,
+      "size_count": 3,
+      "product_type": "Jacket",
+      "weight_category": "Weight Outer",
+      "has_size_variations": true,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket agnezia jacket hijacket micro quilting parachute medium puffer jacket,classic elegant classic elegant",
+      "tags": {
+        "style": [
+          "Medium Puffer Jacket,Classic Elegant",
+          "Classic Elegant"
+        ],
+        "features": [
+          "Double front cover",
+          "Signature Belt",
+          "Hip Pocket",
+          "Classic Collar"
+        ],
+        "occasions": [
+          "Traveling (perjalanan luar negeri)",
+          "Ibadah"
+        ],
+        "target_groups": [
+          "Hijaber aktif",
+          "Hijaber traveler"
+        ],
+        "materials": [
+          "Micro Quilting Parachute"
+        ],
+        "colors": [
+          "Black",
+          "Cream",
+          "Green",
+          "Grey",
+          "Maroon",
+          "Teracotta"
+        ],
+        "sizes": [
+          "L",
+          "XL",
+          "XXL"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "premium",
+        "versatility_score": 2,
+        "feature_richness": 4,
+        "target_specificity": 2
+      }
+    }
+  }
+]

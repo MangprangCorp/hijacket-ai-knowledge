@@ -1,0 +1,156 @@
+[
+  {
+    "product_id": "HJ-SYLVANIA",
+    "sku": "HJ-SYL",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Sylvania",
+    "kategori": "Cardigan",
+    "sub_kategori": "Hijacket",
+    "status": "Best Seller",
+    "deskripsi_singkat": "Cardigan sporty dengan potongan ramping.",
+    "deskripsi_lengkap": "Hijacket Sylvania dilengkapi hoodie besar dan handsock loose, cocok untuk umroh & pengajian.",
+    "harga_normal": 189000,
+    "harga_promo": 151200,
+    "variasi": {
+      "warna": "Black,Khaky,Lavender,Marigold,Maroon,Navy,Olive",
+      "warna_rekomendasi": "Black,Khaky,Olive",
+      "warna_array": [
+        "Black",
+        "Khaky",
+        "Lavender",
+        "Marigold",
+        "Maroon",
+        "Navy",
+        "Olive"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "LD 120; PB: 92",
+      "tipe_ukuran": "All Size",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 120,
+        "panjang_badan": 92
+      },
+      "berat": 720,
+      "dimensi": "34x26x6 cm",
+      "max_berat": {
+        "global": 100
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 20,
+        "max": 28
+      },
+      "material": "Premium Hornet Knit",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Outer",
+      "fitur_material": "Hangat,Motif Vertikal",
+      "fitur": "Loose Handsock,Curve Cutting,Versatile Design",
+      "fitur_array": [
+        "Loose Handsock",
+        "Curve Cutting",
+        "Versatile Design"
+      ],
+      "collar": "Slim Hoodie (non-bulky),Integrated",
+      "lengan": "Batwing",
+      "adjustable": false,
+      "pocket": true,
+      "pocket_detail": "Hip Patch Pocket",
+      "closure": "Button di Dada",
+      "modesty": true,
+      "concept": "Feminine Romantic,Cardigan",
+      "care": "Cuci tangan"
+    },
+    "penggunaan": {
+      "aktivitas": "Traveling,Pengajian,Hangout",
+      "aktivitas_array": [
+        "Traveling",
+        "Pengajian",
+        "Hangout"
+      ],
+      "audience": "Hijaber traveler,Casual muslimah",
+      "audience_array": [
+        "Hijaber traveler",
+        "Casual muslimah"
+      ],
+      "occasion": "Casual to Semi Formal,Everyday Wear",
+      "occasion_array": [
+        "Casual to Semi Formal",
+        "Everyday Wear"
+      ]
+    },
+    "meta": {
+      "season": "Sejuk",
+      "persona": "Feminime Romantic",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Bawah Kanan Kantong"
+      },
+      "gender_target": "Wanita",
+      "release_year": "2023",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 7,
+      "size_count": 1,
+      "product_type": "Cardigan",
+      "weight_category": "Light Outer",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket sylvania cardigan hijacket premium hornet knit feminine romantic,cardigan feminime romantic",
+      "tags": {
+        "style": [
+          "Feminine Romantic,Cardigan",
+          "Feminime Romantic"
+        ],
+        "features": [
+          "Loose Handsock",
+          "Curve Cutting",
+          "Versatile Design"
+        ],
+        "occasions": [
+          "Casual to Semi Formal",
+          "Everyday Wear"
+        ],
+        "target_groups": [
+          "Hijaber traveler",
+          "Casual muslimah"
+        ],
+        "materials": [
+          "Premium Hornet Knit"
+        ],
+        "colors": [
+          "Black",
+          "Khaky",
+          "Lavender",
+          "Marigold",
+          "Maroon",
+          "Navy",
+          "Olive"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "budget",
+        "versatility_score": 2,
+        "feature_richness": 3,
+        "target_specificity": 2
+      }
+    }
+  }
+]
