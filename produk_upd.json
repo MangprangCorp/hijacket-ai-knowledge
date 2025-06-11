@@ -1,0 +1,6194 @@
+[
+  {
+    "product_id": "HJ-AGNEZIA",
+    "sku": "HJ-AGZ",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Agnezia",
+    "kategori": "Jacket",
+    "sub_kategori": "Hijacket",
+    "status": "Limited Edition",
+    "deskripsi_singkat": "Jaket quilted eksklusif dengan signature belt.",
+    "deskripsi_lengkap": "Hijacket Agnezia adalah jaket quilted eksklusif dari Hijacket yang terbuat dari bahan Micro Quilting Parachute, dilengkapi double front cover, belt khas Hijacket, dan saku luar-dalam. Cocok untuk traveling, umroh, hingga formal.",
+    "harga_normal": 539000,
+    "harga_promo": 431200,
+    "variasi": {
+      "warna": "Black,Cream,Green,Grey,Maroon,Teracotta",
+      "warna_rekomendasi": "Black,Cream,Grey",
+      "warna_array": [
+        "Black",
+        "Cream",
+        "Green",
+        "Grey",
+        "Maroon",
+        "Teracotta"
+      ],
+      "ukuran": "L,XL,XXL",
+      "ukuran_array": [
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "detail": "LD L: 106, XL: 114, XXL: 122; PB: 92",
+      "tipe_ukuran": "Graded",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 106,
+        "lingkar_dada_xl": 114,
+        "lingkar_dada_xxl": 122,
+        "panjang_badan": 92
+      },
+      "berat": 800,
+      "dimensi": "35x30x7 cm",
+      "max_berat": {
+        "L": 75,
+        "XL": 85,
+        "XXL": "95"
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 15,
+        "max": 24
+      },
+      "material": "Micro Quilting Parachute",
+      "komposisi": "-",
+      "kategori_ketebalan": "Weight Outer",
+      "fitur_material": "Windproof,Insulasi,Ringan",
+      "fitur": "Double front cover,Signature Belt,Hip Pocket,Classic Collar",
+      "fitur_array": [
+        "Double front cover",
+        "Signature Belt",
+        "Hip Pocket",
+        "Classic Collar"
+      ],
+      "collar": "Folded",
+      "lengan": "Standard",
+      "adjustable": true,
+      "pocket": true,
+      "pocket_detail": "Outside,Inside",
+      "closure": "Zipper,Flap Button",
+      "modesty": true,
+      "concept": "Medium Puffer Jacket,Classic Elegant",
+      "care": "Cuci manual dengan air dingin,hindari mesin pengering"
+    },
+    "penggunaan": {
+      "aktivitas": "Umroh,Haji,Formal,Traveling",
+      "aktivitas_array": [
+        "Umroh",
+        "Haji",
+        "Formal",
+        "Traveling"
+      ],
+      "audience": "Hijaber aktif,Hijaber traveler",
+      "audience_array": [
+        "Hijaber aktif",
+        "Hijaber traveler"
+      ],
+      "occasion": "Traveling (perjalanan luar negeri),Ibadah",
+      "occasion_array": [
+        "Traveling (perjalanan luar negeri)",
+        "Ibadah"
+      ]
+    },
+    "meta": {
+      "season": "Dingin,Pancaroba",
+      "persona": "Classic Elegant",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Bawah Kiri Kantong"
+      },
+      "gender_target": "Wanita",
+      "release_year": "2019",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 6,
+      "size_count": 3,
+      "product_type": "Jacket",
+      "weight_category": "Weight Outer",
+      "has_size_variations": true,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket agnezia jacket hijacket micro quilting parachute medium puffer jacket,classic elegant classic elegant",
+      "tags": {
+        "style": [
+          "Medium Puffer Jacket,Classic Elegant",
+          "Classic Elegant"
+        ],
+        "features": [
+          "Double front cover",
+          "Signature Belt",
+          "Hip Pocket",
+          "Classic Collar"
+        ],
+        "occasions": [
+          "Traveling (perjalanan luar negeri)",
+          "Ibadah"
+        ],
+        "target_groups": [
+          "Hijaber aktif",
+          "Hijaber traveler"
+        ],
+        "materials": [
+          "Micro Quilting Parachute"
+        ],
+        "colors": [
+          "Black",
+          "Cream",
+          "Green",
+          "Grey",
+          "Maroon",
+          "Teracotta"
+        ],
+        "sizes": [
+          "L",
+          "XL",
+          "XXL"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "premium",
+        "versatility_score": 2,
+        "feature_richness": 4,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-AISYA",
+    "sku": "HJ-AIS",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Aisya",
+    "kategori": "Cape",
+    "sub_kategori": "Hijacket",
+    "status": "Best Seller",
+    "deskripsi_singkat": "Cape syar’i dengan hoodie multifungsi.",
+    "deskripsi_lengkap": "Hijacket Aisya adalah cape muslimah berbahan Coco Knit premium, memiliki hoodie besar, handsock stylish, dan potongan half-round elegan. Cocok untuk pengajian, traveling, umroh, dan riding.",
+    "harga_normal": 359000,
+    "harga_promo": 287200,
+    "variasi": {
+      "warna": "Black,Brown,Denim,Lavender,Red",
+      "warna_rekomendasi": "Black,Brown,Lavender",
+      "warna_array": [
+        "Black",
+        "Brown",
+        "Denim",
+        "Lavender",
+        "Red"
+      ],
+      "ukuran": "Free Size",
+      "ukuran_array": [
+        "Free Size"
+      ],
+      "detail": "LD up to 150, PB: 92",
+      "tipe_ukuran": "All Size",
+      "ukuran_spesifik": {
+        "panjang_badan": 92
+      },
+      "berat": 700,
+      "dimensi": "35x28x6 cm",
+      "max_berat": {
+        "global": 110
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 24,
+        "max": 28
+      },
+      "material": "Premium Coco Knit",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Outer",
+      "fitur_material": "Halus,Lembut,Hangat",
+      "fitur": "Cape Style,Handsock Loose,Hoodie,Inclusive Size",
+      "fitur_array": [
+        "Cape Style",
+        "Handsock Loose",
+        "Hoodie",
+        "Inclusive Size"
+      ],
+      "collar": "Slim Hoodie (non-bulky),Integrated",
+      "lengan": "Batwing 3/4",
+      "adjustable": false,
+      "pocket": true,
+      "pocket_detail": "Hip Patch Pocket",
+      "closure": "Zipper",
+      "modesty": true,
+      "concept": "Cape,Feminine Romantic,Syari",
+      "care": "Cuci lembut,hindari pemutih"
+    },
+    "penggunaan": {
+      "aktivitas": "Traveling,Pengajian,Hangout",
+      "aktivitas_array": [
+        "Traveling",
+        "Pengajian",
+        "Hangout"
+      ],
+      "audience": "Hijaber syar’i aktif,Muslimah feminin",
+      "audience_array": [
+        "Hijaber syar’i aktif",
+        "Muslimah feminin"
+      ],
+      "occasion": "Ibadah,Casual,Daily Wear",
+      "occasion_array": [
+        "Ibadah",
+        "Casual",
+        "Daily Wear"
+      ]
+    },
+    "meta": {
+      "season": "Semua musim",
+      "persona": "Feminime Romantic",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": false,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Bawah Kanan Kantong"
+      },
+      "gender_target": "Wanita",
+      "release_year": "2024",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 5,
+      "size_count": 1,
+      "product_type": "Cape",
+      "weight_category": "Light Outer",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": false
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket aisya cape hijacket premium coco knit cape,feminine romantic,syari feminime romantic",
+      "tags": {
+        "style": [
+          "Cape,Feminine Romantic,Syari",
+          "Feminime Romantic"
+        ],
+        "features": [
+          "Cape Style",
+          "Handsock Loose",
+          "Hoodie",
+          "Inclusive Size"
+        ],
+        "occasions": [
+          "Ibadah",
+          "Casual",
+          "Daily Wear"
+        ],
+        "target_groups": [
+          "Hijaber syar’i aktif",
+          "Muslimah feminin"
+        ],
+        "materials": [
+          "Premium Coco Knit"
+        ],
+        "colors": [
+          "Black",
+          "Brown",
+          "Denim",
+          "Lavender",
+          "Red"
+        ],
+        "sizes": [
+          "Free Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "mid",
+        "versatility_score": 3,
+        "feature_richness": 4,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-ALETA",
+    "sku": "HJ-ALT",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Aleta",
+    "kategori": "Jacket",
+    "sub_kategori": "Hijacket",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Jaket parasut premium dengan hoodie besar.",
+    "deskripsi_lengkap": "Hijacket Aleta dibuat dari parasut dusky, tahan air, cocok untuk traveling, sport, dan umroh.",
+    "harga_normal": 619000,
+    "harga_promo": 495200,
+    "variasi": {
+      "warna": "Black,Beige",
+      "warna_rekomendasi": "Beige",
+      "warna_array": [
+        "Black",
+        "Beige"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "LD 135, PB: 80",
+      "tipe_ukuran": "All Size",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 135,
+        "panjang_badan": 80
+      },
+      "berat": 850,
+      "dimensi": "38x30x7 cm",
+      "max_berat": {
+        "global": 110
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 24,
+        "max": 28
+      },
+      "material": "Parasut Dusky Premium",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Outer",
+      "fitur_material": "Windproof,Waterproof",
+      "fitur": "Feminine Cutting,Simple and Elegant",
+      "fitur_array": [
+        "Feminine Cutting",
+        "Simple and Elegant"
+      ],
+      "collar": "Slim Hoodie (non-bulky),Integrated",
+      "lengan": "Oversize,Drop Shoulder,Bubble",
+      "adjustable": false,
+      "pocket": true,
+      "pocket_detail": "Hidden kanan kiri",
+      "closure": "Hidden Zipper",
+      "modesty": true,
+      "concept": "Classic Elegant,Jacket",
+      "care": "Lap basah atau dry clean"
+    },
+    "penggunaan": {
+      "aktivitas": "Umroh,Traveling,Mengemudi",
+      "aktivitas_array": [
+        "Umroh",
+        "Traveling",
+        "Mengemudi"
+      ],
+      "audience": "Hijaber traveler,Muslimah sporty",
+      "audience_array": [
+        "Hijaber traveler",
+        "Muslimah sporty"
+      ],
+      "occasion": "Casual,Perjalanan jauh",
+      "occasion_array": [
+        "Casual",
+        "Perjalanan jauh"
+      ]
+    },
+    "meta": {
+      "season": "Pancaroba,Hujan",
+      "persona": "Sporty Casual",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": false
+      },
+      "gender_target": "Wanita",
+      "release_year": "2025",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 2,
+      "size_count": 1,
+      "product_type": "Jacket",
+      "weight_category": "Light Outer",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket aleta jacket hijacket parasut dusky premium classic elegant,jacket sporty casual",
+      "tags": {
+        "style": [
+          "Classic Elegant,Jacket",
+          "Sporty Casual"
+        ],
+        "features": [
+          "Feminine Cutting",
+          "Simple and Elegant"
+        ],
+        "occasions": [
+          "Casual",
+          "Perjalanan jauh"
+        ],
+        "target_groups": [
+          "Hijaber traveler",
+          "Muslimah sporty"
+        ],
+        "materials": [
+          "Parasut Dusky Premium"
+        ],
+        "colors": [
+          "Black",
+          "Beige"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "premium",
+        "versatility_score": 2,
+        "feature_richness": 2,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-ARA",
+    "sku": "HJ-ARA",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Ara",
+    "kategori": "Outer",
+    "sub_kategori": "Hijacket",
+    "status": "Big Sale",
+    "deskripsi_singkat": "Outer ringan dan fleksibel untuk aktivitas muslimah.",
+    "deskripsi_lengkap": "Hijacket Ara hadir dengan penutup dada tali kreasional dan lengan bubble, cocok untuk hangout dan acara semi formal.",
+    "harga_normal": 305000,
+    "harga_promo": 244000,
+    "variasi": {
+      "warna": "Black,Cream,Denim,Dusty Pink,Maroon,Mint,Purple,Teracotta",
+      "warna_rekomendasi": "Black,Maroon,Mint",
+      "warna_array": [
+        "Black",
+        "Cream",
+        "Denim",
+        "Dusty Pink",
+        "Maroon",
+        "Mint",
+        "Purple",
+        "Teracotta"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "LD 130; PB: 80",
+      "tipe_ukuran": "All Size",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 130,
+        "panjang_badan": 80
+      },
+      "berat": 700,
+      "dimensi": "34x28x6 cm",
+      "max_berat": {
+        "global": 100
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 24,
+        "max": 30
+      },
+      "material": "Premium Acrylic Yarn",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Outer",
+      "fitur_material": "Halus,Sejuk,Elastis",
+      "fitur": "Adjustable Knot Opening",
+      "fitur_array": [
+        "Adjustable Knot Opening"
+      ],
+      "collar": "-",
+      "lengan": "Oversize bubble",
+      "adjustable": true,
+      "pocket": false,
+      "closure": "Tie Knot",
+      "modesty": true,
+      "concept": "Outer modesty,casual formal",
+      "care": "Cuci manual,jangan digantung,jangan diperas"
+    },
+    "penggunaan": {
+      "aktivitas": "Pengajian,Hangout,Keseharian",
+      "aktivitas_array": [
+        "Pengajian",
+        "Hangout",
+        "Keseharian"
+      ],
+      "audience": "Hijaber casual,Hijaber modest professional",
+      "audience_array": [
+        "Hijaber casual",
+        "Hijaber modest professional"
+      ],
+      "occasion": "Casual,Kegiatan harian",
+      "occasion_array": [
+        "Casual",
+        "Kegiatan harian"
+      ]
+    },
+    "meta": {
+      "season": "Semua musim",
+      "persona": "Feminime Romantic",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": false
+      },
+      "gender_target": "Wanita",
+      "release_year": "2022",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 8,
+      "size_count": 1,
+      "product_type": "Outer",
+      "weight_category": "Light Outer",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": false
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket ara outer hijacket premium acrylic yarn outer modesty,casual formal feminime romantic",
+      "tags": {
+        "style": [
+          "Outer modesty,casual formal",
+          "Feminime Romantic"
+        ],
+        "features": [
+          "Adjustable Knot Opening"
+        ],
+        "occasions": [
+          "Casual",
+          "Kegiatan harian"
+        ],
+        "target_groups": [
+          "Hijaber casual",
+          "Hijaber modest professional"
+        ],
+        "materials": [
+          "Premium Acrylic Yarn"
+        ],
+        "colors": [
+          "Black",
+          "Cream",
+          "Denim",
+          "Dusty Pink",
+          "Maroon",
+          "Mint",
+          "Purple",
+          "Teracotta"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "mid",
+        "versatility_score": 2,
+        "feature_richness": 1,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-BATARI",
+    "sku": "HJ-BTR",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Batari",
+    "kategori": "Sweatshirt",
+    "sub_kategori": "Hijacket",
+    "status": "Must Have",
+    "deskripsi_singkat": "Sweatshirt sporty khas JMFW 2024.",
+    "deskripsi_lengkap": "Hijacket Batari hadir dengan hoodie 2 lapis, emboss logo, dan crossfront collar unik. Cocok untuk ibadah dan daily outfit.",
+    "harga_normal": 379000,
+    "harga_promo": 303200,
+    "variasi": {
+      "warna": "Beige Gold,Black Onyx,Misty Gray",
+      "warna_rekomendasi": "Beige Gold,Black Onyx",
+      "warna_array": [
+        "Beige Gold",
+        "Black Onyx",
+        "Misty Gray"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "LD 120, PB: 92",
+      "tipe_ukuran": "All Size",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 120,
+        "panjang_badan": 92
+      },
+      "berat": 800,
+      "dimensi": "36x28x6 cm",
+      "max_berat": {
+        "global": 95
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 15,
+        "max": 22
+      },
+      "material": "Fleece Premium",
+      "komposisi": "-",
+      "kategori_ketebalan": "Weight Outer",
+      "fitur_material": "Lembut,Hangat",
+      "fitur": "Hoodie 2 Lapis,Emboss Logo,Feminine Hoodie",
+      "fitur_array": [
+        "Hoodie 2 Lapis",
+        "Emboss Logo",
+        "Feminine Hoodie"
+      ],
+      "collar": "Crossfront",
+      "lengan": "Oversize",
+      "adjustable": false,
+      "pocket": true,
+      "pocket_detail": "Side seam kanan kiri",
+      "closure": "Slip On",
+      "modesty": true,
+      "concept": "Sweatshirt,Sporty Casual",
+      "care": "Cuci dingin,jemur terbalik"
+    },
+    "penggunaan": {
+      "aktivitas": "Umroh,Haji,Pengajian,Riding",
+      "aktivitas_array": [
+        "Umroh",
+        "Haji",
+        "Pengajian",
+        "Riding"
+      ],
+      "audience": "Hijaber traveler,Hijaber sporty",
+      "audience_array": [
+        "Hijaber traveler",
+        "Hijaber sporty"
+      ],
+      "occasion": "Casual,Daily Wear,Light Sports",
+      "occasion_array": [
+        "Casual",
+        "Daily Wear",
+        "Light Sports"
+      ]
+    },
+    "meta": {
+      "season": "Dingin,Pancaroba",
+      "persona": "Sporty Casual",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Lengan (Emboss)"
+      },
+      "gender_target": "Unisex",
+      "release_year": "2024",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 3,
+      "size_count": 1,
+      "product_type": "Sweatshirt",
+      "weight_category": "Weight Outer",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket batari sweatshirt hijacket fleece premium sweatshirt,sporty casual sporty casual",
+      "tags": {
+        "style": [
+          "Sweatshirt,Sporty Casual",
+          "Sporty Casual"
+        ],
+        "features": [
+          "Hoodie 2 Lapis",
+          "Emboss Logo",
+          "Feminine Hoodie"
+        ],
+        "occasions": [
+          "Casual",
+          "Daily Wear",
+          "Light Sports"
+        ],
+        "target_groups": [
+          "Hijaber traveler",
+          "Hijaber sporty"
+        ],
+        "materials": [
+          "Fleece Premium"
+        ],
+        "colors": [
+          "Beige Gold",
+          "Black Onyx",
+          "Misty Gray"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "mid",
+        "versatility_score": 3,
+        "feature_richness": 3,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-BELVA",
+    "sku": "HJ-BLV",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Belva",
+    "kategori": "Medium Puffer",
+    "sub_kategori": "Hijacket",
+    "status": "Best Seller",
+    "deskripsi_singkat": "Jaket slim cutting dengan bahan tahan cuaca.",
+    "deskripsi_lengkap": "Hijacket Belva adalah jaket muslimah dengan desain slim dan bahan Micro Quilting Parachute, lengkap dengan kantong luar-dalam dan slit belakang. Tersedia dalam banyak warna untuk kebutuhan ibadah dan harian.",
+    "harga_normal": 499000,
+    "harga_promo": 399200,
+    "variasi": {
+      "warna": "Black Ebony,Cloudgrey,Coldgrey,Goldenrod,Indigo Blue,Ivory,Marigold,Mocca,Red Burgundy,Scarlett Brown,Seaweed,Teracotta",
+      "warna_rekomendasi": "Black Ebony,Ivory,Marigold",
+      "warna_array": [
+        "Black Ebony",
+        "Cloudgrey",
+        "Coldgrey",
+        "Goldenrod",
+        "Indigo Blue",
+        "Ivory",
+        "Marigold",
+        "Mocca",
+        "Red Burgundy",
+        "Scarlett Brown",
+        "Seaweed",
+        "Teracotta"
+      ],
+      "ukuran": "L,XL,XXL",
+      "ukuran_array": [
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "detail": "LD L: 106, XL: 1164, XXL: 122. PB: 92",
+      "tipe_ukuran": "Graded",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 106,
+        "lingkar_dada_xl": 116,
+        "lingkar_dada_xxl": 122,
+        "panjang_badan": 92
+      },
+      "berat": 750,
+      "dimensi": "38x32x8 cm",
+      "max_berat": {
+        "L": 75,
+        "XL": 85,
+        "XXL": "95"
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 15,
+        "max": 24
+      },
+      "material": "Micro Quilting Parachute",
+      "komposisi": "-",
+      "kategori_ketebalan": "Weight Outer",
+      "fitur_material": "Insulasi,Waterproof",
+      "fitur": "Back Slit,Inside Pocket,Outer Pocket",
+      "fitur_array": [
+        "Back Slit",
+        "Inside Pocket",
+        "Outer Pocket"
+      ],
+      "collar": "Standing",
+      "lengan": "Regular",
+      "adjustable": false,
+      "pocket": true,
+      "pocket_detail": "Outside,Inside",
+      "closure": "Front Button",
+      "modesty": true,
+      "concept": "Medium Puffer,Slim Straight Cutting",
+      "care": "Dry clean disarankan"
+    },
+    "penggunaan": {
+      "aktivitas": "Umroh,Haji,Keseharian",
+      "aktivitas_array": [
+        "Umroh",
+        "Haji",
+        "Keseharian"
+      ],
+      "audience": "Hijaber syar’i,Muslimah elegan",
+      "audience_array": [
+        "Hijaber syar’i",
+        "Muslimah elegan"
+      ],
+      "occasion": "Traveling (perjalanan luar negeri),Ibadah",
+      "occasion_array": [
+        "Traveling (perjalanan luar negeri)",
+        "Ibadah"
+      ]
+    },
+    "meta": {
+      "season": "Dingin,Sejuk",
+      "persona": "Classic Elegant",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Bawah Kiri Kantong"
+      },
+      "gender_target": "Wanita",
+      "release_year": "2019",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 12,
+      "size_count": 3,
+      "product_type": "Medium Puffer",
+      "weight_category": "Weight Outer",
+      "has_size_variations": true,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket belva medium puffer hijacket micro quilting parachute medium puffer,slim straight cutting classic elegant",
+      "tags": {
+        "style": [
+          "Medium Puffer,Slim Straight Cutting",
+          "Classic Elegant"
+        ],
+        "features": [
+          "Back Slit",
+          "Inside Pocket",
+          "Outer Pocket"
+        ],
+        "occasions": [
+          "Traveling (perjalanan luar negeri)",
+          "Ibadah"
+        ],
+        "target_groups": [
+          "Hijaber syar’i",
+          "Muslimah elegan"
+        ],
+        "materials": [
+          "Micro Quilting Parachute"
+        ],
+        "colors": [
+          "Black Ebony",
+          "Cloudgrey",
+          "Coldgrey",
+          "Goldenrod",
+          "Indigo Blue",
+          "Ivory",
+          "Marigold",
+          "Mocca",
+          "Red Burgundy",
+          "Scarlett Brown",
+          "Seaweed",
+          "Teracotta"
+        ],
+        "sizes": [
+          "L",
+          "XL",
+          "XXL"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "mid",
+        "versatility_score": 2,
+        "feature_richness": 3,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-DAYANA",
+    "sku": "HJ-DYN",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Dayana",
+    "kategori": "Cardigan",
+    "sub_kategori": "Hijacket",
+    "status": "Must Have",
+    "deskripsi_singkat": "Cardigan formal berbahan scuba yang sejuk.",
+    "deskripsi_lengkap": "Hijacket Dayana dengan desain open closure, lengan oversize, cocok untuk kantor hingga pengajian.",
+    "harga_normal": 259000,
+    "harga_promo": 207200,
+    "variasi": {
+      "warna": "Black,Broken White,Brown,Denim",
+      "warna_rekomendasi": "Black,Brown",
+      "warna_array": [
+        "Black",
+        "Broken White",
+        "Brown",
+        "Denim"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "LD L: 120, PB: 92",
+      "tipe_ukuran": "All Size",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 120,
+        "panjang_badan": 92
+      },
+      "berat": 650,
+      "dimensi": "34x26x5 cm",
+      "max_berat": {
+        "global": 95
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 18,
+        "max": 24
+      },
+      "material": "Scuba",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Outer",
+      "fitur_material": "Halus,Sejuk,Elastis",
+      "fitur": "Open Closure,Drop Shoulder,Sleek Cutting",
+      "fitur_array": [
+        "Open Closure",
+        "Drop Shoulder",
+        "Sleek Cutting"
+      ],
+      "collar": "-",
+      "lengan": "Oversize",
+      "adjustable": false,
+      "pocket": true,
+      "pocket_detail": "Hip Patch Pocket",
+      "closure": "Open Style",
+      "modesty": true,
+      "concept": "Cardigan,Formal",
+      "care": "Cuci manual,jangan diperas"
+    },
+    "penggunaan": {
+      "aktivitas": "Traveling,Pengajian,Kantoran",
+      "aktivitas_array": [
+        "Traveling",
+        "Pengajian",
+        "Kantoran"
+      ],
+      "audience": "Hijaber profesional,Muslimah formal",
+      "audience_array": [
+        "Hijaber profesional",
+        "Muslimah formal"
+      ],
+      "occasion": "Casual to Semi Formal,Everyday Wear",
+      "occasion_array": [
+        "Casual to Semi Formal",
+        "Everyday Wear"
+      ]
+    },
+    "meta": {
+      "season": "Sejuk,Indoor",
+      "persona": "Classic Elegant",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Bawah Kiri Kantong"
+      },
+      "gender_target": "Wanita",
+      "release_year": "2024",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 4,
+      "size_count": 1,
+      "product_type": "Cardigan",
+      "weight_category": "Light Outer",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket dayana cardigan hijacket scuba cardigan,formal classic elegant",
+      "tags": {
+        "style": [
+          "Cardigan,Formal",
+          "Classic Elegant"
+        ],
+        "features": [
+          "Open Closure",
+          "Drop Shoulder",
+          "Sleek Cutting"
+        ],
+        "occasions": [
+          "Casual to Semi Formal",
+          "Everyday Wear"
+        ],
+        "target_groups": [
+          "Hijaber profesional",
+          "Muslimah formal"
+        ],
+        "materials": [
+          "Scuba"
+        ],
+        "colors": [
+          "Black",
+          "Broken White",
+          "Brown",
+          "Denim"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "budget",
+        "versatility_score": 2,
+        "feature_richness": 3,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-ELEKTRA",
+    "sku": "HJ-ELK",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Elektra",
+    "kategori": "Jacket",
+    "sub_kategori": "Hijacket",
+    "status": "Best Seller",
+    "deskripsi_singkat": "Jaket fleece premium dengan siluet slim.",
+    "deskripsi_lengkap": "Hijacket Elektra lengkap dengan handsock, potongan curve, dan hoodie 2 lapis.",
+    "harga_normal": 285000,
+    "harga_promo": 219000,
+    "variasi": {
+      "warna": "Black,Brown,Burgundy,Green,Grey,Teracotta",
+      "warna_rekomendasi": "Black,Brown,Burgundy",
+      "warna_array": [
+        "Black",
+        "Brown",
+        "Burgundy",
+        "Green",
+        "Grey",
+        "Teracotta"
+      ],
+      "ukuran": "L,XL,XXL",
+      "ukuran_array": [
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "detail": "LD L: 106, XL: 114, XXL: 122; PB: 92",
+      "tipe_ukuran": "Graded",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 106,
+        "lingkar_dada_xl": 114,
+        "lingkar_dada_xxl": 122,
+        "panjang_badan": 92
+      },
+      "berat": 750,
+      "dimensi": "35x28x6 cm",
+      "max_berat": {
+        "global": 95
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 15,
+        "max": 22
+      },
+      "material": "Fleece Premium",
+      "komposisi": "-",
+      "kategori_ketebalan": "Weight Outer",
+      "fitur_material": "Lembut,Hangat,Tidak Berkerut",
+      "fitur": "Hoodie 2 lapis,Handsock,Curved Rib Pocket",
+      "fitur_array": [
+        "Hoodie 2 lapis",
+        "Handsock",
+        "Curved Rib Pocket"
+      ],
+      "collar": "Integrated,Hoodie",
+      "lengan": "Drop Shoulder,Regular",
+      "adjustable": false,
+      "pocket": true,
+      "pocket_detail": "Waist pocket",
+      "closure": "Zipper",
+      "modesty": true,
+      "concept": "Classic Elegant",
+      "care": "hindari pemutih,Cuci dingin"
+    },
+    "penggunaan": {
+      "aktivitas": "Umroh,Haji,Traveling,Mengemudi",
+      "aktivitas_array": [
+        "Umroh",
+        "Haji",
+        "Traveling",
+        "Mengemudi"
+      ],
+      "audience": "Hijaber aktif,Hijaber traveler",
+      "audience_array": [
+        "Hijaber aktif",
+        "Hijaber traveler"
+      ],
+      "occasion": "Casual,Outdoor Activity,Traveling",
+      "occasion_array": [
+        "Casual",
+        "Outdoor Activity",
+        "Traveling"
+      ]
+    },
+    "meta": {
+      "season": "Dingin,Sejuk",
+      "persona": "Sporty Casual",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Bawah Kiri Kantong"
+      },
+      "gender_target": "Wanita",
+      "release_year": "2019",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 23,
+      "is_on_sale": true,
+      "color_count": 6,
+      "size_count": 3,
+      "product_type": "Jacket",
+      "weight_category": "Weight Outer",
+      "has_size_variations": true,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket elektra jacket hijacket fleece premium classic elegant sporty casual",
+      "tags": {
+        "style": [
+          "Classic Elegant",
+          "Sporty Casual"
+        ],
+        "features": [
+          "Hoodie 2 lapis",
+          "Handsock",
+          "Curved Rib Pocket"
+        ],
+        "occasions": [
+          "Casual",
+          "Outdoor Activity",
+          "Traveling"
+        ],
+        "target_groups": [
+          "Hijaber aktif",
+          "Hijaber traveler"
+        ],
+        "materials": [
+          "Fleece Premium"
+        ],
+        "colors": [
+          "Black",
+          "Brown",
+          "Burgundy",
+          "Green",
+          "Grey",
+          "Teracotta"
+        ],
+        "sizes": [
+          "L",
+          "XL",
+          "XXL"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "budget",
+        "versatility_score": 3,
+        "feature_richness": 3,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-EZZENZA",
+    "sku": "HJ-EZZ",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Ezzenza",
+    "kategori": "Light Jacket",
+    "sub_kategori": "Hijacket",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Jaket ringan dengan harga terjangkau.",
+    "deskripsi_lengkap": "Hijacket Ezzenza berbahan Baby Terry Premium, detachable hoodie, cocok untuk muslimah aktif.",
+    "harga_normal": 189000,
+    "harga_promo": 151200,
+    "variasi": {
+      "warna": "Black,Burgundy,Dusty Pink,Latte",
+      "warna_rekomendasi": "Black,Latte",
+      "warna_array": [
+        "Black",
+        "Burgundy",
+        "Dusty Pink",
+        "Latte"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "LD: 120; PB: 80",
+      "tipe_ukuran": "All Size",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 120,
+        "panjang_badan": 80
+      },
+      "berat": 680,
+      "dimensi": "36x28x6 cm",
+      "max_berat": {
+        "global": 95
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 22,
+        "max": 28
+      },
+      "material": "Baby Terry Premium",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Outer",
+      "fitur_material": "Ringan,Adem",
+      "fitur": "Detachable Hoodie,Handsock,Lightweight",
+      "fitur_array": [
+        "Detachable Hoodie",
+        "Handsock",
+        "Lightweight"
+      ],
+      "collar": "Slim Hoodie,Detachable",
+      "lengan": "Loose",
+      "adjustable": false,
+      "pocket": true,
+      "pocket_detail": "Waist slit",
+      "closure": "Zipper",
+      "modesty": true,
+      "concept": "Sporty Casual,Versatile Jacket",
+      "care": "Cuci tangan,keringkan alami"
+    },
+    "penggunaan": {
+      "aktivitas": "Traveling,Pengajian,Olahraga",
+      "aktivitas_array": [
+        "Traveling",
+        "Pengajian",
+        "Olahraga"
+      ],
+      "audience": "Hijaber aktif,Muslimah dinamis",
+      "audience_array": [
+        "Hijaber aktif",
+        "Muslimah dinamis"
+      ],
+      "occasion": "Casual,Daily Wear,Light Sports",
+      "occasion_array": [
+        "Casual",
+        "Daily Wear",
+        "Light Sports"
+      ]
+    },
+    "meta": {
+      "season": "Tropis,Panas",
+      "persona": "Sporty Casual",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Bawah Kiri Kantong"
+      },
+      "gender_target": "Wanita",
+      "release_year": "2024",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 4,
+      "size_count": 1,
+      "product_type": "Light Jacket",
+      "weight_category": "Light Outer",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket ezzenza light jacket hijacket baby terry premium sporty casual,versatile jacket sporty casual",
+      "tags": {
+        "style": [
+          "Sporty Casual,Versatile Jacket",
+          "Sporty Casual"
+        ],
+        "features": [
+          "Detachable Hoodie",
+          "Handsock",
+          "Lightweight"
+        ],
+        "occasions": [
+          "Casual",
+          "Daily Wear",
+          "Light Sports"
+        ],
+        "target_groups": [
+          "Hijaber aktif",
+          "Muslimah dinamis"
+        ],
+        "materials": [
+          "Baby Terry Premium"
+        ],
+        "colors": [
+          "Black",
+          "Burgundy",
+          "Dusty Pink",
+          "Latte"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "budget",
+        "versatility_score": 3,
+        "feature_richness": 3,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-GENOVA",
+    "sku": "HJ-GNV",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Genova",
+    "kategori": "Reversible Jacket",
+    "sub_kategori": "Hijacket",
+    "status": "Must Have",
+    "deskripsi_singkat": "Jaket reversible dengan dua tampilan.",
+    "deskripsi_lengkap": "Hijacket Genova memiliki sisi Micro Quilting dan sisi fleece, cocok untuk traveling dan ibadah.",
+    "harga_normal": 579000,
+    "harga_promo": 463200,
+    "variasi": {
+      "warna": "Black,Mocca",
+      "warna_rekomendasi": "Mocca",
+      "warna_array": [
+        "Black",
+        "Mocca"
+      ],
+      "ukuran": "L,XL,XXL",
+      "ukuran_array": [
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "detail": "LD hingga 120 cm",
+      "tipe_ukuran": "Graded",
+      "berat": 900,
+      "dimensi": "40x30x8 cm",
+      "max_berat": {
+        "global": 100
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 7,
+        "max": 22
+      },
+      "material": "Micro Quilting Parachute & Fleece",
+      "komposisi": "-",
+      "kategori_ketebalan": "Weight Outer",
+      "fitur_material": "Windproof,Hangat,Waterproof",
+      "fitur": "Reversible,Hoodie 2 lapis,Extra Warmth without being heavy",
+      "fitur_array": [
+        "Reversible",
+        "Hoodie 2 lapis",
+        "Extra Warmth without being heavy"
+      ],
+      "collar": "Integrated,Hoodie",
+      "lengan": "Drop Shoulder",
+      "adjustable": true,
+      "pocket": true,
+      "pocket_detail": "Waist patch & snap",
+      "closure": "Zipper",
+      "modesty": true,
+      "concept": "2-Way Use Puffer Jacket",
+      "care": "Dry clean"
+    },
+    "penggunaan": {
+      "aktivitas": "Umroh,Traveling,Naik Gunung",
+      "aktivitas_array": [
+        "Umroh",
+        "Traveling",
+        "Naik Gunung"
+      ],
+      "audience": "Hijaber traveler,Outdoor enthusiast",
+      "audience_array": [
+        "Hijaber traveler",
+        "Outdoor enthusiast"
+      ],
+      "occasion": "Ibadah,Outdoor Activity,Traveling",
+      "occasion_array": [
+        "Ibadah",
+        "Outdoor Activity",
+        "Traveling"
+      ]
+    },
+    "meta": {
+      "season": "Dingin,Pancaroba",
+      "persona": "Sporty Casual",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Dada Kiri (Bordir)"
+      },
+      "gender_target": "Unisex",
+      "release_year": "2024",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 2,
+      "size_count": 3,
+      "product_type": "Reversible Jacket",
+      "weight_category": "Weight Outer",
+      "has_size_variations": true,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket genova reversible jacket hijacket micro quilting parachute & fleece 2-way use puffer jacket sporty casual",
+      "tags": {
+        "style": [
+          "2-Way Use Puffer Jacket",
+          "Sporty Casual"
+        ],
+        "features": [
+          "Reversible",
+          "Hoodie 2 lapis",
+          "Extra Warmth without being heavy"
+        ],
+        "occasions": [
+          "Ibadah",
+          "Outdoor Activity",
+          "Traveling"
+        ],
+        "target_groups": [
+          "Hijaber traveler",
+          "Outdoor enthusiast"
+        ],
+        "materials": [
+          "Micro Quilting Parachute & Fleece"
+        ],
+        "colors": [
+          "Black",
+          "Mocca"
+        ],
+        "sizes": [
+          "L",
+          "XL",
+          "XXL"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "premium",
+        "versatility_score": 3,
+        "feature_richness": 3,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-GISELA",
+    "sku": "HJ-GSL",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Gisella",
+    "kategori": "Jacket",
+    "sub_kategori": "Hijacket",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Jaket stylish untuk muslimah aktif.",
+    "deskripsi_lengkap": "Hijacket Gisella dirancang dengan siluet feminin dan material ringan. Cocok untuk daily outfit.",
+    "harga_normal": 399000,
+    "harga_promo": 319200,
+    "variasi": {
+      "warna": "Black",
+      "warna_rekomendasi": "Black",
+      "warna_array": [
+        "Black"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "LD 120cm",
+      "tipe_ukuran": "All Size",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 120
+      },
+      "berat": 784,
+      "dimensi": "34x28x6 cm",
+      "max_berat": {
+        "global": 95
+      }
+    },
+    "spesifikasi": {
+      "material": "Parasut Modestwear",
+      "komposisi": "-",
+      "kategori_ketebalan": "Weight Outer",
+      "fitur_material": "Ringan,Sejuk",
+      "fitur": "Hidden Pocket,Zipper Samping",
+      "fitur_array": [
+        "Hidden Pocket",
+        "Zipper Samping"
+      ],
+      "collar": "Integrated,Hoodie",
+      "lengan": "Regular",
+      "adjustable": true,
+      "pocket": true,
+      "pocket_detail": "Side seam kanan kiri",
+      "closure": "Zipper",
+      "modesty": true,
+      "concept": "Jacket Casual Hijaber",
+      "care": "Cuci tangan,jemur alami"
+    },
+    "penggunaan": {
+      "aktivitas": "Hangout,Daily Wear",
+      "aktivitas_array": [
+        "Hangout",
+        "Daily Wear"
+      ],
+      "audience": "Hijaber casual,Fashionista",
+      "audience_array": [
+        "Hijaber casual",
+        "Fashionista"
+      ],
+      "occasion": "Jalan-jalan,Nongkrong",
+      "occasion_array": [
+        "Jalan-jalan",
+        "Nongkrong"
+      ]
+    },
+    "meta": {
+      "season": "Sejuk,Tropis",
+      "persona": "Classic Elegant",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": false
+      },
+      "gender_target": "Wanita",
+      "release_year": 2025,
+      "is_active": false
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 1,
+      "size_count": 1,
+      "product_type": "Jacket",
+      "weight_category": "Weight Outer",
+      "has_size_variations": false,
+      "has_color_variations": false,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket gisella jacket hijacket parasut modestwear jacket casual hijaber classic elegant",
+      "tags": {
+        "style": [
+          "Jacket Casual Hijaber",
+          "Classic Elegant"
+        ],
+        "features": [
+          "Hidden Pocket",
+          "Zipper Samping"
+        ],
+        "occasions": [
+          "Jalan-jalan",
+          "Nongkrong"
+        ],
+        "target_groups": [
+          "Hijaber casual",
+          "Fashionista"
+        ],
+        "materials": [
+          "Parasut Modestwear"
+        ],
+        "colors": [
+          "Black"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "mid",
+        "versatility_score": 2,
+        "feature_richness": 2,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-GLIDE",
+    "sku": "HJ-GLD",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Glide",
+    "kategori": "Tracktop",
+    "sub_kategori": "Hijacket",
+    "status": "Must Have",
+    "deskripsi_singkat": "Tracktop ringan dan unisex.",
+    "deskripsi_lengkap": "Hijacket Glide berbahan despo parachute dengan inner net, packable, dan wudhu-friendly.",
+    "harga_normal": 319000,
+    "harga_promo": 255200,
+    "variasi": {
+      "warna": "Forest Haze,Graphite Shadow,Midnight Saga",
+      "warna_rekomendasi": "Forest Haze,Graphite Shadow",
+      "warna_array": [
+        "Forest Haze",
+        "Graphite Shadow",
+        "Midnight Saga"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "LD: 120; PB: 92",
+      "tipe_ukuran": "All Size",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 120,
+        "panjang_badan": 92
+      },
+      "berat": 780,
+      "dimensi": "36x28x7 cm",
+      "max_berat": {
+        "global": 100
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 20,
+        "max": 28
+      },
+      "material": "Despo Parachute,Inner Net",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Outer",
+      "fitur_material": "Windproof,Breathable,Lightweight",
+      "fitur": "Double-layer Hoodie,Full White Zipper,Safety Pocket,Compact Foldable,Back Slit,One-tone Clean Look",
+      "fitur_array": [
+        "Double-layer Hoodie",
+        "Full White Zipper",
+        "Safety Pocket",
+        "Compact Foldable",
+        "Back Slit",
+        "One-tone Clean Look"
+      ],
+      "collar": "Slim Hoodie (non-bulky),Integrated",
+      "lengan": "Oversize,Drop Shoulder",
+      "adjustable": false,
+      "pocket": true,
+      "pocket_detail": "Waist Slit Pocket",
+      "closure": "Zipper,Neck Safety",
+      "modesty": true,
+      "concept": "Sporty Casual,Tracktop,Modest Activewear dengan gaya satu warna solid dan aksen minimalis",
+      "care": "Cuci ringan,tidak disetrika"
+    },
+    "penggunaan": {
+      "aktivitas": "Traveling,Olahraga",
+      "aktivitas_array": [
+        "Traveling",
+        "Olahraga"
+      ],
+      "audience": "Hijaber sporty,Traveler",
+      "audience_array": [
+        "Hijaber sporty",
+        "Traveler"
+      ],
+      "occasion": "Casual,Outdoor Activity,Traveling",
+      "occasion_array": [
+        "Casual",
+        "Outdoor Activity",
+        "Traveling"
+      ]
+    },
+    "meta": {
+      "season": "Hujan,Panas",
+      "persona": "Sporty Casual",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": false
+      },
+      "gender_target": "Unisex",
+      "release_year": "2024",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 3,
+      "size_count": 1,
+      "product_type": "Tracktop",
+      "weight_category": "Light Outer",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket glide tracktop hijacket despo parachute,inner net sporty casual,tracktop,modest activewear dengan gaya satu warna solid dan aksen minimalis sporty casual",
+      "tags": {
+        "style": [
+          "Sporty Casual,Tracktop,Modest Activewear dengan gaya satu warna solid dan aksen minimalis",
+          "Sporty Casual"
+        ],
+        "features": [
+          "Double-layer Hoodie",
+          "Full White Zipper",
+          "Safety Pocket",
+          "Compact Foldable",
+          "Back Slit",
+          "One-tone Clean Look"
+        ],
+        "occasions": [
+          "Casual",
+          "Outdoor Activity",
+          "Traveling"
+        ],
+        "target_groups": [
+          "Hijaber sporty",
+          "Traveler"
+        ],
+        "materials": [
+          "Despo Parachute,Inner Net"
+        ],
+        "colors": [
+          "Forest Haze",
+          "Graphite Shadow",
+          "Midnight Saga"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "mid",
+        "versatility_score": 3,
+        "feature_richness": 6,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-IXORA",
+    "sku": "HJ-IXR",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Ixora",
+    "kategori": "Parka",
+    "sub_kategori": "Hijacket",
+    "status": "Best Seller",
+    "deskripsi_singkat": "Parka waterproof dan windproof.",
+    "deskripsi_lengkap": "Hijacket Ixora dilengkapi double cover, color block, dan desain unisex.",
+    "harga_normal": 449000,
+    "harga_promo": 359200,
+    "variasi": {
+      "warna": "Coldgrey,Cream,Black,Bondi Green,Candi Pink,Crimson,Deep Pink,Goldrod,Snow",
+      "warna_rekomendasi": "Black,Cream,Coldgrey",
+      "warna_array": [
+        "Coldgrey",
+        "Cream",
+        "Black",
+        "Bondi Green",
+        "Candi Pink",
+        "Crimson",
+        "Deep Pink",
+        "Goldrod",
+        "Snow"
+      ],
+      "ukuran": "L,XL,XXL",
+      "ukuran_array": [
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "detail": "LD L: 106, XL: 114, XXL: 122; PB: 92",
+      "tipe_ukuran": "Graded",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 106,
+        "lingkar_dada_xl": 114,
+        "lingkar_dada_xxl": 122,
+        "panjang_badan": 92
+      },
+      "berat": 820,
+      "dimensi": "38x30x7 cm",
+      "max_berat": {
+        "global": 100
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 15,
+        "max": 24
+      },
+      "material": "Taslan Parachute,Dourmil Dacron",
+      "komposisi": "-",
+      "kategori_ketebalan": "Weight Outer",
+      "fitur_material": "Insulasi,Ringan,Waterproof 75%",
+      "fitur": "Double Closure,Color Block,Hoodie,Utility-Friendly,Lighweight",
+      "fitur_array": [
+        "Double Closure",
+        "Color Block",
+        "Hoodie",
+        "Utility-Friendly",
+        "Lighweight"
+      ],
+      "collar": "Integrated,Hoodie",
+      "lengan": "Regular",
+      "adjustable": false,
+      "pocket": true,
+      "pocket_detail": "Hip Flap,Chest Inside",
+      "closure": "Zipper,Flap Button",
+      "modesty": true,
+      "concept": "Classic Elegant,Parka",
+      "care": "Dry clean disarankan"
+    },
+    "penggunaan": {
+      "aktivitas": "Umroh,Haji,Traveling,Naik Gunung",
+      "aktivitas_array": [
+        "Umroh",
+        "Haji",
+        "Traveling",
+        "Naik Gunung"
+      ],
+      "audience": "Hijaber aktif,Hijaber traveler",
+      "audience_array": [
+        "Hijaber aktif",
+        "Hijaber traveler"
+      ],
+      "occasion": "Casual,Outdoor Activity,Traveling",
+      "occasion_array": [
+        "Casual",
+        "Outdoor Activity",
+        "Traveling"
+      ]
+    },
+    "meta": {
+      "season": "Dingin,Pancaroba",
+      "persona": "Classic Elegant",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Bawah Kiri"
+      },
+      "gender_target": "Unisex",
+      "release_year": "2019",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 9,
+      "size_count": 3,
+      "product_type": "Parka",
+      "weight_category": "Weight Outer",
+      "has_size_variations": true,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket ixora parka hijacket taslan parachute,dourmil dacron classic elegant,parka classic elegant",
+      "tags": {
+        "style": [
+          "Classic Elegant,Parka",
+          "Classic Elegant"
+        ],
+        "features": [
+          "Double Closure",
+          "Color Block",
+          "Hoodie",
+          "Utility-Friendly",
+          "Lighweight"
+        ],
+        "occasions": [
+          "Casual",
+          "Outdoor Activity",
+          "Traveling"
+        ],
+        "target_groups": [
+          "Hijaber aktif",
+          "Hijaber traveler"
+        ],
+        "materials": [
+          "Taslan Parachute,Dourmil Dacron"
+        ],
+        "colors": [
+          "Coldgrey",
+          "Cream",
+          "Black",
+          "Bondi Green",
+          "Candi Pink",
+          "Crimson",
+          "Deep Pink",
+          "Goldrod",
+          "Snow"
+        ],
+        "sizes": [
+          "L",
+          "XL",
+          "XXL"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "mid",
+        "versatility_score": 3,
+        "feature_richness": 5,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-KAULA",
+    "sku": "HJ-KAU",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Kaula",
+    "kategori": "Cardigan",
+    "sub_kategori": "Hijacket",
+    "status": "Best Seller",
+    "deskripsi_singkat": "Cardigan klasik elegan untuk muslimah aktif.",
+    "deskripsi_lengkap": "Hijacket Kaula hadir dengan aksen contrast stitch dan bahan coco knit premium.",
+    "harga_normal": 359000,
+    "harga_promo": 287200,
+    "variasi": {
+      "warna": "Black,Brown,Lavender",
+      "warna_rekomendasi": "Black",
+      "warna_array": [
+        "Black",
+        "Brown",
+        "Lavender"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "LD: 120; PB: 92",
+      "tipe_ukuran": "All Size",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 120,
+        "panjang_badan": 92
+      },
+      "berat": 750,
+      "dimensi": "35x28x6 cm",
+      "max_berat": {
+        "global": 95
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 22,
+        "max": 28
+      },
+      "material": "Premium Coco Knit",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Outer",
+      "fitur_material": "Lembut,Nyaman",
+      "fitur": "Loose Fit,Full Button,Ribbed Cuffs,Contrast Stitch",
+      "fitur_array": [
+        "Loose Fit",
+        "Full Button",
+        "Ribbed Cuffs",
+        "Contrast Stitch"
+      ],
+      "collar": "V Neck",
+      "lengan": "Oversize",
+      "adjustable": false,
+      "pocket": true,
+      "pocket_detail": "Hip Patch Pocket",
+      "closure": "Button",
+      "modesty": true,
+      "concept": "Classic Elegant,Cardigan",
+      "care": "Cuci manual,jemur terbalik"
+    },
+    "penggunaan": {
+      "aktivitas": "Umroh,Haji,Traveling",
+      "aktivitas_array": [
+        "Umroh",
+        "Haji",
+        "Traveling"
+      ],
+      "audience": "Hijaber formal,Modest fashion enthusiast",
+      "audience_array": [
+        "Hijaber formal",
+        "Modest fashion enthusiast"
+      ],
+      "occasion": "Casual to Semi Formal,Everyday Wear",
+      "occasion_array": [
+        "Casual to Semi Formal",
+        "Everyday Wear"
+      ]
+    },
+    "meta": {
+      "season": "Dingin,Sejuk",
+      "persona": "Classic Elegant",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Bawah Kanan Kantong"
+      },
+      "gender_target": "Wanita",
+      "release_year": "2024",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 3,
+      "size_count": 1,
+      "product_type": "Cardigan",
+      "weight_category": "Light Outer",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket kaula cardigan hijacket premium coco knit classic elegant,cardigan classic elegant",
+      "tags": {
+        "style": [
+          "Classic Elegant,Cardigan",
+          "Classic Elegant"
+        ],
+        "features": [
+          "Loose Fit",
+          "Full Button",
+          "Ribbed Cuffs",
+          "Contrast Stitch"
+        ],
+        "occasions": [
+          "Casual to Semi Formal",
+          "Everyday Wear"
+        ],
+        "target_groups": [
+          "Hijaber formal",
+          "Modest fashion enthusiast"
+        ],
+        "materials": [
+          "Premium Coco Knit"
+        ],
+        "colors": [
+          "Black",
+          "Brown",
+          "Lavender"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "mid",
+        "versatility_score": 2,
+        "feature_richness": 4,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-KHADIJAH",
+    "sku": "HJ-KHD",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Khadijah",
+    "kategori": "Cardigan",
+    "sub_kategori": "Hijacket",
+    "status": "Limited Edition",
+    "deskripsi_singkat": "Cardigan longgar dengan handsock dan button aktif.",
+    "deskripsi_lengkap": "Hijacket Khadijah cocok untuk acara formal, pengajian, hingga ibadah.",
+    "harga_normal": 359000,
+    "harga_promo": 287200,
+    "variasi": {
+      "warna": "Black,Broken White,Crystal Pink,Mint,Mocca",
+      "warna_rekomendasi": "Black,Mocca,Broken White",
+      "warna_array": [
+        "Black",
+        "Broken White",
+        "Crystal Pink",
+        "Mint",
+        "Mocca"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "LD 120; PB: 80",
+      "tipe_ukuran": "All Size",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 120,
+        "panjang_badan": 92
+      },
+      "berat": 730,
+      "dimensi": "35x28x6 cm",
+      "max_berat": {
+        "global": 95
+      }
+    },
+    "spesifikasi": {
+      "material": "Premium Lonzo Knit",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Outer",
+      "fitur_material": "Halus,Sejuk",
+      "fitur": "Loose Fit,Full Button,Handsock Longgar,Sleek Cutting",
+      "fitur_array": [
+        "Loose Fit",
+        "Full Button",
+        "Handsock Longgar",
+        "Sleek Cutting"
+      ],
+      "collar": "V Neck",
+      "lengan": "Oversize,Drop Shoulder",
+      "adjustable": false,
+      "pocket": true,
+      "pocket_detail": "Patch Pocket",
+      "closure": "Button",
+      "modesty": true,
+      "concept": "Classic Elegant,Cardigan",
+      "care": "Cuci lembut"
+    },
+    "penggunaan": {
+      "aktivitas": "Formal,Pengajian",
+      "aktivitas_array": [
+        "Formal",
+        "Pengajian"
+      ],
+      "audience": "Hijaber profesional",
+      "audience_array": [
+        "Hijaber profesional"
+      ],
+      "occasion": "Casual to Semi Formal,Everyday Wear",
+      "occasion_array": [
+        "Casual to Semi Formal",
+        "Everyday Wear"
+      ]
+    },
+    "meta": {
+      "season": "Dingin,Sejuk",
+      "persona": "Classic Elegant",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Bawah Kiri"
+      },
+      "gender_target": "Wanita",
+      "release_year": "2023",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 5,
+      "size_count": 1,
+      "product_type": "Cardigan",
+      "weight_category": "Light Outer",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket khadijah cardigan hijacket premium lonzo knit classic elegant,cardigan classic elegant",
+      "tags": {
+        "style": [
+          "Classic Elegant,Cardigan",
+          "Classic Elegant"
+        ],
+        "features": [
+          "Loose Fit",
+          "Full Button",
+          "Handsock Longgar",
+          "Sleek Cutting"
+        ],
+        "occasions": [
+          "Casual to Semi Formal",
+          "Everyday Wear"
+        ],
+        "target_groups": [
+          "Hijaber profesional"
+        ],
+        "materials": [
+          "Premium Lonzo Knit"
+        ],
+        "colors": [
+          "Black",
+          "Broken White",
+          "Crystal Pink",
+          "Mint",
+          "Mocca"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "mid",
+        "versatility_score": 2,
+        "feature_richness": 4,
+        "target_specificity": 1
+      }
+    }
+  },
+  {
+    "product_id": "HJ-LAURA",
+    "sku": "HJ-LAU",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Laura",
+    "kategori": "Blazer",
+    "sub_kategori": "Hijacket",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Blazer parasut dengan aksen pleats.",
+    "deskripsi_lengkap": "Hijacket Laura cocok untuk pekerja kantoran dan traveler. Tersedia dalam warna elegan.",
+    "harga_normal": 619000,
+    "harga_promo": 495200,
+    "variasi": {
+      "warna": "Midnight Sand,Noir Classic",
+      "warna_rekomendasi": "Midnight Sand,Noir Classic",
+      "warna_array": [
+        "Midnight Sand",
+        "Noir Classic"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "LD 120; PB: 92",
+      "tipe_ukuran": "All Size",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 120,
+        "panjang_badan": 92
+      },
+      "berat": 850,
+      "dimensi": "36x30x7 cm",
+      "max_berat": {
+        "global": 95
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 18,
+        "max": 24
+      },
+      "material": "Fleece Premium,Parachute Dusky",
+      "komposisi": "-",
+      "kategori_ketebalan": "Weight Outer",
+      "fitur_material": "Nyaman,Water Repellent",
+      "fitur": "Pleats Detail,Slim Cut,Detachable Tie Belt",
+      "fitur_array": [
+        "Pleats Detail",
+        "Slim Cut",
+        "Detachable Tie Belt"
+      ],
+      "collar": "Blazer",
+      "lengan": "Regular",
+      "adjustable": true,
+      "pocket": true,
+      "pocket_detail": "Side seam kanan kiri",
+      "closure": "Double Front Button",
+      "modesty": true,
+      "concept": "Blazer Hijaber Formal",
+      "care": "Cuci tangan saja"
+    },
+    "penggunaan": {
+      "aktivitas": "Umroh,Haji,Traveling,Kantoran",
+      "aktivitas_array": [
+        "Umroh",
+        "Haji",
+        "Traveling",
+        "Kantoran"
+      ],
+      "audience": "Hijaber profesional,Traveler",
+      "audience_array": [
+        "Hijaber profesional",
+        "Traveler"
+      ],
+      "occasion": "Traveling,Formal to Semi Formal",
+      "occasion_array": [
+        "Traveling",
+        "Formal to Semi Formal"
+      ]
+    },
+    "meta": {
+      "season": "Pancaroba,Sejuk",
+      "persona": "Classic Elegant",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": false
+      },
+      "gender_target": "Wanita",
+      "release_year": "2025",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 2,
+      "size_count": 1,
+      "product_type": "Blazer",
+      "weight_category": "Weight Outer",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket laura blazer hijacket fleece premium,parachute dusky blazer hijaber formal classic elegant",
+      "tags": {
+        "style": [
+          "Blazer Hijaber Formal",
+          "Classic Elegant"
+        ],
+        "features": [
+          "Pleats Detail",
+          "Slim Cut",
+          "Detachable Tie Belt"
+        ],
+        "occasions": [
+          "Traveling",
+          "Formal to Semi Formal"
+        ],
+        "target_groups": [
+          "Hijaber profesional",
+          "Traveler"
+        ],
+        "materials": [
+          "Fleece Premium,Parachute Dusky"
+        ],
+        "colors": [
+          "Midnight Sand",
+          "Noir Classic"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "premium",
+        "versatility_score": 2,
+        "feature_richness": 3,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-MARWAH",
+    "sku": "HJ-MRW",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Marwah",
+    "kategori": "Jacket",
+    "sub_kategori": "Hijacket",
+    "status": "Best Seller",
+    "deskripsi_singkat": "Jaket ramping dengan motif quilting wajid.",
+    "deskripsi_lengkap": "Hijacket Marwah hadir dengan potongan curve dan handsock stylish.",
+    "harga_normal": 479000,
+    "harga_promo": 383200,
+    "variasi": {
+      "warna": "Black,Brown,Ivory,Marigold,Mint",
+      "warna_rekomendasi": "Black,Brown,Mint",
+      "warna_array": [
+        "Black",
+        "Brown",
+        "Ivory",
+        "Marigold",
+        "Mint"
+      ],
+      "ukuran": "L,XL,XXL",
+      "ukuran_array": [
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "detail": "LD L: 106, XL: 114, XXL: 122. PB: 92",
+      "tipe_ukuran": "Graded",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 106,
+        "lingkar_dada_xl": 114,
+        "lingkar_dada_xxl": 122,
+        "panjang_badan": 92
+      },
+      "berat": 780,
+      "dimensi": "36x28x6 cm",
+      "max_berat": {
+        "L": 75,
+        "XL": 85,
+        "XXL": "95"
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 18,
+        "max": 24
+      },
+      "material": "Premium Quilted Knit",
+      "komposisi": "-",
+      "kategori_ketebalan": "Weight Outer",
+      "fitur_material": "Hangat,Slim Look",
+      "fitur": "Handsock,Slit Belakang,Zipper + Snap",
+      "fitur_array": [
+        "Handsock",
+        "Slit Belakang",
+        "Zipper + Snap"
+      ],
+      "collar": "Standing",
+      "lengan": "Regular,Handsock",
+      "adjustable": false,
+      "pocket": true,
+      "pocket_detail": "Waist pocket",
+      "closure": "Zipper,Snap",
+      "modesty": true,
+      "concept": "Feminine Romantic,Jacket",
+      "care": "Cuci ringan"
+    },
+    "penggunaan": {
+      "aktivitas": "Umroh,Haji,Traveling",
+      "aktivitas_array": [
+        "Umroh",
+        "Haji",
+        "Traveling"
+      ],
+      "audience": "Traveler,Hijaber feminin",
+      "audience_array": [
+        "Traveler",
+        "Hijaber feminin"
+      ],
+      "occasion": "Ibadah,Outdoor Activity,Traveling",
+      "occasion_array": [
+        "Ibadah",
+        "Outdoor Activity",
+        "Traveling"
+      ]
+    },
+    "meta": {
+      "season": "Dingin,Pancaroba",
+      "persona": "Feminime Romantic",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Bawah Kiri"
+      },
+      "gender_target": "Wanita",
+      "release_year": "2023",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 5,
+      "size_count": 3,
+      "product_type": "Jacket",
+      "weight_category": "Weight Outer",
+      "has_size_variations": true,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket marwah jacket hijacket premium quilted knit feminine romantic,jacket feminime romantic",
+      "tags": {
+        "style": [
+          "Feminine Romantic,Jacket",
+          "Feminime Romantic"
+        ],
+        "features": [
+          "Handsock",
+          "Slit Belakang",
+          "Zipper + Snap"
+        ],
+        "occasions": [
+          "Ibadah",
+          "Outdoor Activity",
+          "Traveling"
+        ],
+        "target_groups": [
+          "Traveler",
+          "Hijaber feminin"
+        ],
+        "materials": [
+          "Premium Quilted Knit"
+        ],
+        "colors": [
+          "Black",
+          "Brown",
+          "Ivory",
+          "Marigold",
+          "Mint"
+        ],
+        "sizes": [
+          "L",
+          "XL",
+          "XXL"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "mid",
+        "versatility_score": 3,
+        "feature_richness": 3,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-MARYAM",
+    "sku": "HJ-MYM",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Maryam",
+    "kategori": "Jacket Tudung",
+    "sub_kategori": "Hijacket",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Jaket hoodie multifungsi bisa jadi hijab.",
+    "deskripsi_lengkap": "Hijacket Maryam cocok untuk muslimah traveling dan ibadah, berbahan showery knit.",
+    "harga_normal": 439000,
+    "harga_promo": 351200,
+    "variasi": {
+      "warna": "Black,Cream,Skyblue",
+      "warna_rekomendasi": "Black",
+      "warna_array": [
+        "Black",
+        "Cream",
+        "Skyblue"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "LD: 130; PB: 92",
+      "tipe_ukuran": "All Size",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 130,
+        "panjang_badan": 92
+      },
+      "berat": 820,
+      "dimensi": "36x28x6 cm",
+      "max_berat": {
+        "global": 100
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 18,
+        "max": 24
+      },
+      "material": "Premium Showery Knit",
+      "komposisi": "-",
+      "kategori_ketebalan": "Weight Outer",
+      "fitur_material": "Lembut,Hangat",
+      "fitur": "Multifunction Hoodie,Hoodie Besar",
+      "fitur_array": [
+        "Multifunction Hoodie",
+        "Hoodie Besar"
+      ],
+      "collar": "Slim Hoodie (non-bulky),Integrated",
+      "lengan": "Oversize,Drop Shoulder",
+      "adjustable": true,
+      "pocket": true,
+      "pocket_detail": "Split Kangaroo",
+      "closure": "Zipper",
+      "modesty": true,
+      "concept": "Feminine Romantic,Jaket Tudung",
+      "care": "Cuci tangan"
+    },
+    "penggunaan": {
+      "aktivitas": "Umroh,Traveling,Pengajian",
+      "aktivitas_array": [
+        "Umroh",
+        "Traveling",
+        "Pengajian"
+      ],
+      "audience": "Hijaber syar’i,Traveler",
+      "audience_array": [
+        "Hijaber syar’i",
+        "Traveler"
+      ],
+      "occasion": "Daily Wear,Casual to Semi Formal",
+      "occasion_array": [
+        "Daily Wear",
+        "Casual to Semi Formal"
+      ]
+    },
+    "meta": {
+      "season": "Sejuk,Tropis",
+      "persona": "Feminime Romantic",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": false
+      },
+      "gender_target": "Wanita",
+      "release_year": "2024",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 3,
+      "size_count": 1,
+      "product_type": "Jacket Tudung",
+      "weight_category": "Weight Outer",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket maryam jacket tudung hijacket premium showery knit feminine romantic,jaket tudung feminime romantic",
+      "tags": {
+        "style": [
+          "Feminine Romantic,Jaket Tudung",
+          "Feminime Romantic"
+        ],
+        "features": [
+          "Multifunction Hoodie",
+          "Hoodie Besar"
+        ],
+        "occasions": [
+          "Daily Wear",
+          "Casual to Semi Formal"
+        ],
+        "target_groups": [
+          "Hijaber syar’i",
+          "Traveler"
+        ],
+        "materials": [
+          "Premium Showery Knit"
+        ],
+        "colors": [
+          "Black",
+          "Cream",
+          "Skyblue"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "mid",
+        "versatility_score": 2,
+        "feature_richness": 2,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-MONTIX",
+    "sku": "HJ-MT",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Montix",
+    "kategori": "Parka",
+    "sub_kategori": "Hijacket",
+    "status": "Limited Edition",
+    "deskripsi_singkat": "Parka unisex dengan desain bold.",
+    "deskripsi_lengkap": "Hijacket Montix cocok untuk naik gunung, ibadah, riding, dan tahan cuaca.",
+    "harga_normal": 449000,
+    "harga_promo": 359200,
+    "variasi": {
+      "warna": "Black,Brown,Cream,Grey,Imperial,Mossgreen,Navy,Teracotta",
+      "warna_rekomendasi": "Cream,Imperial,Teracotta",
+      "warna_array": [
+        "Black",
+        "Brown",
+        "Cream",
+        "Grey",
+        "Imperial",
+        "Mossgreen",
+        "Navy",
+        "Teracotta"
+      ],
+      "ukuran": "L,XL,XXL",
+      "ukuran_array": [
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "detail": "LD L: 106, XL: 114, XXL: 122. PB: 92",
+      "tipe_ukuran": "Graded",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 106,
+        "lingkar_dada_xl": 114,
+        "lingkar_dada_xxl": 122,
+        "panjang_badan": 92
+      },
+      "berat": 890,
+      "dimensi": "38x30x8 cm",
+      "max_berat": {
+        "L": 75,
+        "XL": 85,
+        "XXL": "95"
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 15,
+        "max": 24
+      },
+      "material": "Taslan Parachute,Inner Dacron",
+      "komposisi": "-",
+      "kategori_ketebalan": "Weight Outer",
+      "fitur_material": "Hangat,75% Waterproof",
+      "fitur": "Color Block,Hoodie,Belt Stopper,Utility Friendly",
+      "fitur_array": [
+        "Color Block",
+        "Hoodie",
+        "Belt Stopper",
+        "Utility Friendly"
+      ],
+      "collar": "Slim Hoodie (non-bulky),Integrated",
+      "lengan": "Regular",
+      "adjustable": true,
+      "pocket": true,
+      "pocket_detail": "Hip,Chest",
+      "closure": "Zipper,Flap Button",
+      "modesty": true,
+      "concept": "Sporty Casual,Parka",
+      "care": "Dry clean only"
+    },
+    "penggunaan": {
+      "aktivitas": "Traveling,Riding,Naik Gunung",
+      "aktivitas_array": [
+        "Traveling",
+        "Riding",
+        "Naik Gunung"
+      ],
+      "audience": "Hijaber sporty,Traveler",
+      "audience_array": [
+        "Hijaber sporty",
+        "Traveler"
+      ],
+      "occasion": "Casual,Outdoor Activity,Traveling",
+      "occasion_array": [
+        "Casual",
+        "Outdoor Activity",
+        "Traveling"
+      ]
+    },
+    "meta": {
+      "season": "Dingin,Tropis",
+      "persona": "Arty of Beat",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Bawah Kiri Kantong"
+      },
+      "gender_target": "Unisex",
+      "release_year": "2018",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 8,
+      "size_count": 3,
+      "product_type": "Parka",
+      "weight_category": "Weight Outer",
+      "has_size_variations": true,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket montix parka hijacket taslan parachute,inner dacron sporty casual,parka arty of beat",
+      "tags": {
+        "style": [
+          "Sporty Casual,Parka",
+          "Arty of Beat"
+        ],
+        "features": [
+          "Color Block",
+          "Hoodie",
+          "Belt Stopper",
+          "Utility Friendly"
+        ],
+        "occasions": [
+          "Casual",
+          "Outdoor Activity",
+          "Traveling"
+        ],
+        "target_groups": [
+          "Hijaber sporty",
+          "Traveler"
+        ],
+        "materials": [
+          "Taslan Parachute,Inner Dacron"
+        ],
+        "colors": [
+          "Black",
+          "Brown",
+          "Cream",
+          "Grey",
+          "Imperial",
+          "Mossgreen",
+          "Navy",
+          "Teracotta"
+        ],
+        "sizes": [
+          "L",
+          "XL",
+          "XXL"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "mid",
+        "versatility_score": 3,
+        "feature_richness": 4,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-NAYARA",
+    "sku": "HJ-NYR",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Nayara",
+    "kategori": "Jacket",
+    "sub_kategori": "Hijacket",
+    "status": "Best Seller",
+    "deskripsi_singkat": "Jaket feminin dan romantic dengan curve ramping.",
+    "deskripsi_lengkap": "Hijacket Nayara cocok untuk formal, ibadah, dan keseharian stylish muslimah.",
+    "harga_normal": 439000,
+    "harga_promo": 351200,
+    "variasi": {
+      "warna": "Beige Gold,Black Onyx",
+      "warna_rekomendasi": "Black Onyx",
+      "warna_array": [
+        "Beige Gold",
+        "Black Onyx"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "LD 120; PB: 92",
+      "tipe_ukuran": "All Size",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 120,
+        "panjang_badan": 92
+      },
+      "berat": 830,
+      "dimensi": "36x28x6 cm",
+      "max_berat": {
+        "global": 95
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 15,
+        "max": 24
+      },
+      "material": "Fleece Premium",
+      "komposisi": "-",
+      "kategori_ketebalan": "Weight Outer",
+      "fitur_material": "Hangat,Ramping",
+      "fitur": "Gold Snap Button,Sleek Cutting",
+      "fitur_array": [
+        "Gold Snap Button",
+        "Sleek Cutting"
+      ],
+      "collar": "Integrated,Hoodie",
+      "lengan": "Oversize,Drop Shoulder",
+      "adjustable": false,
+      "pocket": true,
+      "pocket_detail": "Waist pocket",
+      "closure": "Double Front Button",
+      "modesty": true,
+      "concept": "Classic Elegant,Feminine Romantic",
+      "care": "Cuci ringan,setrika suhu rendah"
+    },
+    "penggunaan": {
+      "aktivitas": "Umroh,Haji,Traveling,Hangout",
+      "aktivitas_array": [
+        "Umroh",
+        "Haji",
+        "Traveling",
+        "Hangout"
+      ],
+      "audience": "Traveler,Hijaber stylish",
+      "audience_array": [
+        "Traveler",
+        "Hijaber stylish"
+      ],
+      "occasion": "Casual to Semi Formal,Outdoor Activity,Traveling",
+      "occasion_array": [
+        "Casual to Semi Formal",
+        "Outdoor Activity",
+        "Traveling"
+      ]
+    },
+    "meta": {
+      "season": "Dingin,Sejuk",
+      "persona": "Feminime Romantic",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": false
+      },
+      "gender_target": "Wanita",
+      "release_year": "2024",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 2,
+      "size_count": 1,
+      "product_type": "Jacket",
+      "weight_category": "Weight Outer",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket nayara jacket hijacket fleece premium classic elegant,feminine romantic feminime romantic",
+      "tags": {
+        "style": [
+          "Classic Elegant,Feminine Romantic",
+          "Feminime Romantic"
+        ],
+        "features": [
+          "Gold Snap Button",
+          "Sleek Cutting"
+        ],
+        "occasions": [
+          "Casual to Semi Formal",
+          "Outdoor Activity",
+          "Traveling"
+        ],
+        "target_groups": [
+          "Traveler",
+          "Hijaber stylish"
+        ],
+        "materials": [
+          "Fleece Premium"
+        ],
+        "colors": [
+          "Beige Gold",
+          "Black Onyx"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "mid",
+        "versatility_score": 3,
+        "feature_richness": 2,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-SHAFA",
+    "sku": "HJ-SHF",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Shafa",
+    "kategori": "Coat",
+    "sub_kategori": "Hijacket",
+    "status": "Must Have",
+    "deskripsi_singkat": "Coat quilting motif wajid dengan blazer collar.",
+    "deskripsi_lengkap": "Hijacket Shafa cocok untuk aktivitas ibadah, hangout, dan keseharian profesional.",
+    "harga_normal": 479000,
+    "harga_promo": 383200,
+    "variasi": {
+      "warna": "Black,Brown,Ivory,Mint",
+      "warna_rekomendasi": "Black,Brown",
+      "warna_array": [
+        "Black",
+        "Brown",
+        "Ivory",
+        "Mint"
+      ],
+      "ukuran": "L,XL,XXL",
+      "ukuran_array": [
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "detail": "LD L: 106, XL: 114, XXL: 122. PB: 92",
+      "tipe_ukuran": "Graded",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 106,
+        "lingkar_dada_xl": 114,
+        "lingkar_dada_xxl": 122,
+        "panjang_badan": 92
+      },
+      "berat": 770,
+      "dimensi": "35x28x6 cm",
+      "max_berat": {
+        "global": 95
+      }
+    },
+    "spesifikasi": {
+      "material": "Premium Quilted Knit",
+      "komposisi": "-",
+      "kategori_ketebalan": "Weight Outer",
+      "fitur_material": "Motif Quilting Wajid",
+      "fitur": "Blazer Collar,Slim Look",
+      "fitur_array": [
+        "Blazer Collar",
+        "Slim Look"
+      ],
+      "collar": "Blazer",
+      "lengan": "Regular",
+      "adjustable": false,
+      "pocket": true,
+      "pocket_detail": "Side Seam Pocket",
+      "closure": "Button Depan Belakang",
+      "modesty": true,
+      "concept": "Classic Elegant,Coat",
+      "care": "Cuci manual"
+    },
+    "penggunaan": {
+      "aktivitas": "Umroh,Haji,Pengajian",
+      "aktivitas_array": [
+        "Umroh",
+        "Haji",
+        "Pengajian"
+      ],
+      "audience": "Hijaber elegan",
+      "audience_array": [
+        "Hijaber elegan"
+      ],
+      "occasion": "Ibadah,Formal",
+      "occasion_array": [
+        "Ibadah",
+        "Formal"
+      ]
+    },
+    "meta": {
+      "season": "Dingin,Pancaroba",
+      "persona": "Classic Elegant",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Bawah Kiri"
+      },
+      "gender_target": "Wanita",
+      "release_year": "2023",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 4,
+      "size_count": 3,
+      "product_type": "Coat",
+      "weight_category": "Weight Outer",
+      "has_size_variations": true,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket shafa coat hijacket premium quilted knit classic elegant,coat classic elegant",
+      "tags": {
+        "style": [
+          "Classic Elegant,Coat",
+          "Classic Elegant"
+        ],
+        "features": [
+          "Blazer Collar",
+          "Slim Look"
+        ],
+        "occasions": [
+          "Ibadah",
+          "Formal"
+        ],
+        "target_groups": [
+          "Hijaber elegan"
+        ],
+        "materials": [
+          "Premium Quilted Knit"
+        ],
+        "colors": [
+          "Black",
+          "Brown",
+          "Ivory",
+          "Mint"
+        ],
+        "sizes": [
+          "L",
+          "XL",
+          "XXL"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "mid",
+        "versatility_score": 2,
+        "feature_richness": 2,
+        "target_specificity": 1
+      }
+    }
+  },
+  {
+    "product_id": "HJ-SYLVANIA",
+    "sku": "HJ-SYL",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Sylvania",
+    "kategori": "Cardigan",
+    "sub_kategori": "Hijacket",
+    "status": "Best Seller",
+    "deskripsi_singkat": "Cardigan sporty dengan potongan ramping.",
+    "deskripsi_lengkap": "Hijacket Sylvania dilengkapi hoodie besar dan handsock loose, cocok untuk umroh & pengajian.",
+    "harga_normal": 189000,
+    "harga_promo": 151200,
+    "variasi": {
+      "warna": "Black,Khaky,Lavender,Marigold,Maroon,Navy,Olive",
+      "warna_rekomendasi": "Black,Khaky,Olive",
+      "warna_array": [
+        "Black",
+        "Khaky",
+        "Lavender",
+        "Marigold",
+        "Maroon",
+        "Navy",
+        "Olive"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "LD 120; PB: 92",
+      "tipe_ukuran": "All Size",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 120,
+        "panjang_badan": 92
+      },
+      "berat": 720,
+      "dimensi": "34x26x6 cm",
+      "max_berat": {
+        "global": 100
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 20,
+        "max": 28
+      },
+      "material": "Premium Hornet Knit",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Outer",
+      "fitur_material": "Hangat,Motif Vertikal",
+      "fitur": "Loose Handsock,Curve Cutting,Versatile Design",
+      "fitur_array": [
+        "Loose Handsock",
+        "Curve Cutting",
+        "Versatile Design"
+      ],
+      "collar": "Slim Hoodie (non-bulky),Integrated",
+      "lengan": "Batwing",
+      "adjustable": false,
+      "pocket": true,
+      "pocket_detail": "Hip Patch Pocket",
+      "closure": "Button di Dada",
+      "modesty": true,
+      "concept": "Feminine Romantic,Cardigan",
+      "care": "Cuci tangan"
+    },
+    "penggunaan": {
+      "aktivitas": "Traveling,Pengajian,Hangout",
+      "aktivitas_array": [
+        "Traveling",
+        "Pengajian",
+        "Hangout"
+      ],
+      "audience": "Hijaber traveler,Casual muslimah",
+      "audience_array": [
+        "Hijaber traveler",
+        "Casual muslimah"
+      ],
+      "occasion": "Casual to Semi Formal,Everyday Wear",
+      "occasion_array": [
+        "Casual to Semi Formal",
+        "Everyday Wear"
+      ]
+    },
+    "meta": {
+      "season": "Sejuk",
+      "persona": "Feminime Romantic",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Bawah Kanan Kantong"
+      },
+      "gender_target": "Wanita",
+      "release_year": "2023",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 7,
+      "size_count": 1,
+      "product_type": "Cardigan",
+      "weight_category": "Light Outer",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket sylvania cardigan hijacket premium hornet knit feminine romantic,cardigan feminime romantic",
+      "tags": {
+        "style": [
+          "Feminine Romantic,Cardigan",
+          "Feminime Romantic"
+        ],
+        "features": [
+          "Loose Handsock",
+          "Curve Cutting",
+          "Versatile Design"
+        ],
+        "occasions": [
+          "Casual to Semi Formal",
+          "Everyday Wear"
+        ],
+        "target_groups": [
+          "Hijaber traveler",
+          "Casual muslimah"
+        ],
+        "materials": [
+          "Premium Hornet Knit"
+        ],
+        "colors": [
+          "Black",
+          "Khaky",
+          "Lavender",
+          "Marigold",
+          "Maroon",
+          "Navy",
+          "Olive"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "budget",
+        "versatility_score": 2,
+        "feature_richness": 3,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-TIFANNIA",
+    "sku": "HJ-TFN",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Tifannia",
+    "kategori": "Cardigan",
+    "sub_kategori": "Hijacket",
+    "status": "Best Seller",
+    "deskripsi_singkat": "Cardigan feminin dengan motif ramping.",
+    "deskripsi_lengkap": "Hijacket Tifannia hadir dengan tali pinggang adjustable, cocok untuk traveling & umroh.",
+    "harga_normal": 329000,
+    "harga_promo": 263200,
+    "variasi": {
+      "warna": "Black,Khaky,Navy,Olive",
+      "warna_rekomendasi": "Black,Khaky",
+      "warna_array": [
+        "Black",
+        "Khaky",
+        "Navy",
+        "Olive"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "LD 120; PB: 113",
+      "tipe_ukuran": "All Size",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 120,
+        "panjang_badan": 113
+      },
+      "berat": 740,
+      "dimensi": "36x28x6 cm",
+      "max_berat": {
+        "global": 100
+      }
+    },
+    "spesifikasi": {
+      "material": "Premium Hornet Knit",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Outer",
+      "fitur_material": "Elastis,Slim Look",
+      "fitur": "Split Pocket,Adjustable Belt",
+      "fitur_array": [
+        "Split Pocket",
+        "Adjustable Belt"
+      ],
+      "collar": "V Neck",
+      "lengan": "Batwing",
+      "adjustable": true,
+      "pocket": true,
+      "pocket_detail": "Split Kangaroo",
+      "closure": "Belt",
+      "modesty": true,
+      "concept": "Feminine Romantic,Cardigan",
+      "care": "Cuci manual"
+    },
+    "penggunaan": {
+      "aktivitas": "Umroh,Haji,Traveling",
+      "aktivitas_array": [
+        "Umroh",
+        "Haji",
+        "Traveling"
+      ],
+      "audience": "Traveler,Hijaber feminin",
+      "audience_array": [
+        "Traveler",
+        "Hijaber feminin"
+      ],
+      "occasion": "Casual to Semi Formal,Everyday Wear",
+      "occasion_array": [
+        "Casual to Semi Formal",
+        "Everyday Wear"
+      ]
+    },
+    "meta": {
+      "season": "Dingin,Tropis",
+      "persona": "Feminime Romantic",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Bawah Kiri Kantong"
+      },
+      "gender_target": "Wanita",
+      "release_year": "2023",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 4,
+      "size_count": 1,
+      "product_type": "Cardigan",
+      "weight_category": "Light Outer",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket tifannia cardigan hijacket premium hornet knit feminine romantic,cardigan feminime romantic",
+      "tags": {
+        "style": [
+          "Feminine Romantic,Cardigan",
+          "Feminime Romantic"
+        ],
+        "features": [
+          "Split Pocket",
+          "Adjustable Belt"
+        ],
+        "occasions": [
+          "Casual to Semi Formal",
+          "Everyday Wear"
+        ],
+        "target_groups": [
+          "Traveler",
+          "Hijaber feminin"
+        ],
+        "materials": [
+          "Premium Hornet Knit"
+        ],
+        "colors": [
+          "Black",
+          "Khaky",
+          "Navy",
+          "Olive"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "mid",
+        "versatility_score": 2,
+        "feature_richness": 2,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-VERSA",
+    "sku": "HJ-VRS",
+    "brand": "Hijacket",
+    "nama_produk": "Hijacket Versa",
+    "kategori": "Coat",
+    "sub_kategori": "Hijacket",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Outer wraping 3-in-1 look yang elegan.",
+    "deskripsi_lengkap": "Hijacket Versa cocok untuk hijaber stylish yang tetap ingin tampil modest dan rapi.",
+    "harga_normal": 579000,
+    "harga_promo": 463200,
+    "variasi": {
+      "warna": "Black,Cream,Skyblue",
+      "warna_rekomendasi": "Cream",
+      "warna_array": [
+        "Black",
+        "Cream",
+        "Skyblue"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "LD 120; PB: 92",
+      "tipe_ukuran": "All Size",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 120,
+        "panjang_badan": 92
+      },
+      "berat": 800,
+      "dimensi": "36x28x6 cm",
+      "max_berat": {
+        "global": 100
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 18,
+        "max": 24
+      },
+      "material": "Premium Showery Knit",
+      "komposisi": "-",
+      "kategori_ketebalan": "Weight Outer",
+      "fitur_material": "Lembut,Hangat",
+      "fitur": "Shawl Collar,D Ring,Handsock",
+      "fitur_array": [
+        "Shawl Collar",
+        "D Ring",
+        "Handsock"
+      ],
+      "collar": "Shawl",
+      "lengan": "Oversize,Drop Shoulder",
+      "adjustable": true,
+      "pocket": true,
+      "pocket_detail": "Side Seam Pocket",
+      "closure": "Double D Ring",
+      "modesty": true,
+      "concept": "Classic Elegant,Wraping Coat,3-in-1 Look",
+      "care": "Cuci lembut"
+    },
+    "penggunaan": {
+      "aktivitas": "Umroh,Haji,Traveling,Pengajian",
+      "aktivitas_array": [
+        "Umroh",
+        "Haji",
+        "Traveling",
+        "Pengajian"
+      ],
+      "audience": "Hijaber modest,Stylish muslimah",
+      "audience_array": [
+        "Hijaber modest",
+        "Stylish muslimah"
+      ],
+      "occasion": "Casual to Semi Formal,Everyday Wear",
+      "occasion_array": [
+        "Casual to Semi Formal",
+        "Everyday Wear"
+      ]
+    },
+    "meta": {
+      "season": "Dingin,Sejuk",
+      "persona": "Classic Elegant",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": false
+      },
+      "gender_target": "Wanita",
+      "release_year": "2024",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 3,
+      "size_count": 1,
+      "product_type": "Coat",
+      "weight_category": "Weight Outer",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hijacket versa coat hijacket premium showery knit classic elegant,wraping coat,3-in-1 look classic elegant",
+      "tags": {
+        "style": [
+          "Classic Elegant,Wraping Coat,3-in-1 Look",
+          "Classic Elegant"
+        ],
+        "features": [
+          "Shawl Collar",
+          "D Ring",
+          "Handsock"
+        ],
+        "occasions": [
+          "Casual to Semi Formal",
+          "Everyday Wear"
+        ],
+        "target_groups": [
+          "Hijaber modest",
+          "Stylish muslimah"
+        ],
+        "materials": [
+          "Premium Showery Knit"
+        ],
+        "colors": [
+          "Black",
+          "Cream",
+          "Skyblue"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "premium",
+        "versatility_score": 2,
+        "feature_richness": 3,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-SKIRT-EZZENTA",
+    "sku": "HSK-EZT",
+    "brand": "HJ",
+    "nama_produk": "HJ Ezzenta Skirt",
+    "kategori": "Skirt",
+    "sub_kategori": "HJ Clothing",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Rok panjang muslimah dengan cargo pocket.",
+    "deskripsi_lengkap": "HJ Ezzenta Skirt dibuat dari Baby Terry, cocok untuk traveling dan aktivitas outdoor.",
+    "harga_normal": 169000,
+    "harga_promo": 135200,
+    "variasi": {
+      "warna": "Black,Latte,Burgundy,Dusty Pink",
+      "warna_rekomendasi": "Black,Latte",
+      "warna_array": [
+        "Black",
+        "Latte",
+        "Burgundy",
+        "Dusty Pink"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "LP: 140; PB: 94",
+      "tipe_ukuran": "All Size",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 140,
+        "panjang_badan": 94
+      },
+      "berat": 450,
+      "dimensi": "32x25x3 cm",
+      "max_berat": {
+        "global": 100
+      }
+    },
+    "spesifikasi": {
+      "suhu": {
+        "min": 20,
+        "max": 28
+      },
+      "material": "Baby Terry Premium",
+      "komposisi": "-",
+      "kategori_ketebalan": "Weight Bottoms",
+      "fitur_material": "Ringan,Adem",
+      "fitur": "Rok Modest dengan Cargo Pocket",
+      "fitur_array": [
+        "Rok Modest dengan Cargo Pocket"
+      ],
+      "collar": "-",
+      "lengan": "-",
+      "adjustable": true,
+      "pocket": true,
+      "pocket_detail": "Cargo Pocket Samping",
+      "closure": "Karet Adjustable",
+      "modesty": true,
+      "concept": "Modest Skirt,Casual Sporty",
+      "care": "Cuci tangan,jemur natural"
+    },
+    "penggunaan": {
+      "aktivitas": "Traveling,Memanah,Tracking",
+      "aktivitas_array": [
+        "Traveling",
+        "Memanah",
+        "Tracking"
+      ],
+      "audience": "Muslimah outdoor",
+      "audience_array": [
+        "Muslimah outdoor"
+      ],
+      "occasion": "Casual,Outdoor Activity,Traveling",
+      "occasion_array": [
+        "Casual",
+        "Outdoor Activity",
+        "Traveling"
+      ]
+    },
+    "meta": {
+      "season": "Tropis",
+      "persona": "Sporty Casual",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": false
+      },
+      "gender_target": "Wanita",
+      "release_year": "2024",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 4,
+      "size_count": 1,
+      "product_type": "Skirt",
+      "weight_category": "Weight Bottoms",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hj ezzenta skirt skirt hj clothing baby terry premium modest skirt,casual sporty sporty casual",
+      "tags": {
+        "style": [
+          "Modest Skirt,Casual Sporty",
+          "Sporty Casual"
+        ],
+        "features": [
+          "Rok Modest dengan Cargo Pocket"
+        ],
+        "occasions": [
+          "Casual",
+          "Outdoor Activity",
+          "Traveling"
+        ],
+        "target_groups": [
+          "Muslimah outdoor"
+        ],
+        "materials": [
+          "Baby Terry Premium"
+        ],
+        "colors": [
+          "Black",
+          "Latte",
+          "Burgundy",
+          "Dusty Pink"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "budget",
+        "versatility_score": 3,
+        "feature_richness": 1,
+        "target_specificity": 1
+      }
+    }
+  },
+  {
+    "product_id": "HJ-FATIHA",
+    "sku": "HCL-DRS-FTH",
+    "brand": "HJ",
+    "nama_produk": "HJ Fatiha",
+    "kategori": "Long Dress",
+    "sub_kategori": "HJ Clothing",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Dress oversize yang tetap slim look.",
+    "deskripsi_lengkap": "HJ Fatiha flowy premium dengan lengan bubble dan zipper depan busui-friendly.",
+    "harga_normal": 549000,
+    "harga_promo": 439200,
+    "variasi": {
+      "warna": "Brownie,Icegrey",
+      "warna_rekomendasi": "Icegrey",
+      "warna_array": [
+        "Brownie",
+        "Icegrey"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "LD: 120; PB: 140",
+      "tipe_ukuran": "All Size",
+      "ukuran_spesifik": {
+        "lingkar_dada_l": 120,
+        "panjang_badan": 140
+      },
+      "berat": 720,
+      "dimensi": "34x26x5 cm",
+      "max_berat": {
+        "global": 95
+      }
+    },
+    "spesifikasi": {
+      "material": "Flowy Premium (Silk)",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Dress",
+      "fitur_material": "Ringan,Tidak Mudah Kusut",
+      "fitur": "Zipper depan,Bubble sleeves,Slim-Cutting",
+      "fitur_array": [
+        "Zipper depan",
+        "Bubble sleeves",
+        "Slim-Cutting"
+      ],
+      "collar": "Mandarin",
+      "lengan": "Bubble",
+      "adjustable": false,
+      "pocket": true,
+      "pocket_detail": "Samping kanan kiri",
+      "closure": "Front Zipper",
+      "modesty": true,
+      "concept": "Classic Elegant,Oversize Dress",
+      "care": "Cuci lembut,setrika suhu rendah"
+    },
+    "penggunaan": {
+      "aktivitas": "Umroh,Haji,Party",
+      "aktivitas_array": [
+        "Umroh",
+        "Haji",
+        "Party"
+      ],
+      "audience": "Hijaber fashionista,Muslimah aktif",
+      "audience_array": [
+        "Hijaber fashionista",
+        "Muslimah aktif"
+      ],
+      "occasion": "Traveling,Formal to Semi Formal",
+      "occasion_array": [
+        "Traveling",
+        "Formal to Semi Formal"
+      ]
+    },
+    "meta": {
+      "season": "Dingin,Sejuk",
+      "persona": "Classic Elegant",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": false
+      },
+      "gender_target": "Wanita",
+      "release_year": "2025",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 2,
+      "size_count": 1,
+      "product_type": "Long Dress",
+      "weight_category": "Light Dress",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hj fatiha long dress hj clothing flowy premium (silk) classic elegant,oversize dress classic elegant",
+      "tags": {
+        "style": [
+          "Classic Elegant,Oversize Dress",
+          "Classic Elegant"
+        ],
+        "features": [
+          "Zipper depan",
+          "Bubble sleeves",
+          "Slim-Cutting"
+        ],
+        "occasions": [
+          "Traveling",
+          "Formal to Semi Formal"
+        ],
+        "target_groups": [
+          "Hijaber fashionista",
+          "Muslimah aktif"
+        ],
+        "materials": [
+          "Flowy Premium (Silk)"
+        ],
+        "colors": [
+          "Brownie",
+          "Icegrey"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "premium",
+        "versatility_score": 2,
+        "feature_richness": 3,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-HANDSOCK-CLASSIC",
+    "sku": "HHS-HCR",
+    "brand": "HJ",
+    "nama_produk": "HJ Handsock Classic Reguler",
+    "kategori": "Handsock",
+    "sub_kategori": "HJ Accessories",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Handsock elastis dan nyaman.",
+    "deskripsi_lengkap": "HJ Handsock Classic terbuat dari bahan stretch ringan, cocok untuk aktivitas ibadah dan harian.",
+    "harga_normal": 37000,
+    "harga_promo": 29600,
+    "variasi": {
+      "warna": "Black,Brown",
+      "warna_rekomendasi": "Black",
+      "warna_array": [
+        "Black",
+        "Brown"
+      ],
+      "ukuran": "22x7-8 cm",
+      "ukuran_array": [
+        "22x7-8 cm"
+      ],
+      "detail": "Panjang 22 cm, lebar fleksibel",
+      "tipe_ukuran": "All Size",
+      "berat": 60,
+      "dimensi": "10x6x2 cm"
+    },
+    "spesifikasi": {
+      "material": "Stretch Nylon",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Accessories",
+      "fitur_material": "Elastis,Adem",
+      "fitur": "Ergonomis,panjang 22cm",
+      "fitur_array": [
+        "Ergonomis",
+        "panjang 22cm"
+      ],
+      "collar": "-",
+      "lengan": "-",
+      "adjustable": true,
+      "pocket": false,
+      "closure": "-",
+      "modesty": true,
+      "concept": "Daily Modestwear",
+      "care": "Cuci ringan,jemur tergantung"
+    },
+    "penggunaan": {
+      "aktivitas": "Berkendara,Ibadah",
+      "aktivitas_array": [
+        "Berkendara",
+        "Ibadah"
+      ],
+      "audience": "Hijaber aktif,Fashionista",
+      "audience_array": [
+        "Hijaber aktif",
+        "Fashionista"
+      ],
+      "occasion": "Daily use",
+      "occasion_array": [
+        "Daily use"
+      ]
+    },
+    "meta": {
+      "season": "Semua musim",
+      "flags": {
+        "ukuran_relevan": false,
+        "fitting_required": false,
+        "berat_berpengaruh": false
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Punggung Tangan"
+      },
+      "gender_target": "Wanita",
+      "release_year": "2024",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 2,
+      "size_count": 1,
+      "product_type": "Handsock",
+      "weight_category": "Light Accessories",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": false
+    },
+    "ai_optimization": {
+      "search_keywords": "hj handsock classic reguler handsock hj accessories stretch nylon daily modestwear",
+      "tags": {
+        "style": [
+          "Daily Modestwear"
+        ],
+        "features": [
+          "Ergonomis",
+          "panjang 22cm"
+        ],
+        "occasions": [
+          "Daily use"
+        ],
+        "target_groups": [
+          "Hijaber aktif",
+          "Fashionista"
+        ],
+        "materials": [
+          "Stretch Nylon"
+        ],
+        "colors": [
+          "Black",
+          "Brown"
+        ],
+        "sizes": [
+          "22x7-8 cm"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "budget",
+        "versatility_score": 1,
+        "feature_richness": 2,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-INARA",
+    "sku": "HCL-TNK-INR",
+    "brand": "HJ",
+    "nama_produk": "HJ Inara",
+    "kategori": "Tunic",
+    "sub_kategori": "HJ Clothing",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Tunik bordir premium dengan potongan modest.",
+    "deskripsi_lengkap": "HJ Inara hadir dalam warna Sage, cocok untuk daily look hijaber.",
+    "harga_normal": 539000,
+    "harga_promo": 431200,
+    "variasi": {
+      "warna": "Sage",
+      "warna_rekomendasi": "Sage",
+      "warna_array": [
+        "Sage"
+      ],
+      "ukuran": "Standar,Bigsize",
+      "ukuran_array": [
+        "Standar",
+        "Bigsize"
+      ],
+      "tipe_ukuran": "All Size",
+      "berat": 680,
+      "dimensi": "34x26x5 cm",
+      "max_berat": {
+        "global": 100
+      }
+    },
+    "spesifikasi": {
+      "material": "Knit Bordir Premium",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Tops",
+      "fitur_material": "Nyaman,Flowing",
+      "fitur": "Tunik bordir,loose fit",
+      "fitur_array": [
+        "Tunik bordir",
+        "loose fit"
+      ],
+      "collar": "Round",
+      "lengan": "Regular",
+      "adjustable": false,
+      "pocket": true,
+      "pocket_detail": "Hidden kanan kiri",
+      "closure": "Front Button",
+      "modesty": true,
+      "concept": "Tunic Daily Look",
+      "care": "Cuci manual"
+    },
+    "penggunaan": {
+      "aktivitas": "Hangout,Party,Daily Outfit",
+      "aktivitas_array": [
+        "Hangout",
+        "Party",
+        "Daily Outfit"
+      ],
+      "audience": "Hijaber aktif,Hijaber fashionista",
+      "audience_array": [
+        "Hijaber aktif",
+        "Hijaber fashionista"
+      ],
+      "occasion": "Everyday Wear,Formal to Semi Formal",
+      "occasion_array": [
+        "Everyday Wear",
+        "Formal to Semi Formal"
+      ]
+    },
+    "meta": {
+      "season": "Tropis",
+      "persona": "Feminime Romantic",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": false
+      },
+      "gender_target": "Wanita",
+      "release_year": "2025",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 1,
+      "size_count": 2,
+      "product_type": "Tunic",
+      "weight_category": "Light Tops",
+      "has_size_variations": true,
+      "has_color_variations": false,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hj inara tunic hj clothing knit bordir premium tunic daily look feminime romantic",
+      "tags": {
+        "style": [
+          "Tunic Daily Look",
+          "Feminime Romantic"
+        ],
+        "features": [
+          "Tunik bordir",
+          "loose fit"
+        ],
+        "occasions": [
+          "Everyday Wear",
+          "Formal to Semi Formal"
+        ],
+        "target_groups": [
+          "Hijaber aktif",
+          "Hijaber fashionista"
+        ],
+        "materials": [
+          "Knit Bordir Premium"
+        ],
+        "colors": [
+          "Sage"
+        ],
+        "sizes": [
+          "Standar",
+          "Bigsize"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "premium",
+        "versatility_score": 2,
+        "feature_richness": 2,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-INNER-TWOTONE",
+    "sku": "HIN-IBT",
+    "brand": "HJ",
+    "nama_produk": "HJ Inner Basic Twotone",
+    "kategori": "Ciput",
+    "sub_kategori": "HJ Accessories",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Ciput rajut ergonomic dua warna.",
+    "deskripsi_lengkap": "HJ Inner Twotone ringan, elastis dan cocok untuk hijaber aktif.",
+    "harga_normal": 57000,
+    "harga_promo": 46600,
+    "variasi": {
+      "warna": "Coffe-Beige,Denim-Black",
+      "warna_rekomendasi": "Coffe-Beige",
+      "warna_array": [
+        "Coffe-Beige",
+        "Denim-Black"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "Ergonomis, ruang ekstra telinga",
+      "tipe_ukuran": "All Size",
+      "berat": 50,
+      "dimensi": "10x5x2 cm"
+    },
+    "spesifikasi": {
+      "material": "Rajut Elastis",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Accessories",
+      "fitur_material": "Ringan,Stretchy",
+      "fitur": "Ergonomis,Dual tone",
+      "fitur_array": [
+        "Ergonomis",
+        "Dual tone"
+      ],
+      "collar": "-",
+      "lengan": "-",
+      "adjustable": true,
+      "pocket": false,
+      "closure": "-",
+      "modesty": true,
+      "concept": "Ciput Twotone",
+      "care": "Cuci ringan"
+    },
+    "penggunaan": {
+      "aktivitas": "Olahraga,Daily Outfit",
+      "aktivitas_array": [
+        "Olahraga",
+        "Daily Outfit"
+      ],
+      "audience": "Hijaber aktif",
+      "audience_array": [
+        "Hijaber aktif"
+      ],
+      "occasion": "Semua aktivitas",
+      "occasion_array": [
+        "Semua aktivitas"
+      ]
+    },
+    "meta": {
+      "season": "Semua musim",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": false
+      },
+      "gender_target": "Wanita",
+      "release_year": "2025",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 18,
+      "is_on_sale": true,
+      "color_count": 2,
+      "size_count": 1,
+      "product_type": "Ciput",
+      "weight_category": "Light Accessories",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": false
+    },
+    "ai_optimization": {
+      "search_keywords": "hj inner basic twotone ciput hj accessories rajut elastis ciput twotone",
+      "tags": {
+        "style": [
+          "Ciput Twotone"
+        ],
+        "features": [
+          "Ergonomis",
+          "Dual tone"
+        ],
+        "occasions": [
+          "Semua aktivitas"
+        ],
+        "target_groups": [
+          "Hijaber aktif"
+        ],
+        "materials": [
+          "Rajut Elastis"
+        ],
+        "colors": [
+          "Coffe-Beige",
+          "Denim-Black"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "budget",
+        "versatility_score": 1,
+        "feature_richness": 2,
+        "target_specificity": 1
+      }
+    }
+  },
+  {
+    "product_id": "HJ-KNOT-BELT",
+    "sku": "HBE-BSR",
+    "brand": "HJ",
+    "nama_produk": "HJ Knot Belt",
+    "kategori": "Belt",
+    "sub_kategori": "HJ Accessories",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Belt fleksibel dengan simpul unik.",
+    "deskripsi_lengkap": "HJ Knot Belt hadir dengan desain adjustable tanpa lubang, cocok untuk hijaber fashionista.",
+    "harga_normal": 199000,
+    "harga_promo": 159200,
+    "variasi": {
+      "warna": "Brown",
+      "warna_rekomendasi": "Brown",
+      "warna_array": [
+        "Brown"
+      ],
+      "ukuran": "One size fits all",
+      "ukuran_array": [
+        "One size fits all"
+      ],
+      "detail": "Adjustable knot system",
+      "tipe_ukuran": "All Size",
+      "berat": 120,
+      "dimensi": "25x5x3 cm"
+    },
+    "spesifikasi": {
+      "material": "Kulit sintetis premium",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Accessories",
+      "fitur_material": "Elastis",
+      "fitur": "Simpul tanpa lubang,adjustable",
+      "fitur_array": [
+        "Simpul tanpa lubang",
+        "adjustable"
+      ],
+      "collar": "-",
+      "lengan": "-",
+      "adjustable": true,
+      "pocket": false,
+      "closure": "Knot System",
+      "modesty": true,
+      "concept": "Modern Flexible Belt",
+      "care": "Lap lembut,hindari air"
+    },
+    "penggunaan": {
+      "aktivitas": "Traveling,Hangout,Daily",
+      "aktivitas_array": [
+        "Traveling",
+        "Hangout",
+        "Daily"
+      ],
+      "audience": "Hijaber fashionista",
+      "audience_array": [
+        "Hijaber fashionista"
+      ],
+      "occasion": "Fashion accessorizing",
+      "occasion_array": [
+        "Fashion accessorizing"
+      ]
+    },
+    "meta": {
+      "season": "Semua musim",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Ujung Kepala Sabuk"
+      },
+      "gender_target": "Wanita",
+      "release_year": "2024",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 1,
+      "size_count": 1,
+      "product_type": "Belt",
+      "weight_category": "Light Accessories",
+      "has_size_variations": false,
+      "has_color_variations": false,
+      "is_seasonal": false
+    },
+    "ai_optimization": {
+      "search_keywords": "hj knot belt belt hj accessories kulit sintetis premium modern flexible belt",
+      "tags": {
+        "style": [
+          "Modern Flexible Belt"
+        ],
+        "features": [
+          "Simpul tanpa lubang",
+          "adjustable"
+        ],
+        "occasions": [
+          "Fashion accessorizing"
+        ],
+        "target_groups": [
+          "Hijaber fashionista"
+        ],
+        "materials": [
+          "Kulit sintetis premium"
+        ],
+        "colors": [
+          "Brown"
+        ],
+        "sizes": [
+          "One size fits all"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "budget",
+        "versatility_score": 1,
+        "feature_richness": 2,
+        "target_specificity": 1
+      }
+    }
+  },
+  {
+    "product_id": "HJ-LUBNA",
+    "sku": "HCL-OST-LBN",
+    "brand": "HJ",
+    "nama_produk": "HJ Lubna",
+    "kategori": "Tunic & Skirt",
+    "sub_kategori": "HJ Clothing",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Set tunik & rok flowy premium.",
+    "deskripsi_lengkap": "HJ Lubna hadir dalam warna Brownie & Enigma, cocok untuk acara formal & umroh.",
+    "harga_normal": 659000,
+    "harga_promo": 527200,
+    "variasi": {
+      "warna": "Brownie (Coklat keemasan),Enigma (Ungu lavender)",
+      "warna_rekomendasi": "Brownie (Coklat keemasan)",
+      "warna_array": [
+        "Brownie (Coklat keemasan)",
+        "Enigma (Ungu lavender)"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "Tunic LD 204 cm, Skirt adjustable",
+      "tipe_ukuran": "All Size",
+      "berat": 750,
+      "dimensi": "36x30x5 cm",
+      "max_berat": {
+        "global": 95
+      }
+    },
+    "spesifikasi": {
+      "material": "Premium Flowy Knit",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Dress",
+      "fitur_material": "Ringan,Lembut",
+      "fitur": "Set tunik & rok",
+      "fitur_array": [
+        "Set tunik & rok"
+      ],
+      "collar": "Mandarin",
+      "lengan": "Panjang Regular",
+      "adjustable": true,
+      "pocket": true,
+      "pocket_detail": "Hidden kanan",
+      "closure": "Front Zipper",
+      "modesty": true,
+      "concept": "Tunic Set Elegant",
+      "care": "Cuci lembut"
+    },
+    "penggunaan": {
+      "aktivitas": "Umroh,Haji,Hangout,Party",
+      "aktivitas_array": [
+        "Umroh",
+        "Haji",
+        "Hangout",
+        "Party"
+      ],
+      "audience": "Hijaber aktif,Fashionista,Traveler",
+      "audience_array": [
+        "Hijaber aktif",
+        "Fashionista",
+        "Traveler"
+      ],
+      "occasion": "Formal to Semi Formal",
+      "occasion_array": [
+        "Formal to Semi Formal"
+      ]
+    },
+    "meta": {
+      "season": "Dingin,Sejuk",
+      "persona": "Feminime Romantic",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": false
+      },
+      "gender_target": "Wanita",
+      "release_year": "2025",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 2,
+      "size_count": 1,
+      "product_type": "Tunic & Skirt",
+      "weight_category": "Light Dress",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hj lubna tunic & skirt hj clothing premium flowy knit tunic set elegant feminime romantic",
+      "tags": {
+        "style": [
+          "Tunic Set Elegant",
+          "Feminime Romantic"
+        ],
+        "features": [
+          "Set tunik & rok"
+        ],
+        "occasions": [
+          "Formal to Semi Formal"
+        ],
+        "target_groups": [
+          "Hijaber aktif",
+          "Fashionista",
+          "Traveler"
+        ],
+        "materials": [
+          "Premium Flowy Knit"
+        ],
+        "colors": [
+          "Brownie (Coklat keemasan)",
+          "Enigma (Ungu lavender)"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "premium",
+        "versatility_score": 1,
+        "feature_richness": 1,
+        "target_specificity": 3
+      }
+    }
+  },
+  {
+    "product_id": "HJ-MASK",
+    "sku": "HMA-BSR",
+    "brand": "HJ",
+    "nama_produk": "HJ Mask",
+    "kategori": "Mask",
+    "sub_kategori": "HJ Accessories",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Masker stylish & hijab-friendly.",
+    "deskripsi_lengkap": "HJ Mask dua lapis, bisa dicuci, dengan earloop/headloop nyaman.",
+    "harga_normal": 36000,
+    "harga_promo": 28800,
+    "variasi": {
+      "warna": "Black,Khaky,Lavender,Marigold,Maroon,Navy,Olive",
+      "warna_rekomendasi": "Black,Lavender,Khaky",
+      "warna_array": [
+        "Black",
+        "Khaky",
+        "Lavender",
+        "Marigold",
+        "Maroon",
+        "Navy",
+        "Olive"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "2 lapis, earloop/headloop",
+      "tipe_ukuran": "All Size",
+      "berat": 30,
+      "dimensi": "8x12x2 cm"
+    },
+    "spesifikasi": {
+      "material": "Knit Stretch 2 Lapis",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Accessories",
+      "fitur_material": "Breathable",
+      "fitur": "Earloop & Headloop",
+      "fitur_array": [
+        "Earloop & Headloop"
+      ],
+      "collar": "-",
+      "lengan": "-",
+      "adjustable": true,
+      "pocket": false,
+      "closure": "Elastic strap",
+      "modesty": true,
+      "concept": "Hijab-Friendly Mask",
+      "care": "Cuci harian"
+    },
+    "penggunaan": {
+      "aktivitas": "Traveling,Ibadah,Daily",
+      "aktivitas_array": [
+        "Traveling",
+        "Ibadah",
+        "Daily"
+      ],
+      "audience": "Hijaber aktif",
+      "audience_array": [
+        "Hijaber aktif"
+      ],
+      "occasion": "Luar rumah,Perjalanan",
+      "occasion_array": [
+        "Luar rumah",
+        "Perjalanan"
+      ]
+    },
+    "meta": {
+      "season": "Semua musim",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Sisi Kiri"
+      },
+      "gender_target": "Wanita",
+      "release_year": "2023",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 7,
+      "size_count": 1,
+      "product_type": "Mask",
+      "weight_category": "Light Accessories",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": false
+    },
+    "ai_optimization": {
+      "search_keywords": "hj mask mask hj accessories knit stretch 2 lapis hijab-friendly mask",
+      "tags": {
+        "style": [
+          "Hijab-Friendly Mask"
+        ],
+        "features": [
+          "Earloop & Headloop"
+        ],
+        "occasions": [
+          "Luar rumah",
+          "Perjalanan"
+        ],
+        "target_groups": [
+          "Hijaber aktif"
+        ],
+        "materials": [
+          "Knit Stretch 2 Lapis"
+        ],
+        "colors": [
+          "Black",
+          "Khaky",
+          "Lavender",
+          "Marigold",
+          "Maroon",
+          "Navy",
+          "Olive"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "budget",
+        "versatility_score": 2,
+        "feature_richness": 1,
+        "target_specificity": 1
+      }
+    }
+  },
+  {
+    "product_id": "HJ-MAYMA",
+    "sku": "HHI-MYM",
+    "brand": "HJ",
+    "nama_produk": "HJ Jilbab Mayma",
+    "kategori": "Hijab",
+    "sub_kategori": "HJ Accessories",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Hijab square premium syar’i.",
+    "deskripsi_lengkap": "HJ Mayma berbahan ultrafine voal, adem dan tidak tembus pandang.",
+    "harga_normal": 149000,
+    "harga_promo": 119200,
+    "variasi": {
+      "warna": "Black,Maroon,Mocca,Sage,Sand,Silcream",
+      "warna_rekomendasi": "Black,Mocca,Sage",
+      "warna_array": [
+        "Black",
+        "Maroon",
+        "Mocca",
+        "Sage",
+        "Sand",
+        "Silcream"
+      ],
+      "ukuran": "115 x 115 cm",
+      "ukuran_array": [
+        "115 x 115 cm"
+      ],
+      "tipe_ukuran": "All Size",
+      "berat": 114,
+      "dimensi": "20x20x2 cm"
+    },
+    "spesifikasi": {
+      "material": "HJ Ultrafine Voal",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Accessories",
+      "fitur_material": "Ringan,Tidak Mudah Kusut",
+      "fitur": "Double layer anti tembus",
+      "fitur_array": [
+        "Double layer anti tembus"
+      ],
+      "collar": "-",
+      "lengan": "-",
+      "adjustable": false,
+      "pocket": false,
+      "closure": "-",
+      "modesty": true,
+      "concept": "Simple Syar’i Formal",
+      "care": "Cuci manual,hindari setrika panas"
+    },
+    "penggunaan": {
+      "aktivitas": "Formal,Hangout,Santai",
+      "aktivitas_array": [
+        "Formal",
+        "Hangout",
+        "Santai"
+      ],
+      "audience": "Traveler,Hijaber casual chic",
+      "audience_array": [
+        "Traveler",
+        "Hijaber casual chic"
+      ],
+      "occasion": "Harian,Event Muslimah",
+      "occasion_array": [
+        "Harian",
+        "Event Muslimah"
+      ]
+    },
+    "meta": {
+      "season": "Semua musim",
+      "flags": {
+        "ukuran_relevan": false,
+        "fitting_required": false,
+        "berat_berpengaruh": false
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Ujung Kerudung (Besi)"
+      },
+      "gender_target": "Wanita",
+      "release_year": "2025",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 6,
+      "size_count": 1,
+      "product_type": "Hijab",
+      "weight_category": "Light Accessories",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": false
+    },
+    "ai_optimization": {
+      "search_keywords": "hj jilbab mayma hijab hj accessories hj ultrafine voal simple syar’i formal",
+      "tags": {
+        "style": [
+          "Simple Syar’i Formal"
+        ],
+        "features": [
+          "Double layer anti tembus"
+        ],
+        "occasions": [
+          "Harian",
+          "Event Muslimah"
+        ],
+        "target_groups": [
+          "Traveler",
+          "Hijaber casual chic"
+        ],
+        "materials": [
+          "HJ Ultrafine Voal"
+        ],
+        "colors": [
+          "Black",
+          "Maroon",
+          "Mocca",
+          "Sage",
+          "Sand",
+          "Silcream"
+        ],
+        "sizes": [
+          "115 x 115 cm"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "budget",
+        "versatility_score": 2,
+        "feature_richness": 1,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-MECCA-MEN",
+    "sku": "HCL-TSH-MCA",
+    "brand": "HJ",
+    "nama_produk": "HJ Mecca Men",
+    "kategori": "Jacket",
+    "sub_kategori": "HJ Clothing",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Jaket muslim pria simpel dan elegan.",
+    "deskripsi_lengkap": "HJ Mecca Men cocok untuk ibadah dan traveling. Potongan clean dan rapi.",
+    "harga_normal": 429000,
+    "harga_promo": 343200,
+    "variasi": {
+      "warna": "Dessert Sand (Ivory),Midnight Dune (Black)",
+      "warna_rekomendasi": "Midnight Dune (Black)",
+      "warna_array": [
+        "Dessert Sand (Ivory)",
+        "Midnight Dune (Black)"
+      ],
+      "ukuran": "L,XL,M",
+      "ukuran_array": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "detail": "LD/L.Bahu: M:108/44, L: 114/46, XL: 118/48; PB M/L/XL: 44/46/48 ",
+      "tipe_ukuran": "Graded",
+      "berat": 627
+    },
+    "spesifikasi": {
+      "material": "Premium Arabian Twill",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Tops",
+      "fitur_material": "Ringan,Tidak Mudah Kusut",
+      "fitur": "Long Sleeve Shirt wudhu friendly,pleat details",
+      "fitur_array": [
+        "Long Sleeve Shirt wudhu friendly",
+        "pleat details"
+      ],
+      "collar": "Round",
+      "lengan": "Panjang Regular",
+      "adjustable": false,
+      "pocket": true,
+      "pocket_detail": "Left Front",
+      "closure": "Front Button",
+      "modesty": true,
+      "concept": "Simple Modest Formal",
+      "care": "Cuci lembut,setrika suhu rendah"
+    },
+    "penggunaan": {
+      "aktivitas": "Umroh,Haji,Hangout,Shalat Jumat",
+      "aktivitas_array": [
+        "Umroh",
+        "Haji",
+        "Hangout",
+        "Shalat Jumat"
+      ],
+      "audience": "Muslim pria traveler",
+      "audience_array": [
+        "Muslim pria traveler"
+      ],
+      "occasion": "Formal to Semi Formal",
+      "occasion_array": [
+        "Formal to Semi Formal"
+      ]
+    },
+    "meta": {
+      "season": "Dingin,Tropis",
+      "persona": "Classic Elegant",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Atas Kiri"
+      },
+      "gender_target": "Pria",
+      "release_year": "2025",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 2,
+      "size_count": 3,
+      "product_type": "Jacket",
+      "weight_category": "Light Tops",
+      "has_size_variations": true,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hj mecca men jacket hj clothing premium arabian twill simple modest formal classic elegant",
+      "tags": {
+        "style": [
+          "Simple Modest Formal",
+          "Classic Elegant"
+        ],
+        "features": [
+          "Long Sleeve Shirt wudhu friendly",
+          "pleat details"
+        ],
+        "occasions": [
+          "Formal to Semi Formal"
+        ],
+        "target_groups": [
+          "Muslim pria traveler"
+        ],
+        "materials": [
+          "Premium Arabian Twill"
+        ],
+        "colors": [
+          "Dessert Sand (Ivory)",
+          "Midnight Dune (Black)"
+        ],
+        "sizes": [
+          "L",
+          "XL",
+          "M"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "mid",
+        "versatility_score": 1,
+        "feature_richness": 2,
+        "target_specificity": 1
+      }
+    }
+  },
+  {
+    "product_id": "HJ-MECCA-WOMEN",
+    "sku": "HCL-DRS-MCA",
+    "brand": "HJ",
+    "nama_produk": "HJ Mecca Women",
+    "kategori": "Jacket",
+    "sub_kategori": "HJ Clothing",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Jaket muslimah simpel dan ringan.",
+    "deskripsi_lengkap": "HJ Mecca Women stylish untuk keseharian syar’i dan adem dipakai.",
+    "harga_normal": 429000,
+    "harga_promo": 343200,
+    "variasi": {
+      "warna": "Dessert Sand (Ivory),Midnight Dune (Black)",
+      "warna_rekomendasi": "Dessert Sand (Ivory)",
+      "warna_array": [
+        "Dessert Sand (Ivory)",
+        "Midnight Dune (Black)"
+      ],
+      "ukuran": "L,XL,M",
+      "ukuran_array": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "detail": "LD L: 106, XL: 114, XXL: 122. PB: 140",
+      "tipe_ukuran": "Graded",
+      "berat": 708
+    },
+    "spesifikasi": {
+      "material": "Premium Arabian Twill",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Dress",
+      "fitur_material": "Ringan,Tidak Mudah Kusut",
+      "fitur": "Long dress wudhu friendly,pleat details",
+      "fitur_array": [
+        "Long dress wudhu friendly",
+        "pleat details"
+      ],
+      "collar": "Round",
+      "lengan": "Panjang Regular",
+      "adjustable": false,
+      "pocket": true,
+      "pocket_detail": "Right,Hidden",
+      "closure": "Front Zipper",
+      "modesty": true,
+      "concept": "Simple Syar’i Formal",
+      "care": "Cuci lembut,setrika suhu rendah"
+    },
+    "penggunaan": {
+      "aktivitas": "Umroh,Haji,Hangout",
+      "aktivitas_array": [
+        "Umroh",
+        "Haji",
+        "Hangout"
+      ],
+      "audience": "Hijaber traveler",
+      "audience_array": [
+        "Hijaber traveler"
+      ],
+      "occasion": "Everyday Wear,Formal to Semi Formal",
+      "occasion_array": [
+        "Everyday Wear",
+        "Formal to Semi Formal"
+      ]
+    },
+    "meta": {
+      "season": "Dingin,Sejuk",
+      "persona": "Classic Elegant",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": false
+      },
+      "gender_target": "Wanita",
+      "release_year": "2025",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 2,
+      "size_count": 3,
+      "product_type": "Jacket",
+      "weight_category": "Light Dress",
+      "has_size_variations": true,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hj mecca women jacket hj clothing premium arabian twill simple syar’i formal classic elegant",
+      "tags": {
+        "style": [
+          "Simple Syar’i Formal",
+          "Classic Elegant"
+        ],
+        "features": [
+          "Long dress wudhu friendly",
+          "pleat details"
+        ],
+        "occasions": [
+          "Everyday Wear",
+          "Formal to Semi Formal"
+        ],
+        "target_groups": [
+          "Hijaber traveler"
+        ],
+        "materials": [
+          "Premium Arabian Twill"
+        ],
+        "colors": [
+          "Dessert Sand (Ivory)",
+          "Midnight Dune (Black)"
+        ],
+        "sizes": [
+          "L",
+          "XL",
+          "M"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "mid",
+        "versatility_score": 2,
+        "feature_richness": 2,
+        "target_specificity": 1
+      }
+    }
+  },
+  {
+    "product_id": "HJ-MEDINA",
+    "sku": "HCL-DRS-MDN",
+    "brand": "HJ",
+    "nama_produk": "HJ Medina",
+    "kategori": "Dress",
+    "sub_kategori": "HJ Clothing",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Dress knit casual dan feminim.",
+    "deskripsi_lengkap": "HJ Medina cocok untuk ibadah, traveling, dan harian. Hadir dalam warna lembut.",
+    "harga_normal": 559000,
+    "harga_promo": 447200,
+    "variasi": {
+      "warna": "Black,Protabella",
+      "warna_rekomendasi": "Protabella",
+      "warna_array": [
+        "Black",
+        "Protabella"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "LD 120 cm, panjang 142 cm",
+      "tipe_ukuran": "All Size",
+      "berat": 720,
+      "dimensi": "35x27x6 cm",
+      "max_berat": {
+        "global": 95
+      }
+    },
+    "spesifikasi": {
+      "material": "Premium Knit",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Dress",
+      "fitur_material": "Hangat,Slim",
+      "fitur": "Long dress wudhu friendly",
+      "fitur_array": [
+        "Long dress wudhu friendly"
+      ],
+      "collar": "Round",
+      "lengan": "Regular",
+      "adjustable": true,
+      "pocket": true,
+      "pocket_detail": "Sisi",
+      "closure": "Front Zipper",
+      "modesty": true,
+      "concept": "Daily Long Dress",
+      "care": "Cuci ringan"
+    },
+    "penggunaan": {
+      "aktivitas": "Umroh,Haji,Ibadah",
+      "aktivitas_array": [
+        "Umroh",
+        "Haji",
+        "Ibadah"
+      ],
+      "audience": "Hijaber traveler,Muslimah ibadah-ready",
+      "audience_array": [
+        "Hijaber traveler",
+        "Muslimah ibadah-ready"
+      ],
+      "occasion": "Casual to Semi Formal,Everyday Wear,Traveling",
+      "occasion_array": [
+        "Casual to Semi Formal",
+        "Everyday Wear",
+        "Traveling"
+      ]
+    },
+    "meta": {
+      "season": "Dingin",
+      "persona": "Feminime Romantic",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": false
+      },
+      "gender_target": "Wanita",
+      "release_year": "2025",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 2,
+      "size_count": 1,
+      "product_type": "Dress",
+      "weight_category": "Light Dress",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hj medina dress hj clothing premium knit daily long dress feminime romantic",
+      "tags": {
+        "style": [
+          "Daily Long Dress",
+          "Feminime Romantic"
+        ],
+        "features": [
+          "Long dress wudhu friendly"
+        ],
+        "occasions": [
+          "Casual to Semi Formal",
+          "Everyday Wear",
+          "Traveling"
+        ],
+        "target_groups": [
+          "Hijaber traveler",
+          "Muslimah ibadah-ready"
+        ],
+        "materials": [
+          "Premium Knit"
+        ],
+        "colors": [
+          "Black",
+          "Protabella"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "premium",
+        "versatility_score": 3,
+        "feature_richness": 1,
+        "target_specificity": 2
+      }
+    }
+  },
+  {
+    "product_id": "HJ-NURA",
+    "sku": "HCL-VST-NUR",
+    "brand": "HJ",
+    "nama_produk": "HJ Nura",
+    "kategori": "Vest",
+    "sub_kategori": "HJ Clothing",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Modest vest bordir premium.",
+    "deskripsi_lengkap": "HJ Nura cocok untuk office look dan outfit semi-formal muslimah.",
+    "harga_normal": 399000,
+    "harga_promo": 319200,
+    "variasi": {
+      "warna": "Sage",
+      "warna_rekomendasi": "Sage",
+      "warna_array": [
+        "Sage"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "LD 120 cm, Panjang 80 cm",
+      "tipe_ukuran": "All Size",
+      "berat": 500,
+      "dimensi": "32x25x4 cm",
+      "max_berat": {
+        "global": 90
+      }
+    },
+    "spesifikasi": {
+      "material": "Bordir Premium",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Outer",
+      "fitur_material": "Ringan,Stylish",
+      "fitur": "Vest fit,Elegant layer",
+      "fitur_array": [
+        "Vest fit",
+        "Elegant layer"
+      ],
+      "collar": "V Neck",
+      "lengan": "-",
+      "adjustable": true,
+      "pocket": false,
+      "closure": "Double Front Button",
+      "modesty": true,
+      "concept": "Muslimah Vest",
+      "care": "Cuci manual"
+    },
+    "penggunaan": {
+      "aktivitas": "Daily Outfit,Office Look",
+      "aktivitas_array": [
+        "Daily Outfit",
+        "Office Look"
+      ],
+      "audience": "Hijaber profesional",
+      "audience_array": [
+        "Hijaber profesional"
+      ],
+      "occasion": "Everyday Wear,Formal to Semi Formal",
+      "occasion_array": [
+        "Everyday Wear",
+        "Formal to Semi Formal"
+      ]
+    },
+    "meta": {
+      "season": "Sejuk,Indoor",
+      "persona": "Classic Elegant",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": false
+      },
+      "gender_target": "Wanita",
+      "release_year": "2025",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 1,
+      "size_count": 1,
+      "product_type": "Vest",
+      "weight_category": "Light Outer",
+      "has_size_variations": false,
+      "has_color_variations": false,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hj nura vest hj clothing bordir premium muslimah vest classic elegant",
+      "tags": {
+        "style": [
+          "Muslimah Vest",
+          "Classic Elegant"
+        ],
+        "features": [
+          "Vest fit",
+          "Elegant layer"
+        ],
+        "occasions": [
+          "Everyday Wear",
+          "Formal to Semi Formal"
+        ],
+        "target_groups": [
+          "Hijaber profesional"
+        ],
+        "materials": [
+          "Bordir Premium"
+        ],
+        "colors": [
+          "Sage"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "mid",
+        "versatility_score": 2,
+        "feature_richness": 2,
+        "target_specificity": 1
+      }
+    }
+  },
+  {
+    "product_id": "HJ-PARFUM-3",
+    "sku": "HPA-BN-3",
+    "brand": "HJ",
+    "nama_produk": "HJ Parfum (3 ML)",
+    "kategori": "Parfum",
+    "sub_kategori": "HJ Fragnance",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Mini parfum praktis untuk gift.",
+    "deskripsi_lengkap": "HJ Parfum 3ml travel size, cocok untuk tester atau hadiah.",
+    "harga_normal": 14900,
+    "harga_promo": 11920,
+    "variasi": {
+      "warna": "Bloom Noir,Petal Whisper",
+      "warna_rekomendasi": "Petal Whisper",
+      "warna_array": [
+        "Bloom Noir",
+        "Petal Whisper"
+      ],
+      "ukuran": "3 ml",
+      "ukuran_array": [
+        "3 ml"
+      ],
+      "detail": "Botol kecil gift pack",
+      "tipe_ukuran": "Non-wearable",
+      "berat": 20,
+      "dimensi": "6x2x2 cm"
+    },
+    "spesifikasi": {
+      "material": "Essential Oil",
+      "komposisi": "Bloom Noir / Petal Whisper",
+      "fitur_material": "Aroma Soft Elegant",
+      "fitur": "Mini roll-on 3ml",
+      "fitur_array": [
+        "Mini roll-on 3ml"
+      ],
+      "collar": "-",
+      "lengan": "-",
+      "adjustable": false,
+      "pocket": false,
+      "closure": "Roll-on",
+      "modesty": true,
+      "concept": "Mini Perfume,Travel Friendly",
+      "care": "Simpan suhu ruang"
+    },
+    "penggunaan": {
+      "aktivitas": "Daily,Hadiah",
+      "aktivitas_array": [
+        "Daily",
+        "Hadiah"
+      ],
+      "audience": "Muslimah modern",
+      "audience_array": [
+        "Muslimah modern"
+      ],
+      "occasion": "Gift,Test use",
+      "occasion_array": [
+        "Gift",
+        "Test use"
+      ]
+    },
+    "meta": {
+      "season": "Semua musim",
+      "flags": {
+        "ukuran_relevan": false,
+        "fitting_required": false,
+        "berat_berpengaruh": false
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Kaca Depan"
+      },
+      "gender_target": "Unisex",
+      "release_year": "2025",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 2,
+      "size_count": 1,
+      "product_type": "Parfum",
+      "weight_category": "unknown",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": false
+    },
+    "ai_optimization": {
+      "search_keywords": "hj parfum (3 ml) parfum hj fragnance essential oil mini perfume,travel friendly",
+      "tags": {
+        "style": [
+          "Mini Perfume,Travel Friendly"
+        ],
+        "features": [
+          "Mini roll-on 3ml"
+        ],
+        "occasions": [
+          "Gift",
+          "Test use"
+        ],
+        "target_groups": [
+          "Muslimah modern"
+        ],
+        "materials": [
+          "Essential Oil"
+        ],
+        "colors": [
+          "Bloom Noir",
+          "Petal Whisper"
+        ],
+        "sizes": [
+          "3 ml"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "budget",
+        "versatility_score": 2,
+        "feature_richness": 1,
+        "target_specificity": 1
+      }
+    }
+  },
+  {
+    "product_id": "HJ-PARFUM-35",
+    "sku": "HPA-BN-35",
+    "brand": "HJ",
+    "nama_produk": "HJ Parfum (35 ML)",
+    "kategori": "Parfum",
+    "sub_kategori": "HJ Fragnance",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Parfum elegan tahan lama.",
+    "deskripsi_lengkap": "HJ Parfum hadir dalam varian Bloom Noir & Petal Whisper. Botol kaca mewah 35ml.",
+    "harga_normal": 149000,
+    "harga_promo": 119200,
+    "variasi": {
+      "warna": "Bloom Noir,Petal Whisper",
+      "warna_rekomendasi": "Petal Whisper",
+      "warna_array": [
+        "Bloom Noir",
+        "Petal Whisper"
+      ],
+      "ukuran": "35 ml",
+      "ukuran_array": [
+        "35 ml"
+      ],
+      "detail": "Botol kaca tebal + box",
+      "tipe_ukuran": "Non-wearable",
+      "berat": 160,
+      "dimensi": "12x4x4 cm"
+    },
+    "spesifikasi": {
+      "material": "Essential Oil",
+      "komposisi": "Bloom Noir / Petal Whisper",
+      "fitur_material": "Aroma tahan lama",
+      "fitur": "Botol kaca 35ml + Box",
+      "fitur_array": [
+        "Botol kaca 35ml + Box"
+      ],
+      "collar": "-",
+      "lengan": "-",
+      "adjustable": false,
+      "pocket": false,
+      "closure": "Spray Pump",
+      "modesty": true,
+      "concept": "Premium Muslimah Fragrance",
+      "care": "Simpan di tempat sejuk"
+    },
+    "penggunaan": {
+      "aktivitas": "Traveling,Acara Spesial",
+      "aktivitas_array": [
+        "Traveling",
+        "Acara Spesial"
+      ],
+      "audience": "Hijaber profesional",
+      "audience_array": [
+        "Hijaber profesional"
+      ],
+      "occasion": "Luxury presence",
+      "occasion_array": [
+        "Luxury presence"
+      ]
+    },
+    "meta": {
+      "season": "Siang & Malam",
+      "flags": {
+        "ukuran_relevan": false,
+        "fitting_required": false,
+        "berat_berpengaruh": false
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Kaca Depan"
+      },
+      "gender_target": "Unisex",
+      "release_year": "2025",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 2,
+      "size_count": 1,
+      "product_type": "Parfum",
+      "weight_category": "unknown",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hj parfum (35 ml) parfum hj fragnance essential oil premium muslimah fragrance",
+      "tags": {
+        "style": [
+          "Premium Muslimah Fragrance"
+        ],
+        "features": [
+          "Botol kaca 35ml + Box"
+        ],
+        "occasions": [
+          "Luxury presence"
+        ],
+        "target_groups": [
+          "Hijaber profesional"
+        ],
+        "materials": [
+          "Essential Oil"
+        ],
+        "colors": [
+          "Bloom Noir",
+          "Petal Whisper"
+        ],
+        "sizes": [
+          "35 ml"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "budget",
+        "versatility_score": 1,
+        "feature_richness": 1,
+        "target_specificity": 1
+      }
+    }
+  },
+  {
+    "product_id": "HJ-SHADE-HAT",
+    "sku": "HHA-SS",
+    "brand": "HJ",
+    "nama_produk": "HJ Signature Shade Hat",
+    "kategori": "Hat",
+    "sub_kategori": "HJ Accessories",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Topi hijaber pelindung UV.",
+    "deskripsi_lengkap": "HJ Shade Hat dengan logo Hijacket dan desain klasik, cocok untuk hangout.",
+    "harga_normal": 150000,
+    "harga_promo": 120000,
+    "variasi": {
+      "warna": "Black,Palestine",
+      "warna_rekomendasi": "Palestine",
+      "warna_array": [
+        "Black",
+        "Palestine"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "Twill cotton, adjustable strap",
+      "tipe_ukuran": "All Size",
+      "berat": 120,
+      "dimensi": "20x20x10 cm"
+    },
+    "spesifikasi": {
+      "material": "Twill Cotton Premium",
+      "komposisi": "-",
+      "fitur_material": "Lembut,UV Protection",
+      "fitur": "Adjustable strap",
+      "fitur_array": [
+        "Adjustable strap"
+      ],
+      "collar": "-",
+      "lengan": "-",
+      "adjustable": true,
+      "pocket": false,
+      "closure": "Adjustable strap",
+      "modesty": true,
+      "concept": "Casual Hijaber Hat",
+      "care": "Lap kering atau cuci tangan"
+    },
+    "penggunaan": {
+      "aktivitas": "Traveling,Hangout",
+      "aktivitas_array": [
+        "Traveling",
+        "Hangout"
+      ],
+      "audience": "Hijaber traveler",
+      "audience_array": [
+        "Hijaber traveler"
+      ],
+      "occasion": "Daily outdoor",
+      "occasion_array": [
+        "Daily outdoor"
+      ]
+    },
+    "meta": {
+      "season": "Panas",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Depan Topi (Bordir)"
+      },
+      "gender_target": "Unisex",
+      "release_year": "2023",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 2,
+      "size_count": 1,
+      "product_type": "Hat",
+      "weight_category": "unknown",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hj signature shade hat hat hj accessories twill cotton premium casual hijaber hat",
+      "tags": {
+        "style": [
+          "Casual Hijaber Hat"
+        ],
+        "features": [
+          "Adjustable strap"
+        ],
+        "occasions": [
+          "Daily outdoor"
+        ],
+        "target_groups": [
+          "Hijaber traveler"
+        ],
+        "materials": [
+          "Twill Cotton Premium"
+        ],
+        "colors": [
+          "Black",
+          "Palestine"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "budget",
+        "versatility_score": 1,
+        "feature_richness": 1,
+        "target_specificity": 1
+      }
+    }
+  },
+  {
+    "product_id": "HJ-SOCKS-ANTI-SLIP-THUMB",
+    "sku": "HSO-SAT",
+    "brand": "HJ",
+    "nama_produk": "HJ Sock Antislip Thumb",
+    "kategori": "Socks",
+    "sub_kategori": "HJ Accessories",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Kaos kaki jempol dengan sol anti slip.",
+    "deskripsi_lengkap": "HJ Antislip Thumb cocok untuk aktivitas indoor dan outdoor muslimah.",
+    "harga_normal": 40000,
+    "harga_promo": 32000,
+    "variasi": {
+      "warna": "Black,Beige",
+      "warna_rekomendasi": "Beige",
+      "warna_array": [
+        "Black",
+        "Beige"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "Thumb split, silikon anti-slip",
+      "tipe_ukuran": "All Size",
+      "berat": 90,
+      "dimensi": "12x10x3 cm"
+    },
+    "spesifikasi": {
+      "material": "Knit Elastis",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Accessories",
+      "fitur_material": "Thumb Hole + Silikon",
+      "fitur": "Antislip,Tidak Geser",
+      "fitur_array": [
+        "Antislip",
+        "Tidak Geser"
+      ],
+      "collar": "-",
+      "lengan": "-",
+      "adjustable": true,
+      "pocket": false,
+      "closure": "-",
+      "modesty": true,
+      "concept": "Daily Muslimah Socks",
+      "care": "Cuci ringan"
+    },
+    "penggunaan": {
+      "aktivitas": "Indoor,Jalan di lantai licin",
+      "aktivitas_array": [
+        "Indoor",
+        "Jalan di lantai licin"
+      ],
+      "audience": "Hijaber aktif",
+      "audience_array": [
+        "Hijaber aktif"
+      ],
+      "occasion": "Indoor sport,Aktivitas rumah",
+      "occasion_array": [
+        "Indoor sport",
+        "Aktivitas rumah"
+      ]
+    },
+    "meta": {
+      "season": "Semua musim",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Punggung Kaki"
+      },
+      "gender_target": "Wanita",
+      "release_year": "2025",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 2,
+      "size_count": 1,
+      "product_type": "Socks",
+      "weight_category": "Light Accessories",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": false
+    },
+    "ai_optimization": {
+      "search_keywords": "hj sock antislip thumb socks hj accessories knit elastis daily muslimah socks",
+      "tags": {
+        "style": [
+          "Daily Muslimah Socks"
+        ],
+        "features": [
+          "Antislip",
+          "Tidak Geser"
+        ],
+        "occasions": [
+          "Indoor sport",
+          "Aktivitas rumah"
+        ],
+        "target_groups": [
+          "Hijaber aktif"
+        ],
+        "materials": [
+          "Knit Elastis"
+        ],
+        "colors": [
+          "Black",
+          "Beige"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "budget",
+        "versatility_score": 2,
+        "feature_richness": 2,
+        "target_specificity": 1
+      }
+    }
+  },
+  {
+    "product_id": "HJ-SOCKS-ANTI-SLIP-WUDHU",
+    "sku": "HSO-SAW",
+    "brand": "HJ",
+    "nama_produk": "HJ Sock Antislip Wudhu",
+    "kategori": "Socks",
+    "sub_kategori": "HJ Accessories",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Kaos kaki anti slip dengan bukaan wudhu.",
+    "deskripsi_lengkap": "HJ Sock ini praktis saat ibadah, bagian jari terbuka dan tumit tertutup.",
+    "harga_normal": 44000,
+    "harga_promo": 32000,
+    "variasi": {
+      "warna": "Black,Beige",
+      "warna_rekomendasi": "Black",
+      "warna_array": [
+        "Black",
+        "Beige"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "Desain jari terbuka, anti-slip",
+      "tipe_ukuran": "All Size",
+      "berat": 90,
+      "dimensi": "12x10x3 cm"
+    },
+    "spesifikasi": {
+      "material": "Knit Elastis",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Accessories",
+      "fitur_material": "Jempol Terbuka,Silikon",
+      "fitur": "Antislip,Praktis Wudhu",
+      "fitur_array": [
+        "Antislip",
+        "Praktis Wudhu"
+      ],
+      "collar": "-",
+      "lengan": "-",
+      "adjustable": true,
+      "pocket": false,
+      "closure": "-",
+      "modesty": true,
+      "concept": "Functional Socks",
+      "care": "Cuci ringan"
+    },
+    "penggunaan": {
+      "aktivitas": "Umroh,Haji,Ibadah",
+      "aktivitas_array": [
+        "Umroh",
+        "Haji",
+        "Ibadah"
+      ],
+      "audience": "Hijaber traveler",
+      "audience_array": [
+        "Hijaber traveler"
+      ],
+      "occasion": "Ibadah,Wudhu",
+      "occasion_array": [
+        "Ibadah",
+        "Wudhu"
+      ]
+    },
+    "meta": {
+      "season": "Dingin,Sejuk",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Punggung Kaki"
+      },
+      "gender_target": "Wanita",
+      "release_year": "2025",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 27,
+      "is_on_sale": true,
+      "color_count": 2,
+      "size_count": 1,
+      "product_type": "Socks",
+      "weight_category": "Light Accessories",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hj sock antislip wudhu socks hj accessories knit elastis functional socks",
+      "tags": {
+        "style": [
+          "Functional Socks"
+        ],
+        "features": [
+          "Antislip",
+          "Praktis Wudhu"
+        ],
+        "occasions": [
+          "Ibadah",
+          "Wudhu"
+        ],
+        "target_groups": [
+          "Hijaber traveler"
+        ],
+        "materials": [
+          "Knit Elastis"
+        ],
+        "colors": [
+          "Black",
+          "Beige"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "budget",
+        "versatility_score": 2,
+        "feature_richness": 2,
+        "target_specificity": 1
+      }
+    }
+  },
+  {
+    "product_id": "HJ-SOCKS-BASIC-THUMB",
+    "sku": "HSO-SBT",
+    "brand": "HJ",
+    "nama_produk": "HJ Sock Basic Thumb",
+    "kategori": "Socks",
+    "sub_kategori": "HJ Accessories",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Kaos kaki jempol terpisah elastis.",
+    "deskripsi_lengkap": "HJ Basic Thumb cocok untuk daily wear, mudah dicuci dan nyaman.",
+    "harga_normal": 30900,
+    "harga_promo": 24720,
+    "variasi": {
+      "warna": "White,Black,Beige,Brown",
+      "warna_rekomendasi": "Black,Brown",
+      "warna_array": [
+        "White",
+        "Black",
+        "Beige",
+        "Brown"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "Jempol terpisah, ringan",
+      "tipe_ukuran": "All Size",
+      "berat": 80,
+      "dimensi": "12x10x3 cm"
+    },
+    "spesifikasi": {
+      "material": "Rajut Elastis",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Accessories",
+      "fitur_material": "Thumb split,Lentur",
+      "fitur": "Kaos kaki jempol",
+      "fitur_array": [
+        "Kaos kaki jempol"
+      ],
+      "collar": "-",
+      "lengan": "-",
+      "adjustable": false,
+      "pocket": false,
+      "closure": "-",
+      "modesty": true,
+      "concept": "Modest Socks",
+      "care": "Cuci manual"
+    },
+    "penggunaan": {
+      "aktivitas": "Traveling,Daily Outfit",
+      "aktivitas_array": [
+        "Traveling",
+        "Daily Outfit"
+      ],
+      "audience": "Hijaber aktif",
+      "audience_array": [
+        "Hijaber aktif"
+      ],
+      "occasion": "Harian",
+      "occasion_array": [
+        "Harian"
+      ]
+    },
+    "meta": {
+      "season": "Tropis",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Punggung Kaki"
+      },
+      "gender_target": "Wanita",
+      "release_year": "2025",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 4,
+      "size_count": 1,
+      "product_type": "Socks",
+      "weight_category": "Light Accessories",
+      "has_size_variations": false,
+      "has_color_variations": true,
+      "is_seasonal": true
+    },
+    "ai_optimization": {
+      "search_keywords": "hj sock basic thumb socks hj accessories rajut elastis modest socks",
+      "tags": {
+        "style": [
+          "Modest Socks"
+        ],
+        "features": [
+          "Kaos kaki jempol"
+        ],
+        "occasions": [
+          "Harian"
+        ],
+        "target_groups": [
+          "Hijaber aktif"
+        ],
+        "materials": [
+          "Rajut Elastis"
+        ],
+        "colors": [
+          "White",
+          "Black",
+          "Beige",
+          "Brown"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "budget",
+        "versatility_score": 1,
+        "feature_richness": 1,
+        "target_specificity": 1
+      }
+    }
+  },
+  {
+    "product_id": "HJ-SOCKS-CLASSIC-REGULER",
+    "sku": "HSO-SCR",
+    "brand": "HJ",
+    "nama_produk": "HJ Sock Classic Regular",
+    "kategori": "Socks",
+    "sub_kategori": "HJ Accessories",
+    "status": "New Arrival",
+    "deskripsi_singkat": "Kaos kaki wudhu-friendly dengan logo Hijacket.",
+    "deskripsi_lengkap": "HJ Sock Classic terbuat dari nylon lembut, desain elegan dan nyaman.",
+    "harga_normal": 70000,
+    "harga_promo": 56000,
+    "variasi": {
+      "warna": "Cream",
+      "warna_rekomendasi": "Cream",
+      "warna_array": [
+        "Cream"
+      ],
+      "ukuran": "All Size",
+      "ukuran_array": [
+        "All Size"
+      ],
+      "detail": "Wudhu-friendly, aksen logo",
+      "tipe_ukuran": "All Size",
+      "berat": 80,
+      "dimensi": "10x8x3 cm"
+    },
+    "spesifikasi": {
+      "material": "Nylon Premium",
+      "komposisi": "-",
+      "kategori_ketebalan": "Light Accessories",
+      "fitur_material": "Lembut,Wudhu Friendly",
+      "fitur": "Kaos kaki panjang logo Hijacket",
+      "fitur_array": [
+        "Kaos kaki panjang logo Hijacket"
+      ],
+      "collar": "-",
+      "lengan": "-",
+      "adjustable": false,
+      "pocket": false,
+      "closure": "-",
+      "modesty": true,
+      "concept": "Elegant Socks",
+      "care": "Cuci lembut"
+    },
+    "penggunaan": {
+      "aktivitas": "Traveling,Hangout",
+      "aktivitas_array": [
+        "Traveling",
+        "Hangout"
+      ],
+      "audience": "Hijaber aktif",
+      "audience_array": [
+        "Hijaber aktif"
+      ],
+      "occasion": "Wudhu,Daily fashion",
+      "occasion_array": [
+        "Wudhu",
+        "Daily fashion"
+      ]
+    },
+    "meta": {
+      "season": "Semua musim",
+      "flags": {
+        "ukuran_relevan": true,
+        "fitting_required": true,
+        "berat_berpengaruh": true
+      },
+      "branding": {
+        "has_logo": true,
+        "logo_position": "Atas Jari Kaki"
+      },
+      "gender_target": "Wanita",
+      "release_year": "2023",
+      "is_active": true
+    },
+    "computed": {
+      "price_discount_percentage": 20,
+      "is_on_sale": true,
+      "color_count": 1,
+      "size_count": 1,
+      "product_type": "Socks",
+      "weight_category": "Light Accessories",
+      "has_size_variations": false,
+      "has_color_variations": false,
+      "is_seasonal": false
+    },
+    "ai_optimization": {
+      "search_keywords": "hj sock classic regular socks hj accessories nylon premium elegant socks",
+      "tags": {
+        "style": [
+          "Elegant Socks"
+        ],
+        "features": [
+          "Kaos kaki panjang logo Hijacket"
+        ],
+        "occasions": [
+          "Wudhu",
+          "Daily fashion"
+        ],
+        "target_groups": [
+          "Hijaber aktif"
+        ],
+        "materials": [
+          "Nylon Premium"
+        ],
+        "colors": [
+          "Cream"
+        ],
+        "sizes": [
+          "All Size"
+        ]
+      },
+      "recommendation_factors": {
+        "price_range": "budget",
+        "versatility_score": 2,
+        "feature_richness": 1,
+        "target_specificity": 1
+      }
+    }
+  }
+]
